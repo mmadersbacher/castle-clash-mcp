@@ -632,13 +632,15 @@ def related(query: str) -> dict:
 
 @mcp.tool()
 def generate_build(hero: str, objective: str = "balanced", top: int = 5,
-                   talent_lvl: int = 10) -> dict:
-    """Rank talents for a hero by the numbers (build_score), for objective
-    'offense', 'ehp' or 'balanced'. Pure stat ranking → it does not model
-    conditional mechanics, so cross-check recommend_build for the caveats."""
+                   talent_lvl: int = 10, crest_level: int = 10) -> dict:
+    """Rank the talent and crest slots for a hero by the numbers (build_score),
+    for objective 'offense', 'ehp' or 'balanced', and return the best full build
+    (talent + crest scored together) plus the top options per slot. Pure stat
+    ranking → cross-check recommend_build for the capability caveats."""
     conn = _conn()
     try:
-        return generator.generate(conn, hero, objective=objective, top=top, talent_lvl=talent_lvl)
+        return generator.generate(conn, hero, objective=objective, top=top,
+                                  talent_lvl=talent_lvl, crest_level=crest_level)
     finally:
         conn.close()
 
