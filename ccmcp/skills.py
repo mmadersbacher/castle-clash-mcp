@@ -25,6 +25,25 @@ def skill_levels(query) -> dict:
             "levels": lv, "matches": [x["name_en"] for x in part[:5]] if len(part) > 1 else None}
 
 
+def skill_data(query) -> dict:
+    """Numeric per-level skill data from live_skill_data.json (426 skills, the
+    coefficients recovered from Skill.data): damage % of ATK, targets, duration,
+    effect %. Match by skill name or id."""
+    d = _load("live_skill_data.json") or {}
+    q = str(query).strip().lower()
+    hit = next((v for v in d.values()
+                if str(v.get("skill_id")) == q or str(v.get("name", "")).lower() == q), None)
+    if not hit and q:
+        hit = next((v for v in d.values() if q in str(v.get("name", "")).lower()), None)
+    if not hit:
+        return {"error": f"skill not found: {query}"}
+    lv = [{"lvl": L["lvl"], "damage_pct": L.get("damage_pct"), "targets": L.get("targets"),
+           "duration_s": L.get("duration_s"), "effect_pct": L.get("effect")}
+          for L in hit.get("levels", [])]
+    return {"skill": hit.get("name"), "id": hit.get("skill_id"), "max_lvl": hit.get("max_lvl"),
+            "level_count": len(lv), "levels": lv}
+
+
 def hero_totem(hero) -> Optional[dict]:
     tot = _load("hero_totem_skills.json") or []
     q = str(hero).strip().lower()

@@ -4,7 +4,7 @@ The knowledge-library view of a single hero, assembled from the verified sources
 """
 import html
 
-from . import rules, sources, statcalc, systems
+from . import rules, skills as skillmod, sources, statcalc, systems
 
 _GRADE_ORDER = {"Ordinary": 0, "Evo1": 1, "Evo2": 2, "Evo3": 3, "Evo4": 4}
 
@@ -77,6 +77,21 @@ def build(conn, hero: str) -> dict:
         main_skill = {"name": ms.get("name"), "scaling": descs[:10]}
     elif ms:
         main_skill = ms
+    if isinstance(main_skill, dict) and main_skill.get("name"):
+        sd = skillmod.skill_data(main_skill["name"])
+        dmg_levels = [L for L in sd.get("levels", []) if (L.get("damage_pct") or 0) > 0]
+        prog = []  # first progression run; a name maps to several form variants
+        for L in dmg_levels:
+            v = L["damage_pct"]
+            if prog and v < prog[-1]:
+                break  # a drop = the next form's block restarting, stop here
+            if not prog or prog[-1] != v:
+                prog.append(v)
+        if prog:
+            main_skill["damage_pct_by_level"] = prog[:15]
+            tgts = [L.get("targets") for L in dmg_levels if 0 < (L.get("targets") or 0) <= 12]
+            if tgts:
+                main_skill["targets"] = max(tgts)
 
     totem = hrec.get("totem_skill")
     if isinstance(totem, dict):

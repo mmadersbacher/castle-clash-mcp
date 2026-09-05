@@ -12,7 +12,7 @@ try:  # mcp >= 2 renamed FastMCP -> MCPServer (identical tool/run API)
 except ModuleNotFoundError:  # mcp < 2
     from mcp.server.fastmcp import FastMCP as _Server
 
-from . import calc, combat, db, dossier, gamedata, refresh, rules, sim, skills, sources, statcalc, systems
+from . import buildscore, calc, combat, db, dossier, gamedata, refresh, rules, sim, skills, sources, statcalc, systems
 
 mcp = _Server("castle-clash")
 
@@ -559,6 +559,61 @@ def hero_dossier(hero: str) -> dict:
     conn = _conn()
     try:
         return dossier.build(conn, hero)
+    finally:
+        conn.close()
+
+
+@mcp.tool()
+def skill_data(skill: str) -> dict:
+    """Numeric per-level data for a skill (from Skill.data): damage % of ATK,
+    targets, duration, effect %. 274 of 426 skills carry a real damage
+    coefficient. Use skill_damage to turn a % into an actual number."""
+    return skills.skill_data(skill)
+
+
+@mcp.tool()
+def skill_damage(skill: str, atk: float, skill_level: Optional[int] = None) -> dict:
+    """Exact skill damage for a given ATK, using the verified skill primitive
+    (ceil(damage% * ATK / 100), from docs/GAME_MATH.md). Defaults to the skill's
+    max level. Returns per-hit damage and the target count."""
+    d = skills.skill_data(skill)
+    if "error" in d:
+        return d
+    dmg_levels = [L for L in d["levels"] if (L.get("damage_pct") or 0) > 0]
+    if not dmg_levels:
+        return {"skill": d["skill"], "note": "this skill has no direct damage coefficient (buff/heal/CC)"}
+    row = None
+    if skill_level is not None:
+        row = next((L for L in dmg_levels if L["lvl"] == skill_level), None)
+    row = row or dmg_levels[-1]
+    per_hit = combat.skill_value(row["damage_pct"], atk)
+    return {
+        "skill": d["skill"], "skill_level": row["lvl"], "atk": atk,
+        "damage_pct": row["damage_pct"], "per_hit_damage": per_hit,
+        "targets": row["targets"],
+        "formula": "ceil(damage_pct * ATK / 100)",
+    }
+
+
+@mcp.tool()
+def build_score(hero: str, stars: int = 10, level: int = 200, evo: int = 0,
+                talent: Optional[str] = None, talent_lvl: int = 0,
+                loadout_json: str = "") -> dict:
+    """Grade a build by numbers without a fight: effective stats plus EHP
+    (tankiness) and an offense score (ATK x attacks/sec x average crit factor),
+    all from the verified combat math. loadout_json is the same shape
+    hero_stats_calc takes. Use it to compare builds on one hero."""
+    import json as _json
+    loadout = None
+    if loadout_json:
+        try:
+            loadout = _json.loads(loadout_json)
+        except ValueError:
+            return {"error": "loadout_json is not valid JSON"}
+    conn = _conn()
+    try:
+        return buildscore.score(conn, hero, stars=stars, level=level, evo=evo,
+                                talent=talent, talent_lvl=talent_lvl, loadout=loadout)
     finally:
         conn.close()
 
