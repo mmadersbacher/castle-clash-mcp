@@ -171,19 +171,22 @@ def compute(loadout: dict) -> dict:
                     tot[s] += c[s]
             parts.append({"source": label, **{k: v for k, v in c.items() if v}})
 
-    # global-level flat systems
+    # global-level flat systems — use the same validated lookup as total()
     if lo.get("inscription"):
-        add("inscription", _flat_lookup("inscription", lo["inscription"]))
+        add("inscription", _flat(FLAT_TABLES["inscription"], lo["inscription"]))
+    if lo.get("soularms"):
+        add("soularms", _flat(FLAT_TABLES["soularms"], lo["soularms"]))
+    if lo.get("soul"):
+        add("soul", _flat(FLAT_TABLES["soul"], lo["soul"]))
+    if lo.get("artifact"):
+        add("artifact", _flat(FLAT_TABLES["artifact"], lo["artifact"]))
+
     def _grouped(system, group, level, lv_key="Lv"):
         for r in _rows(system):
             if r.get("_group") == group and str(r.get(lv_key)) == str(level):
                 return {"Attack": _i(r.get("Attack")), "HP": _i(r.get("HP") or r.get("Hp")),
                         "Tenacity": _i(r.get("Tenacity"))}
         return {}
-    if lo.get("soularms"):
-        add("soularms", _grouped("soul", "soularms_levels", lo["soularms"]))
-    if lo.get("soul"):
-        add("soul", _grouped("soul", "soul_levels", lo["soul"]))
     if lo.get("pinnacle"):
         add("pinnacle", _grouped("breakthrough", "pinnacle_TopLevel", lo["pinnacle"]))
     if lo.get("relics"):
@@ -214,6 +217,12 @@ def compute(loadout: dict) -> dict:
         it = _sys.lookup("gear", g.get("name") if isinstance(g, dict) else g)
         if "error" not in it:
             add("gear", {"Attack": _i(it.get("Attack"))})
+    # documented flat-add systems (breakthrough, ...) from the RE stacking chain
+    from . import stacking
+    for part in stacking.documented(lo):
+        src = part.get("source")
+        add(src, {k: v for k, v in part.items() if k != "source"})
+
     # raw explicit bonuses (in-game system totals the user reads directly)
     bons = lo.get("bonuses") or {}
     _K = {"ATK": "Attack", "Attack": "Attack", "HP": "HP", "Crit": "Crit", "CRIT": "Crit",

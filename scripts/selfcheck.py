@@ -61,6 +61,21 @@ def main() -> int:
         if got != want:
             fails.append(f"{label}: got {got}, expected {want}")
 
+    # full-build stacking, validated against the real game (RE report sec 7)
+    FULL = {"Serratica": (603404, 8574, 597), "Michael": (359352, 4633, 597)}
+    for hero, want in FULL.items():
+        e = sc.calc(conn, hero, 10, 200, 0, talent="Tenacity", talent_lvl=10,
+                    inscription=10, soularms=10, soul=10)["effective"]
+        got = (e["HP"], e["Attack"], e["Dodge"])
+        if got != want:
+            fails.append(f"full-build {hero}: got {got}, expected {want}")
+
+    # documented-system fold: breakthrough L45 = +213,300 HP (RE curve)
+    base_hp = sc.calc(conn, "Serratica", 10, 200, 0)["effective"]["HP"]
+    bt_hp = sc.calc(conn, "Serratica", 10, 200, 0, loadout={"breakthrough": 45})["effective"]["HP"]
+    if bt_hp - base_hp != 213300:
+        fails.append(f"breakthrough L45 fold: +{bt_hp - base_hp} HP, expected +213300")
+
     # smoke-test the higher-level modules so a regression in them fails the gate
     try:
         from ccmcp import buildscore, crossref, dossier, generator

@@ -1,0 +1,238 @@
+{
+ "_meta": {
+  "title": "Castle Clash — complete stat-stacking chain (rulebook)",
+  "generated_from": "APK cc_data.zip -> live_curated/ + live_all_flat/ (English-resolved)",
+  "master_formula": "effective = base*(1 + sum(talent%)/100) + sum(flat system contributions)",
+  "base_formula": "base = perStar*Stars + inc*(Level-1)   [Hero.data, per evolution tier evo 0/1/2]",
+  "order_of_operations": [
+   "1. base HP/ATK = perStar*Stars + inc*(Level-1)  (from live_hero_master.json tiers).",
+   "2. multiply base by (1 + sum(talent%)/100)  -- talents/traits apply to BASE ONLY, additive among themselves.",
+   "3. ADD flat per-level system contributions (inscription, soularms, soul, ...).",
+   "4. derived stats: CRIT% = crit*10000/(crit+1000); CRIT dmg mult = 1.5 + critdmg*1e-4; dmg_reduce = 1 - stat*1e-4."
+  ],
+  "stat_field_glossary": {
+   "Tenacity": "CRIT Resist (game 坚韧; see ResTip 'CRIT Resist Boost')",
+   "Roquet": "raw ACC / hit stat",
+   "Hit_DMG": "crit/hit damage modifier",
+   "Crit": "raw CRIT stat -> CRIT% via crit*10000/(crit+1000)",
+   "Dodge": "raw dodge stat"
+  },
+  "validation": {
+   "method": "MCP hero_stats_calc, itself validated exact vs the user's real game.",
+   "VALIDATED_exact": {
+    "base_formula": "Serratica 10*/L200 -> 180695 HP / 7881 ATK",
+    "talent_on_base": "Serratica +230% HP trait -> 596294 HP (180695*3.30)",
+    "inscription": "ATK only, Lv10 -> +89 ATK",
+    "soularms": "ATK only, Lv10 -> +380 ATK",
+    "soul": "ATK+HP+Dodge, Lv10 -> +224 ATK / +7110 HP / +597 Dodge",
+    "full_build": "Serratica 603404 HP / 8574 ATK / 597 Dodge  == MCP == game (EXACT)",
+    "cross_hero": "Michael full build 359352 HP / 4633 ATK / 597 Dodge (EXACT)"
+   },
+   "DOCUMENTED_not_cross_validated": "crest, insignia, gear, breakthrough, holy, pet, destiny, faction -- extracted from live tables, application rule inferred; MCP accepts crest/gear params but does NOT fold them into stats yet."
+  }
+ },
+ "validated_systems": {
+  "inscription": {
+   "scope": "global",
+   "index_by": "level(1-200)",
+   "apply": "flat_add",
+   "mcp_applies": [
+    "Attack"
+   ],
+   "source": "live_curated/inscription.json",
+   "note": "table also carries Hp; MCP applies ATK only",
+   "curve_examples": {
+    "1": {
+     "Attack": 8,
+     "Hp": 100
+    },
+    "10": {
+     "Attack": 89,
+     "Hp": 1173
+    },
+    "200": {
+     "Attack": 9699,
+     "Hp": 128210
+    }
+   }
+  },
+  "soularms": {
+   "scope": "multi_series",
+   "index_by": "level(1-60), first canonical series",
+   "apply": "flat_add",
+   "mcp_applies": [
+    "Attack"
+   ],
+   "source": "live_curated/soularms.json",
+   "note": "multiple soularms items share levels; MCP-canonical = first series, Lv10 ATK 380",
+   "curve_examples": {
+    "1": {
+     "Attack": 20,
+     "Hp": 500
+    },
+    "10": {
+     "Attack": 380,
+     "Hp": 9500
+    },
+    "60": {
+     "Attack": 8280,
+     "Hp": 207000
+    }
+   }
+  },
+  "soul": {
+   "scope": "global",
+   "index_by": "level(1-60)",
+   "apply": "flat_add",
+   "mcp_applies": [
+    "Attack",
+    "HP",
+    "Dodge"
+   ],
+   "source": "live_curated/soul.json (Soul.xml 魂灵系统)",
+   "note": "also carries Tenacity/Crit/Roquet",
+   "curve_examples": {
+    "1": {
+     "Attack": 15,
+     "HP": 480,
+     "Tenacity": 35
+    },
+    "10": {
+     "Attack": 224,
+     "HP": 7110,
+     "Dodge": 597
+    },
+    "60": {
+     "Attack": 24436,
+     "HP": 781790,
+     "Crit": 1050
+    }
+   }
+  },
+  "talents": {
+   "scope": "trait",
+   "apply": "percent_of_base_additive",
+   "mcp_applies": [
+    "HP%",
+    "ATK%"
+   ],
+   "source": "MCP talent resolver + TD_HeroTalent.json (ability talents 'Base ATK +X%')",
+   "note": "trait % applies to BASE only; e.g. MCP talent 'Tenacity' L10 -> HP +230%"
+  }
+ },
+ "documented_systems": {
+  "breakthrough": {
+   "scope": "multi_series",
+   "apply": "flat_add",
+   "source": "live_curated/breakthrough_pinnacle.json (TopLevel.xml)",
+   "fields": [
+    "HP",
+    "Attack",
+    "Tenacity"
+   ],
+   "curve_examples": {
+    "1": {
+     "Attack": 6,
+     "HP": 180
+    },
+    "10": {
+     "HP": 12150,
+     "Tenacity": 30
+    },
+    "45": {
+     "HP": 213300,
+     "Tenacity": 120
+    }
+   }
+  },
+  "crest": {
+   "scope": "variant",
+   "index_by": "item name + level",
+   "apply": "flat_add + percent_skill",
+   "source": "live_curated/crest_equipment.json (Equipment.xml)",
+   "fields": [
+    "Hp",
+    "Attack"
+   ],
+   "note": "each crest variant also grants a % skill via SkillId (e.g. 'Tenacity Crest' -> +10% HP)"
+  },
+  "insignia": {
+   "scope": "variant",
+   "index_by": "item name + level",
+   "apply": "flat_add + percent_skill",
+   "source": "live_curated/insignia_runes.json (Runes.xml)",
+   "fields": [
+    "Hp",
+    "Attack"
+   ],
+   "note": "each insignia/rune variant also grants a % skill (e.g. 'Tenacity Insignia' -> +10% HP)"
+  },
+  "gear": {
+   "scope": "variant",
+   "index_by": "equip id + star/level",
+   "apply": "flat_add",
+   "source": "live_curated/gear_equipbase.json (EquipBase.xml)",
+   "fields": [
+    "HP(+HPGrow)",
+    "Attack(+AttackGrow)",
+    "Tenacity"
+   ]
+  },
+  "holy": {
+   "scope": "variant",
+   "index_by": "holy item + star",
+   "apply": "flat_add + passive_aura",
+   "source": "live_curated/holy.json (HeroHoly.xml)",
+   "fields": [
+    "Attack(+Grow)",
+    "HP(+Grow)",
+    "PassiveAttack/Tenacity aura"
+   ]
+  },
+  "pet": {
+   "scope": "variant",
+   "index_by": "pet + level/star",
+   "apply": "flat_add + pet_talent",
+   "source": "live_curated/pet_star.json + SuperPet.json",
+   "fields": [
+    "Attack",
+    "HP",
+    "Tenacity",
+    "Dodge",
+    "Crit",
+    "Roquet"
+   ]
+  },
+  "destiny": {
+   "scope": "global",
+   "index_by": "level(1-20)",
+   "apply": "flat_add",
+   "source": "live_all_flat/PandoraDice.json",
+   "fields": [
+    "Attack",
+    "HP",
+    "Dodge",
+    "Crit",
+    "Hit_DMG",
+    "Tenacity",
+    "Roquet"
+   ]
+  },
+  "faction": {
+   "scope": "global",
+   "index_by": "level",
+   "apply": "flat_add",
+   "source": "live_all_flat/Camp.json + CampStar.json",
+   "fields": [
+    "Attack",
+    "HP",
+    "Tenacity",
+    "Crit",
+    "Dodge",
+    "Hit_DMG",
+    "Roquet"
+   ],
+   "note": "applies to all heroes of that faction"
+  }
+ }
+}
