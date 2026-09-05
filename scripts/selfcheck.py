@@ -76,6 +76,11 @@ def main() -> int:
     if bt_hp - base_hp != 213300:
         fails.append(f"breakthrough L45 fold: +{bt_hp - base_hp} HP, expected +213300")
 
+    from ccmcp import stacking
+    f = stacking.faction("Oracle", 48)
+    if (f.get("Attack"), f.get("HP"), f.get("Dodge")) != (1080, 27000, 280):
+        fails.append(f"faction Oracle L48: {f}, expected 1080/27000/280")
+
     # smoke-test the higher-level modules so a regression in them fails the gate
     try:
         from ccmcp import buildscore, crossref, dossier, generator

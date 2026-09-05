@@ -37,9 +37,26 @@ def breakthrough(level: int) -> dict:
     return {"Attack": _i(r.get("Attack")), "HP": _i(r.get("HP")), "Tenacity": _i(r.get("Tenacity"))}
 
 
-# system name -> (loadout key, folding function taking the loadout value)
+_FACTION_STATS = ("Attack", "HP", "Tenacity", "Crit", "Dodge", "Hit_DMG")
+
+
+def faction(name: str, level: int) -> dict:
+    """Camp/faction flat bonus — applies to every hero of that faction at the
+    given faction level (Camp.xml, plain numeric). DERIVED: the data is clean and
+    the RE spec says flat_add, but there is no independent in-game oracle yet.
+    Oracle L48 = +1080 ATK / +27,000 HP / +48 Ten / +48 Crit / +280 Dodge."""
+    rows = _entries(_curated("camp_faction.json"))
+    r = next((x for x in rows
+              if str(x.get("grp_NameID_en", "")).lower() == str(name).lower()
+              and str(x.get("Lvl")) == str(level)), None)
+    if not r:
+        return {}
+    return {s: _i(r.get(s)) for s in _FACTION_STATS if _i(r.get(s))}
+
+
+# single-value systems: loadout key -> folding function taking the loadout value
 _SYSTEMS = {
-    "breakthrough": lambda v: breakthrough(v),
+    "breakthrough": breakthrough,
 }
 
 
@@ -54,4 +71,9 @@ def documented(loadout: dict) -> list:
             delta = {k: val for k, val in fn(v).items() if val}
             if delta:
                 parts.append({"source": name, **delta})
+    fac = lo.get("faction")
+    if isinstance(fac, dict) and fac.get("name") and fac.get("level"):
+        delta = faction(fac["name"], fac["level"])
+        if delta:
+            parts.append({"source": "faction", **delta})
     return parts
