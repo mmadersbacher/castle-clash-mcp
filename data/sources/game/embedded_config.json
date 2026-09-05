@@ -1,0 +1,12 @@
+{
+ "admob_app_id": "ca-app-pub-9883228183528023~4955450038",
+ "default_web_client_id": "263941879859-k1473r1b80p0vglrg4ls4484t8ufurid.apps.googleusercontent.com",
+ "facebook_app_id": "1401568290062011",
+ "firebase_database_url": "https://castle-clash-20180629.firebaseio.com",
+ "gcm_defaultSenderId": "263941879859",
+ "google_api_key": "AIzaSyBct5RO0jpzxLCpH80kIBwjkLPsvBQPbKo",
+ "google_app_id": "1:263941879859:android:320e6707209cd7fbc04b46",
+ "google_crash_reporting_api_key": "AIzaSyBct5RO0jpzxLCpH80kIBwjkLPsvBQPbKo",
+ "google_storage_bucket": "castle-clash-20180629.appspot.com",
+ "project_id": "castle-clash-20180629"
+}

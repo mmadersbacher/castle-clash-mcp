@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+data/*.sqlite
+data/*.sqlite-wal
+data/*.sqlite-shm
+data/scratch/
+data/sources/raw/
+data/sources/enriched/
+*.egg-info/

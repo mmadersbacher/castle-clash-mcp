@@ -1,0 +1,2285 @@
+[
+ {
+  "file": "Achievement.xml",
+  "root": "Achievement",
+  "zh": "成就配置",
+  "items": 94,
+  "attrs": []
+ },
+ {
+  "file": "ActivityUI.xml",
+  "root": "Config",
+  "zh": "活动中心界面配置表",
+  "items": 14,
+  "attrs": [
+   "ID",
+   "T1",
+   "Pic1",
+   "Pic2",
+   "Pic3",
+   "BG",
+   "Top",
+   "Tab1",
+   "Tab2"
+  ]
+ },
+ {
+  "file": "AdReward.xml",
+  "root": "AdReward",
+  "zh": "变现视频奖励配置表",
+  "items": 16,
+  "attrs": [
+   "ID",
+   "Comment",
+   "AdsNum",
+   "AdsTime"
+  ]
+ },
+ {
+  "file": "Appconf.xml",
+  "root": "root",
+  "zh": "",
+  "items": 4,
+  "attrs": []
+ },
+ {
+  "file": "ArenaRoad.xml",
+  "root": "Config",
+  "zh": "竞技场路线配置表",
+  "items": 3,
+  "attrs": [
+   "Type"
+  ]
+ },
+ {
+  "file": "Artifact.xml",
+  "root": "Config",
+  "zh": "神器升级配置",
+  "items": 2,
+  "attrs": [
+   "Type",
+   "ClearCon",
+   "ClearNum",
+   "Gem",
+   "NotAppear",
+   "Awake",
+   "Star"
+  ]
+ },
+ {
+  "file": "AttackRatio.xml",
+  "root": "Restraint",
+  "zh": "",
+  "items": 5,
+  "attrs": [
+   "AttackType",
+   "Comment"
+  ]
+ },
+ {
+  "file": "AvatarFrame.xml",
+  "root": "Config",
+  "zh": "头像框配置表",
+  "items": 38,
+  "attrs": [
+   "Id",
+   "Name",
+   "NameText",
+   "Access",
+   "AccessTextID",
+   "AccessText",
+   "Icon"
+  ]
+ },
+ {
+  "file": "BPitem.xml",
+  "root": "Config",
+  "zh": "BattlePass奖励",
+  "items": 4,
+  "attrs": [
+   "Class"
+  ]
+ },
+ {
+  "file": "BPtask.xml",
+  "root": "Config",
+  "zh": "BP任务",
+  "items": 3,
+  "attrs": [
+   "Classify"
+  ]
+ },
+ {
+  "file": "BattlePass.xml",
+  "root": "Config",
+  "zh": "新赛季功能基础配置",
+  "items": 151,
+  "attrs": [
+   "PointSection"
+  ]
+ },
+ {
+  "file": "BattlePassTask.xml",
+  "root": "Task",
+  "zh": "支线任务",
+  "items": 8,
+  "attrs": [
+   "MakeId",
+   "Name",
+   "NameId",
+   "EXP"
+  ]
+ },
+ {
+  "file": "BestOfThree.xml",
+  "root": "root",
+  "zh": "",
+  "items": 6,
+  "attrs": [
+   "RefreshNumberMax",
+   "BattleNumberMax",
+   "BattleTime",
+   "LeastWinScore",
+   "LoseScore",
+   "ScoreParam1",
+   "ScoreParam2",
+   "WinConsumptiveScoreRatio",
+   "LoseConsumptiveScoreRatio",
+   "DrawA",
+   "DrawB"
+  ]
+ },
+ {
+  "file": "BestOfThreePosition.xml",
+  "root": "Config",
+  "zh": "三局两胜的编队坐标",
+  "items": 18,
+  "attrs": [
+   "Id",
+   "PosX",
+   "PosY"
+  ]
+ },
+ {
+  "file": "Buffer.xml",
+  "root": "Buffer",
+  "zh": "Buffer配置表",
+  "items": 542,
+  "attrs": [
+   "ID",
+   "BufferType"
+  ]
+ },
+ {
+  "file": "BuildSkinUp.xml",
+  "root": "BuildSkinUp",
+  "zh": "建筑强化",
+  "items": 3,
+  "attrs": [
+   "Type",
+   "TypeName"
+  ]
+ },
+ {
+  "file": "Building.xml",
+  "root": "Config",
+  "zh": "",
+  "items": 159,
+  "attrs": [
+   "Id",
+   "Name",
+   "Text",
+   "Size",
+   "Type",
+   "SubType",
+   "PosX",
+   "PosY",
+   "Whether_Gift",
+   "Lattice1",
+   "Lattice2",
+   "Lattice3",
+   "NameId",
+   "TextId",
+   "Death_Sound",
+   "Choose_Sound"
+  ]
+ },
+ {
+  "file": "BuildingBindHero.xml",
+  "root": "Config",
+  "zh": "",
+  "items": 11,
+  "attrs": [
+   "NameId",
+   "Type1",
+   "Type2"
+  ]
+ },
+ {
+  "file": "BuildingSTL.xml",
+  "root": "Config",
+  "zh": "",
+  "items": 2,
+  "attrs": [
+   "Id",
+   "Name",
+   "Text",
+   "NameId",
+   "TextId",
+   "Resource_Type"
+  ]
+ },
+ {
+  "file": "CCgift.xml",
+  "root": "ExtPowerTask",
+  "zh": "礼包表",
+  "items": 846,
+  "attrs": [
+   "GiftId",
+   "Name",
+   "Openbag",
+   "Tiptype",
+   "GiftNum",
+   "Whether",
+   "Unchanged",
+   "Change",
+   "Peakvalue",
+   "Herospace",
+   "Eggspace",
+   "EquipSpace"
+  ]
+ },
+ {
+  "file": "Camp.xml",
+  "root": "Config",
+  "zh": "阵营副本配置表",
+  "items": 5,
+  "attrs": [
+   "TypeId",
+   "TypeName",
+   "NameID",
+   "Icon_s",
+   "Icon_a",
+   "CaMP",
+   "CaRe",
+   "CaHeroText",
+   "EffectId"
+  ]
+ },
+ {
+  "file": "CampBoss.xml",
+  "root": "CampBoss",
+  "zh": "阵营守护者挑战赛",
+  "items": 4,
+  "attrs": [
+   "TypeID"
+  ]
+ },
+ {
+  "file": "CampDungen.xml",
+  "root": "CampDungen",
+  "zh": "阵营副本配置表",
+  "items": 58,
+  "attrs": [
+   "Id",
+   "Name",
+   "NameId",
+   "NameText",
+   "CampType",
+   "RewardId1",
+   "RewardId2",
+   "MonsterCamp",
+   "UpHp",
+   "UpAdd"
+  ]
+ },
+ {
+  "file": "CampDungenPlus.xml",
+  "root": "CampDungen",
+  "zh": "阵营副本配置表",
+  "items": 30,
+  "attrs": [
+   "Id",
+   "Name",
+   "NameId",
+   "NameText",
+   "CampType",
+   "RewardId1",
+   "RewardId2",
+   "MonsterCamp",
+   "UpHp",
+   "UpAdd"
+  ]
+ },
+ {
+  "file": "CampStar.xml",
+  "root": "Config",
+  "zh": "星格系统配置表",
+  "items": 5,
+  "attrs": [
+   "TypeId",
+   "TypeName",
+   "CaHeroText"
+  ]
+ },
+ {
+  "file": "CashReward.xml",
+  "root": "CashReward",
+  "zh": "点卷奖励配置表",
+  "items": 5,
+  "attrs": [
+   "Name",
+   "Type"
+  ]
+ },
+ {
+  "file": "ChallengeDungen.xml",
+  "root": "Dungen",
+  "zh": "挑战副本",
+  "items": 10,
+  "attrs": [
+   "KindID",
+   "Name",
+   "NameID",
+   "Skill1",
+   "Skill2",
+   "Icon"
+  ]
+ },
+ {
+  "file": "City.xml",
+  "root": "Config",
+  "zh": "City",
+  "items": 31,
+  "attrs": [
+   "CityId",
+   "CityType",
+   "CityDes",
+   "NpcPower",
+   "CityName",
+   "CityEye",
+   "Level",
+   "CityPoint",
+   "ResType",
+   "ProtectTime",
+   "AbandonTime",
+   "CityHp",
+   "CityRec",
+   "DefNum",
+   "DefMonster"
+  ]
+ },
+ {
+  "file": "City2.xml",
+  "root": "Config",
+  "zh": "City2",
+  "items": 53,
+  "attrs": [
+   "CityId",
+   "CityType",
+   "CityDes",
+   "NpcPower",
+   "CityName",
+   "CityEye",
+   "Level",
+   "CityPoint",
+   "ResType",
+   "ProtectTime",
+   "AbandonTime",
+   "CityHp",
+   "CityRec",
+   "DefNum",
+   "DefMonster",
+   "Belong",
+   "DispelRange"
+  ]
+ },
+ {
+  "file": "ConsortiaBattle.xml",
+  "root": "root",
+  "zh": "",
+  "items": 19,
+  "attrs": [
+   "ActiveWeekDay",
+   "BattleNumberMax",
+   "ConsumptiveScoreMax",
+   "ConsortiaNumberMax",
+   "Variable1",
+   "Variable2",
+   "BaseValue",
+   "Coefficient1",
+   "Coefficient2"
+  ]
+ },
+ {
+  "file": "ConsortiaBoss.xml",
+  "root": "Config",
+  "zh": "联盟BOSS",
+  "items": 39,
+  "attrs": [
+   "Id",
+   "Name",
+   "Image",
+   "Text",
+   "R2",
+   "R0"
+  ]
+ },
+ {
+  "file": "ConsortiaDefend.xml",
+  "root": "Config",
+  "zh": "领地保卫战",
+  "items": 20,
+  "attrs": [
+   "Id",
+   "Name",
+   "Reward",
+   "Everyday1",
+   "Magnification"
+  ]
+ },
+ {
+  "file": "ConsortiaFlame.xml",
+  "root": "root",
+  "zh": "",
+  "items": 22,
+  "attrs": [
+   "rankerMax",
+   "groupNumber",
+   "grabNumberMax",
+   "defendNumberMax",
+   "refreshInterval",
+   "heroDefendCD",
+   "heroFightTimeMax",
+   "startWeekDay",
+   "startTime",
+   "endTime",
+   "defenderPosX",
+   "defenderPosY",
+   "grabberPosX",
+   "grabberPosY"
+  ]
+ },
+ {
+  "file": "ConsortiaHomes.xml",
+  "root": "Config",
+  "zh": "",
+  "items": 10,
+  "attrs": [
+   "Id",
+   "Name",
+   "Text",
+   "Size",
+   "Type",
+   "SubType",
+   "PosX",
+   "PosY",
+   "Whether_Gift",
+   "Lattice1",
+   "Lattice2",
+   "Lattice3",
+   "NameId",
+   "TextId",
+   "Death_Sound",
+   "Choose_Sound"
+  ]
+ },
+ {
+  "file": "ConsortiaTerritory.xml",
+  "root": "Config",
+  "zh": "据点战配置表",
+  "items": 7,
+  "attrs": [
+   "TypeID"
+  ]
+ },
+ {
+  "file": "ConsortiaWelfare.xml",
+  "root": "ConsortiaWelfare",
+  "zh": "联盟福利屋",
+  "items": 5,
+  "attrs": [
+   "TypeID"
+  ]
+ },
+ {
+  "file": "Corps.xml",
+  "root": "Corps",
+  "zh": "部落",
+  "items": 8,
+  "attrs": [
+   "KindID"
+  ]
+ },
+ {
+  "file": "Daily.xml",
+  "root": "Daily",
+  "zh": "每日登陆",
+  "items": 30,
+  "attrs": [
+   "ID",
+   "Honor",
+   "Cash",
+   "ItemID",
+   "ItemNum",
+   "HeroName",
+   "Name"
+  ]
+ },
+ {
+  "file": "DefensiveBattle.xml",
+  "root": "Config",
+  "zh": "怪物攻防战奖励配置表",
+  "items": 2,
+  "attrs": [
+   "KindID"
+  ]
+ },
+ {
+  "file": "Donate.xml",
+  "root": "root",
+  "zh": "",
+  "items": 4,
+  "attrs": [
+   "Name",
+   "Num"
+  ]
+ },
+ {
+  "file": "DrawSetting.xml",
+  "root": "Config",
+  "zh": "DrawSetting",
+  "items": 11,
+  "attrs": [
+   "ID",
+   "Type"
+  ]
+ },
+ {
+  "file": "Dungen.xml",
+  "root": "Dungen",
+  "zh": "副本配置",
+  "items": 26,
+  "attrs": [
+   "KindID",
+   "Group",
+   "Name",
+   "NameID",
+   "Icon",
+   "StageItems"
+  ]
+ },
+ {
+  "file": "EmblemShop.xml",
+  "root": "Config",
+  "zh": "胜利徽记兑换",
+  "items": 1,
+  "attrs": [
+   "Id"
+  ]
+ },
+ {
+  "file": "Emoticon.xml",
+  "root": "Config",
+  "zh": "表情包标签配置表",
+  "items": 4,
+  "attrs": [
+   "ID",
+   "Text",
+   "Max",
+   "Order",
+   "State"
+  ]
+ },
+ {
+  "file": "EquipBase.xml",
+  "root": "Config",
+  "zh": "装备配置表",
+  "items": 5,
+  "attrs": [
+   "TypeID"
+  ]
+ },
+ {
+  "file": "EquipExtend.xml",
+  "root": "Config",
+  "zh": "装备扩展表",
+  "items": 5,
+  "attrs": [
+   "TypeA"
+  ]
+ },
+ {
+  "file": "Equipment.xml",
+  "root": "Equipment",
+  "zh": "混乱战争（铭牌）配置表",
+  "items": 208,
+  "attrs": [
+   "Name",
+   "Position",
+   "NameID",
+   "Icon",
+   "Probability"
+  ]
+ },
+ {
+  "file": "ExchangeChip.xml",
+  "root": "ExchangeChip",
+  "zh": "碎片兑换",
+  "items": 4,
+  "attrs": [
+   "KindID"
+  ]
+ },
+ {
+  "file": "ExtPowerDetailTask.xml",
+  "root": "ExtPowerTask",
+  "zh": "支线任务",
+  "items": 20,
+  "attrs": [
+   "MakeId",
+   "Name",
+   "NameID",
+   "ImageIcon",
+   "Hide",
+   "OrderID",
+   "Condition_Fighting",
+   "Data"
+  ]
+ },
+ {
+  "file": "ExtPowerTask.xml",
+  "root": "ExtPowerTask",
+  "zh": "支线任务，根据战斗力随机",
+  "items": 8,
+  "attrs": [
+   "MaxPower",
+   "QuestNum"
+  ]
+ },
+ {
+  "file": "ExtPowerTaskComplete.xml",
+  "root": "ExtPowerTask",
+  "zh": "任务结束奖励",
+  "items": 10,
+  "attrs": [
+   "MakeId",
+   "Name",
+   "NameID",
+   "MaxPower",
+   "Hide",
+   "OrderID",
+   "RewardNum",
+   "FistReward",
+   "SecondReward",
+   "ThirdReward"
+  ]
+ },
+ {
+  "file": "FLove.xml",
+  "root": "Config",
+  "zh": "爱心转盘",
+  "items": 5,
+  "attrs": [
+   "ID",
+   "Name",
+   "ItemId",
+   "Pro"
+  ]
+ },
+ {
+  "file": "FateCalculate.xml",
+  "root": "Config",
+  "zh": "命运计算专用",
+  "items": 527,
+  "attrs": [
+   "Lv",
+   "FateValue",
+   "QualityFactor"
+  ]
+ },
+ {
+  "file": "FirstRecharge.xml",
+  "root": "Config",
+  "zh": "首储返利",
+  "items": 1,
+  "attrs": [
+   "Reward1",
+   "Reward2",
+   "Reward3"
+  ]
+ },
+ {
+  "file": "FlameDungen.xml",
+  "root": "Config",
+  "zh": "圣火战联盟副本",
+  "items": 6,
+  "attrs": [
+   "HardId",
+   "Comment",
+   "FlameNumMax"
+  ]
+ },
+ {
+  "file": "Forge.xml",
+  "root": "Config",
+  "zh": "铸兵熔炉配置表",
+  "items": 7,
+  "attrs": [
+   "Type"
+  ]
+ },
+ {
+  "file": "FunctionOn.xml",
+  "root": "Config",
+  "zh": "功能开启控制表",
+  "items": 9,
+  "attrs": [
+   "Function",
+   "NameText",
+   "TeamID",
+   "Order",
+   "RotationType"
+  ]
+ },
+ {
+  "file": "GetPoints.xml",
+  "root": "Config",
+  "zh": "活跃积分获取",
+  "items": 5,
+  "attrs": [
+   "ID"
+  ]
+ },
+ {
+  "file": "GoblinEvent.xml",
+  "root": "Config",
+  "zh": "地精建造配置",
+  "items": 37,
+  "attrs": [
+   "ListId",
+   "Type",
+   "BuildingId",
+   "BaseYield",
+   "ProductionTime",
+   "DoubleCash",
+   "Stage",
+   "Random",
+   "quality"
+  ]
+ },
+ {
+  "file": "GuideHelp.xml",
+  "root": "Config",
+  "zh": "减负",
+  "items": 6,
+  "attrs": [
+   "ID",
+   "Name"
+  ]
+ },
+ {
+  "file": "GuildTask.xml",
+  "root": "Config",
+  "zh": "联盟科技-任务表",
+  "items": 5,
+  "attrs": [
+   "TypeID"
+  ]
+ },
+ {
+  "file": "GuildTechnology.xml",
+  "root": "Config",
+  "zh": "联盟技能表",
+  "items": 2,
+  "attrs": [
+   "TypeID"
+  ]
+ },
+ {
+  "file": "Help.xml",
+  "root": "Help",
+  "zh": "帮助配置表",
+  "items": 21,
+  "attrs": [
+   "Name",
+   "Comment",
+   "NameID",
+   "TextID"
+  ]
+ },
+ {
+  "file": "HeroAwake.xml",
+  "root": "Hero",
+  "zh": "英雄觉醒配置",
+  "items": 642,
+  "attrs": [
+   "Id",
+   "LevelNeed",
+   "ItemNeed",
+   "HeroNeed",
+   "HeroChipInstead",
+   "OtherNeed",
+   "NextId",
+   "Name"
+  ]
+ },
+ {
+  "file": "HeroFate.xml",
+  "root": "config",
+  "zh": "英雄命运效果",
+  "items": 2,
+  "attrs": [
+   "Type",
+   "Maxlv",
+   "Name"
+  ]
+ },
+ {
+  "file": "HeroHoly.xml",
+  "root": "Config",
+  "zh": "圣灵物配置表",
+  "items": 5,
+  "attrs": [
+   "Type",
+   "Comment"
+  ]
+ },
+ {
+  "file": "HeroHonorLottery.xml",
+  "root": "HonorLottery",
+  "zh": "荣誉抽英雄消耗配置表",
+  "items": 100,
+  "attrs": [
+   "Number",
+   "Honor"
+  ]
+ },
+ {
+  "file": "HeroLevels.xml",
+  "error": "junk after document element: line 1, column 11698"
+ },
+ {
+  "file": "HeroManual.xml",
+  "root": "HeroManual",
+  "zh": "",
+  "items": 176,
+  "attrs": [
+   "Id",
+   "Name",
+   "FromID",
+   "LegendID",
+   "ExchangeNum",
+   "Item",
+   "Mark",
+   "Probability",
+   "Add"
+  ]
+ },
+ {
+  "file": "HeroMatchProps.xml",
+  "root": "HeroProps",
+  "zh": "英雄对应道具表",
+  "items": 180,
+  "attrs": [
+   "Id",
+   "PropsId",
+   "name"
+  ]
+ },
+ {
+  "file": "HeroSkillLevels.xml",
+  "root": "Levels",
+  "zh": "经验配置",
+  "items": 10,
+  "attrs": [
+   "Level",
+   "Exp",
+   "Comments"
+  ]
+ },
+ {
+  "file": "HeroSkin.xml",
+  "root": "Config",
+  "zh": "英雄换肤",
+  "items": 138,
+  "attrs": [
+   "HeroName"
+  ]
+ },
+ {
+  "file": "HeroTask.xml",
+  "root": "Config",
+  "zh": "英雄成长基金任务配置表",
+  "items": 20,
+  "attrs": [
+   "ID",
+   "Text",
+   "Parameter",
+   "Label"
+  ]
+ },
+ {
+  "file": "HeroTrain.xml",
+  "root": "Config",
+  "zh": "训练英雄表",
+  "items": 6,
+  "attrs": [
+   "Type",
+   "BuildingLevel",
+   "HeroCondition",
+   "ResourcesCondition",
+   "TimeCondition"
+  ]
+ },
+ {
+  "file": "Herototem.xml",
+  "root": "Herototem",
+  "zh": "",
+  "items": 9910,
+  "attrs": [
+   "Id",
+   "Mark",
+   "NameId",
+   "TextId",
+   "Skill_Lv"
+  ]
+ },
+ {
+  "file": "HolyDecorate.xml",
+  "error": "not well-formed (invalid token): line 20, column 4"
+ },
+ {
+  "file": "HugeWorldRewards.xml",
+  "root": "Config",
+  "zh": "大地图排行榜奖励",
+  "items": 6,
+  "attrs": [
+   "MapId",
+   "Comment"
+  ]
+ },
+ {
+  "file": "Inscription.xml",
+  "root": "Inscription",
+  "zh": "铭文升级",
+  "items": 200,
+  "attrs": [
+   "Lvl",
+   "Hp",
+   "Attack",
+   "Crystal",
+   "Essence",
+   "StarNeed",
+   "GS"
+  ]
+ },
+ {
+  "file": "ItemShop.xml",
+  "root": "root",
+  "zh": "",
+  "items": 4,
+  "attrs": [
+   "Limit"
+  ]
+ },
+ {
+  "file": "KingDuel.xml",
+  "root": "Config",
+  "zh": "王者对决配置表",
+  "items": 2,
+  "attrs": [
+   "TypeID"
+  ]
+ },
+ {
+  "file": "LeadTask.xml",
+  "root": "Config",
+  "zh": "LeadTask",
+  "items": 50,
+  "attrs": [
+   "TypeID",
+   "ChapterReward",
+   "ChapterName",
+   "CrossTalk"
+  ]
+ },
+ {
+  "file": "LeagueRank.xml",
+  "root": "LeagueRank",
+  "zh": "英雄远征",
+  "items": 27,
+  "attrs": [
+   "Ranking",
+   "Number"
+  ]
+ },
+ {
+  "file": "Magic.xml",
+  "root": "Magic",
+  "zh": "魔法配置",
+  "items": 65,
+  "attrs": [
+   "SkillID",
+   "BuildLevel",
+   "ImageIcon",
+   "Display",
+   "Coexist",
+   "SoundID",
+   "BroadcastID",
+   "Hide",
+   "CoexistCD"
+  ]
+ },
+ {
+  "file": "Mail.xml",
+  "root": "Config",
+  "zh": "Mail",
+  "items": 69,
+  "attrs": [
+   "ID",
+   "Type",
+   "Content"
+  ]
+ },
+ {
+  "file": "MapFate.xml",
+  "root": "Config",
+  "zh": "地图配置",
+  "items": 21,
+  "attrs": [
+   "ID",
+   "MapText",
+   "NameId",
+   "Image",
+   "NeedNo",
+   "StoryId",
+   "GiveItem"
+  ]
+ },
+ {
+  "file": "MapTask.xml",
+  "root": "Config",
+  "zh": "MapTask",
+  "items": 5,
+  "attrs": [
+   "MapId",
+   "Comment"
+  ]
+ },
+ {
+  "file": "MazeTemplateVO.xml",
+  "root": "Config",
+  "zh": "MazeTemplateVO",
+  "items": 3,
+  "attrs": [
+   "Level"
+  ]
+ },
+ {
+  "file": "Monopoly.xml",
+  "root": "Config",
+  "zh": "熊猫大冒险配置表",
+  "items": 7,
+  "attrs": [
+   "Type"
+  ]
+ },
+ {
+  "file": "MonsterAttack.xml",
+  "root": "Config",
+  "zh": "MonsterAttack",
+  "items": 175,
+  "attrs": [
+   "ID",
+   "Name",
+   "Type",
+   "Tag",
+   "Reward"
+  ]
+ },
+ {
+  "file": "NewFlame.xml",
+  "root": "Config",
+  "zh": "圣火战联盟副本",
+  "items": 6,
+  "attrs": [
+   "Type",
+   "Comment"
+  ]
+ },
+ {
+  "file": "NewGuildBattle.xml",
+  "root": "Config",
+  "zh": "攻城战",
+  "items": 6,
+  "attrs": [
+   "ID"
+  ]
+ },
+ {
+  "file": "NewPlayer.xml",
+  "root": "NewPlayer",
+  "zh": "新手活动战斗力限制",
+  "items": 17,
+  "attrs": [
+   "KindID",
+   "Name",
+   "Fight",
+   "centerLevel"
+  ]
+ },
+ {
+  "file": "NoodGuide.xml",
+  "root": "Config",
+  "zh": "新手历练配置表",
+  "items": 8,
+  "attrs": [
+   "TypeID"
+  ]
+ },
+ {
+  "file": "Pet.xml",
+  "root": "Pet",
+  "zh": "宠物配置",
+  "items": 191,
+  "attrs": [
+   "Id",
+   "Name",
+   "Mark",
+   "P_Additional",
+   "Hero_Text"
+  ]
+ },
+ {
+  "file": "PetAlbum.xml",
+  "root": "Config",
+  "zh": "宠物图鉴配置表",
+  "items": 15,
+  "attrs": [
+   "ID",
+   "Notes",
+   "StarTotal",
+   "Cost",
+   "GS",
+   "Attack",
+   "HP"
+  ]
+ },
+ {
+  "file": "PetSkillLevels.xml",
+  "root": "Levels",
+  "zh": "宠物经验配置",
+  "items": 9,
+  "attrs": [
+   "Level",
+   "Exp",
+   "Comments",
+   "Petlev"
+  ]
+ },
+ {
+  "file": "PetStar.xml",
+  "root": "Config",
+  "zh": "宠物升星配置表",
+  "items": 110,
+  "attrs": [
+   "ID",
+   "Text",
+   "Lv",
+   "Adv",
+   "Cost",
+   "Pet",
+   "Attack",
+   "Roquet",
+   "GS",
+   "GH"
+  ]
+ },
+ {
+  "file": "PetTalent.xml",
+  "root": "Config",
+  "zh": "宠物天赋配置表",
+  "items": 13,
+  "attrs": [
+   "Type",
+   "Name",
+   "NameID",
+   "Effect",
+   "EffectID",
+   "TalentPro",
+   "Icon"
+  ]
+ },
+ {
+  "file": "Petadd.xml",
+  "root": "config",
+  "zh": "宠物加成配置表",
+  "items": 12,
+  "attrs": [
+   "ID",
+   "Name",
+   "Type",
+   "NameId",
+   "TextId",
+   "Mark",
+   "Icon"
+  ]
+ },
+ {
+  "file": "Petlevels.xml",
+  "root": "Levels",
+  "zh": "经验配置",
+  "items": 35,
+  "attrs": [
+   "Level",
+   "cards",
+   "Mana"
+  ]
+ },
+ {
+  "file": "Plunder.xml",
+  "root": "Config",
+  "zh": "掠夺配置表",
+  "items": 2,
+  "attrs": [
+   "TypeID"
+  ]
+ },
+ {
+  "file": "PointShop.xml",
+  "root": "Config",
+  "zh": "声望兑换",
+  "items": 3,
+  "attrs": [
+   "Id"
+  ]
+ },
+ {
+  "file": "PoolSetting.xml",
+  "root": "Config",
+  "zh": "PoolSetting",
+  "items": 1499,
+  "attrs": [
+   "ID",
+   "Type",
+   "RuleWeight",
+   "RewardType",
+   "RewardID",
+   "Num"
+  ]
+ },
+ {
+  "file": "PowerWar.xml",
+  "root": "Config",
+  "zh": "神圣之争配置表",
+  "items": 2,
+  "attrs": [
+   "Type",
+   "TS",
+   "BN",
+   "Limit",
+   "Defect",
+   "BV",
+   "FC1",
+   "FC2",
+   "RC",
+   "RL"
+  ]
+ },
+ {
+  "file": "Privilege.xml",
+  "root": "Privilege",
+  "zh": "特权商店",
+  "items": 2,
+  "attrs": [
+   "TypeID"
+  ]
+ },
+ {
+  "file": "QuestCashCost.xml",
+  "root": "ExtPowerTask",
+  "zh": "点券消耗",
+  "items": 3,
+  "attrs": [
+   "TypeId",
+   "TypeName",
+   "MaxNum"
+  ]
+ },
+ {
+  "file": "RacingReward.xml",
+  "root": "RacingReward",
+  "zh": "竞技场奖励配置表",
+  "items": 2,
+  "attrs": [
+   "Type"
+  ]
+ },
+ {
+  "file": "Rank.xml",
+  "root": "Rank",
+  "zh": "爵位配置",
+  "items": 64,
+  "attrs": [
+   "Might",
+   "ID",
+   "RankId",
+   "PC",
+   "Cash",
+   "Honor",
+   "Shard",
+   "Num",
+   "Num2",
+   "Num3",
+   "Might_Rank",
+   "Name",
+   "Icon",
+   "Icon1",
+   "Add",
+   "WarAdd",
+   "LeagueHeroNum",
+   "GoblinAdd",
+   "GiftPackage",
+   "GiftName",
+   "Price",
+   "TitleID1",
+   "TitleName1",
+   "Comment1",
+   "ComIcon1",
+   "Reward1",
+   "TitleID2",
+   "TitleName2",
+   "Comment2",
+   "ComIcon2",
+   "Reward2"
+  ]
+ },
+ {
+  "file": "RankingNew.xml",
+  "root": "Battle",
+  "zh": "新榮譽競技場",
+  "items": 4,
+  "attrs": [
+   "Type"
+  ]
+ },
+ {
+  "file": "RedChallenge.xml",
+  "root": "Config",
+  "zh": "史诗英雄挑战赛配置表",
+  "items": 4,
+  "attrs": [
+   "TypeID",
+   "Comment"
+  ]
+ },
+ {
+  "file": "ResTip.xml",
+  "root": "Config",
+  "zh": "",
+  "items": 1,
+  "attrs": [
+   "Name"
+  ]
+ },
+ {
+  "file": "ResourceRecovery.xml",
+  "root": "Recovery",
+  "zh": "资源找回配置",
+  "items": 5,
+  "attrs": [
+   "ID",
+   "Name",
+   "Text",
+   "Type",
+   "ResourceType",
+   "TimeSmall",
+   "TimeMax",
+   "FreePercent",
+   "CashPercent",
+   "SingleCash"
+  ]
+ },
+ {
+  "file": "ReturnTask.xml",
+  "root": "Config",
+  "zh": "老玩家回归任务表",
+  "items": 17,
+  "attrs": [
+   "TaskID",
+   "Comment",
+   "TextID",
+   "Date",
+   "Reward",
+   "TaskType",
+   "Condition_Num",
+   "GO"
+  ]
+ },
+ {
+  "file": "Runes.xml",
+  "root": "Runes",
+  "zh": "符石配置表",
+  "items": 101,
+  "attrs": [
+   "Name",
+   "NameID",
+   "Icon",
+   "RunesType"
+  ]
+ },
+ {
+  "file": "RunesChange.xml",
+  "root": "Config",
+  "zh": "晶石币转化配置",
+  "items": 2,
+  "attrs": [
+   "Type"
+  ]
+ },
+ {
+  "file": "STL_BuySP.xml",
+  "root": "Config",
+  "zh": "沙盘行动力购买",
+  "items": 15,
+  "attrs": [
+   "BuyNum",
+   "NeedGems"
+  ]
+ },
+ {
+  "file": "STL_Event.xml",
+  "root": "Config",
+  "zh": "沙盘随机事件配置表",
+  "items": 1,
+  "attrs": [
+   "Type",
+   "Commentary"
+  ]
+ },
+ {
+  "file": "STL_LevelExp.xml",
+  "root": "Level",
+  "zh": "沙盘等级经验配置表",
+  "items": 61,
+  "attrs": [
+   "Level",
+   "Exp",
+   "MonsterNum",
+   "EventNum",
+   "MaxSP",
+   "BuySP"
+  ]
+ },
+ {
+  "file": "STL_Monster.xml",
+  "root": "Config",
+  "zh": "",
+  "items": 644,
+  "attrs": [
+   "Id",
+   "Fight",
+   "Lv",
+   "Probability",
+   "RewardProbability",
+   "RewardRandom",
+   "Monster",
+   "UseGems",
+   "UseSP"
+  ]
+ },
+ {
+  "file": "STL_MonsterXY.xml",
+  "root": "Config",
+  "zh": "沙盘怪物编队坐标",
+  "items": 18,
+  "attrs": [
+   "Id",
+   "PosX",
+   "PosY"
+  ]
+ },
+ {
+  "file": "STL_Plot.xml",
+  "root": "Level",
+  "zh": "沙盘地块属性配置表",
+  "items": 81,
+  "attrs": [
+   "Id",
+   "Type",
+   "NeedLv",
+   "ImgId"
+  ]
+ },
+ {
+  "file": "STL_RandomEvent.xml",
+  "root": "Rank",
+  "zh": "随机事件",
+  "items": 4,
+  "attrs": [
+   "TypeId",
+   "EventProbability"
+  ]
+ },
+ {
+  "file": "SamsungTask.xml",
+  "root": "Achievement",
+  "zh": "三星任务配置",
+  "items": 3,
+  "attrs": [
+   "KindID",
+   "Name",
+   "NameID",
+   "ImageIcon",
+   "Hide",
+   "OrderID",
+   "ShareID"
+  ]
+ },
+ {
+  "file": "Savings.xml",
+  "root": "root",
+  "zh": "活动中心招财罐任务配置",
+  "items": 6,
+  "attrs": [
+   "ID",
+   "Order",
+   "Describe",
+   "Text",
+   "Unit",
+   "Limit"
+  ]
+ },
+ {
+  "file": "ShareReturn.xml",
+  "root": "root",
+  "zh": "",
+  "items": 2,
+  "attrs": []
+ },
+ {
+  "file": "Shop_config.xml",
+  "root": "Config",
+  "zh": "",
+  "items": 25,
+  "attrs": [
+   "ID",
+   "Name",
+   "TextId",
+   "Img",
+   "TyepList"
+  ]
+ },
+ {
+  "file": "SkinUp.xml",
+  "root": "SkinUp",
+  "zh": "皮肤强化表",
+  "items": 162,
+  "attrs": [
+   "Id",
+   "Text",
+   "Mark",
+   "SkinId",
+   "Item",
+   "Maxlv"
+  ]
+ },
+ {
+  "file": "SmithyTask.xml",
+  "root": "Config",
+  "zh": "铁匠铺任务",
+  "items": 52,
+  "attrs": [
+   "Points",
+   "TaskId",
+   "TaskName",
+   "TaskIcon",
+   "TaskStar",
+   "TaskTime",
+   "TaskChance",
+   "TaskTerm",
+   "TaskReward"
+  ]
+ },
+ {
+  "file": "SnatchGiftbag.xml",
+  "root": "Config",
+  "zh": "福利礼包",
+  "items": 1,
+  "attrs": [
+   "Type",
+   "ID",
+   "Condition",
+   "Fragment",
+   "Consume",
+   "Rob",
+   "Minimum",
+   "Gross"
+  ]
+ },
+ {
+  "file": "SocialChat.xml",
+  "root": "Config",
+  "zh": "社交聊天",
+  "items": 3,
+  "attrs": [
+   "ID",
+   "Name",
+   "Text"
+  ]
+ },
+ {
+  "file": "Soldier.xml",
+  "root": "Soldier",
+  "zh": "混乱战争（兵种）配置表",
+  "items": 24,
+  "attrs": [
+   "Id",
+   "Name",
+   "NameId",
+   "Space",
+   "OccupationType",
+   "Attack_Type",
+   "Defense_Type",
+   "Range",
+   "Attack_Speed",
+   "Move_Speed",
+   "Attack_Favorite",
+   "Range_Target",
+   "Attack_Target",
+   "ModelID",
+   "Icon",
+   "Icon_s",
+   "Move_Type",
+   "Death_Sound",
+   "Attack_Sound",
+   "Birth_Sound",
+   "Damage_Reduce",
+   "Frame",
+   "Show"
+  ]
+ },
+ {
+  "file": "Soul.xml",
+  "root": "Config",
+  "zh": "魂器之魂灵系统",
+  "items": 60,
+  "attrs": [
+   "Lv",
+   "Upgrade",
+   "GS",
+   "Attack",
+   "HP",
+   "Tenacity"
+  ]
+ },
+ {
+  "file": "Soularms.xml",
+  "root": "Config",
+  "zh": "魂器升级配置",
+  "items": 219,
+  "attrs": [
+   "Lv",
+   "Attack",
+   "Hp",
+   "Cost",
+   "GS"
+  ]
+ },
+ {
+  "file": "SoularmsRefine.xml",
+  "root": "Root",
+  "zh": "",
+  "items": 2,
+  "attrs": [
+   "Name",
+   "lock",
+   "FeatsRefresh",
+   "CashRefresh",
+   "GS",
+   "HighRankingRefresh",
+   "GS1",
+   "Max",
+   "Single",
+   "OpenPrice"
+  ]
+ },
+ {
+  "file": "SoularmsSkill.xml",
+  "root": "SoularmsSkill",
+  "zh": "魂器技能配置",
+  "items": 440,
+  "attrs": [
+   "Id",
+   "Name",
+   "NameId",
+   "TextId",
+   "Image",
+   "Type",
+   "Lvl",
+   "SkillID",
+   "Order",
+   "Tips"
+  ]
+ },
+ {
+  "file": "Summon.xml",
+  "root": "Summons",
+  "zh": "召唤配置表",
+  "items": 429,
+  "attrs": [
+   "ID",
+   "Name",
+   "HeroID",
+   "HeroLvl",
+   "SkillLvl",
+   "TalentSkillID",
+   "LastTime",
+   "Revival",
+   "BindSite",
+   "SummonLife"
+  ]
+ },
+ {
+  "file": "SuperPet.xml",
+  "root": "Teampve",
+  "zh": "圣宠表（客户端）",
+  "items": 6,
+  "attrs": [
+   "TypeId"
+  ]
+ },
+ {
+  "file": "TDMap1.xml",
+  "root": "Map",
+  "zh": "",
+  "items": 2,
+  "attrs": []
+ },
+ {
+  "file": "TDMap10.xml",
+  "root": "Map",
+  "zh": "",
+  "items": 2,
+  "attrs": []
+ },
+ {
+  "file": "TDMap11.xml",
+  "root": "Map",
+  "zh": "",
+  "items": 2,
+  "attrs": []
+ },
+ {
+  "file": "TDMap12.xml",
+  "root": "Map",
+  "zh": "",
+  "items": 2,
+  "attrs": []
+ },
+ {
+  "file": "TDMap2.xml",
+  "root": "Map",
+  "zh": "",
+  "items": 2,
+  "attrs": []
+ },
+ {
+  "file": "TDMap3.xml",
+  "root": "Map",
+  "zh": "",
+  "items": 2,
+  "attrs": []
+ },
+ {
+  "file": "TDMap4.xml",
+  "root": "Map",
+  "zh": "",
+  "items": 2,
+  "attrs": []
+ },
+ {
+  "file": "TDMap5.xml",
+  "root": "Map",
+  "zh": "",
+  "items": 2,
+  "attrs": []
+ },
+ {
+  "file": "TDMap6.xml",
+  "root": "Map",
+  "zh": "",
+  "items": 2,
+  "attrs": []
+ },
+ {
+  "file": "TDMap7.xml",
+  "root": "Map",
+  "zh": "",
+  "items": 2,
+  "attrs": []
+ },
+ {
+  "file": "TDMap8.xml",
+  "root": "Map",
+  "zh": "",
+  "items": 2,
+  "attrs": []
+ },
+ {
+  "file": "TDMap9.xml",
+  "root": "Map",
+  "zh": "",
+  "items": 2,
+  "attrs": []
+ },
+ {
+  "file": "TD_Effect.xml",
+  "root": "Config",
+  "zh": "新塔防被动效果模板表",
+  "items": 61,
+  "attrs": [
+   "ID",
+   "Type",
+   "EffectMarkID",
+   "level",
+   "Name",
+   "Describe",
+   "Icon",
+   "SkillMarkID",
+   "Object",
+   "IsRemove",
+   "AwakeHero"
+  ]
+ },
+ {
+  "file": "TD_Hero.xml",
+  "root": "Config",
+  "zh": "新塔防英雄模板表",
+  "items": 16,
+  "attrs": [
+   "HeroID",
+   "Name",
+   "Mark",
+   "Quality",
+   "Race",
+   "Icon_a",
+   "ModelID",
+   "AwakeModelID",
+   "Attack_Sound",
+   "Death_Sound",
+   "Attack",
+   "Range",
+   "Attack_Target",
+   "Attack_Speed",
+   "Crit",
+   "Hit_DMG",
+   "Roquet",
+   "MP",
+   "MP_gain",
+   "LevelGroup",
+   "StarGroup",
+   "SkillDes",
+   "AwakeDes",
+   "AwakeEffect",
+   "TalentGroup",
+   "UnlockType",
+   "Scale"
+  ]
+ },
+ {
+  "file": "TD_HeroLevel.xml",
+  "root": "Config",
+  "zh": "新塔防英雄升级表",
+  "items": 2,
+  "attrs": [
+   "LevelGroup"
+  ]
+ },
+ {
+  "file": "TD_HeroStar.xml",
+  "root": "Config",
+  "zh": "新塔防英雄升星觉醒表",
+  "items": 16,
+  "attrs": [
+   "StarGroup"
+  ]
+ },
+ {
+  "file": "TD_HeroTalent.xml",
+  "root": "Config",
+  "zh": "新塔防英雄天赋树表",
+  "items": 16,
+  "attrs": [
+   "TalentGroup"
+  ]
+ },
+ {
+  "file": "TD_Instance.xml",
+  "root": "Config",
+  "zh": "新塔防关卡模板表",
+  "items": 40,
+  "attrs": [
+   "ID",
+   "Type",
+   "Name",
+   "MapID",
+   "Time",
+   "TotalWave",
+   "FailNum",
+   "DareNum",
+   "MonGroup",
+   "HeroExp",
+   "GenHeroExp",
+   "AwardItem",
+   "SetAwardExp",
+   "SetAward_1"
+  ]
+ },
+ {
+  "file": "TD_InstanceMon.xml",
+  "root": "Config",
+  "zh": "新塔防关卡怪物配置表",
+  "items": 40,
+  "attrs": [
+   "MonGroup",
+   "Region",
+   "Time",
+   "FailNum"
+  ]
+ },
+ {
+  "file": "TD_LordLevel.xml",
+  "root": "Config",
+  "zh": "新塔防领主升级表",
+  "items": 60,
+  "attrs": [
+   "Level",
+   "Exp"
+  ]
+ },
+ {
+  "file": "TD_Monster.xml",
+  "root": "Config",
+  "zh": "新塔防怪物模板表",
+  "items": 1650,
+  "attrs": [
+   "MonsterID",
+   "Name",
+   "Type",
+   "Mark",
+   "Race",
+   "ModelID",
+   "HP",
+   "Move_Speed",
+   "Dodge",
+   "Tenacity",
+   "Natural",
+   "RandNum",
+   "RandPool",
+   "Number",
+   "LordExp",
+   "SetDeadNum",
+   "Scale"
+  ]
+ },
+ {
+  "file": "Talent.xml",
+  "root": "Talent",
+  "zh": "技能配置",
+  "items": 1225,
+  "attrs": [
+   "Id",
+   "Name",
+   "Lvl",
+   "Mark",
+   "BattlePower",
+   "SkillID"
+  ]
+ },
+ {
+  "file": "TalentManual.xml",
+  "root": "TalentManual",
+  "zh": "天赋图鉴",
+  "items": 1010,
+  "attrs": [
+   "SkillID",
+   "Name",
+   "TalentTips",
+   "Order",
+   "IsShow"
+  ]
+ },
+ {
+  "file": "TargetTask.xml",
+  "root": "TargetTask",
+  "zh": "目标任务配置表",
+  "items": 22,
+  "attrs": [
+   "KindID",
+   "Name",
+   "Days",
+   "OrderID"
+  ]
+ },
+ {
+  "file": "TeamDefend.xml",
+  "root": "Config",
+  "zh": "",
+  "items": 4,
+  "attrs": [
+   "KindID",
+   "GroupId",
+   "MapListID"
+  ]
+ },
+ {
+  "file": "TeamDungeon.xml",
+  "root": "DungeonConfig",
+  "zh": "多人模式配置表",
+  "items": 3,
+  "attrs": [
+   "KindID"
+  ]
+ },
+ {
+  "file": "Teampve.xml",
+  "root": "Teampve",
+  "zh": "实时PVE配置",
+  "items": 10,
+  "attrs": [
+   "TypeID"
+  ]
+ },
+ {
+  "file": "ThemeActivity.xml",
+  "root": "Config",
+  "zh": "主题周活动配置表",
+  "items": 2,
+  "attrs": [
+   "ActivityID",
+   "P1",
+   "P2",
+   "P3"
+  ]
+ },
+ {
+  "file": "ThemeShop.xml",
+  "root": "Config",
+  "zh": "主题活动商店",
+  "items": 1,
+  "attrs": [
+   "Id",
+   "ID"
+  ]
+ },
+ {
+  "file": "Tips.xml",
+  "root": "Config",
+  "zh": "TIPS",
+  "items": 14,
+  "attrs": [
+   "ID",
+   "TxtID"
+  ]
+ },
+ {
+  "file": "TopLevel.xml",
+  "root": "TopLevel",
+  "zh": "巅峰等级配置",
+  "items": 234,
+  "attrs": [
+   "ID",
+   "Text",
+   "Icon",
+   "NeedExp",
+   "Lv",
+   "ShowLv",
+   "Attack",
+   "HP",
+   "GS"
+  ]
+ },
+ {
+  "file": "TowerDefence.xml",
+  "root": "Config",
+  "zh": "TowerDefenceTemplateVO",
+  "items": 12,
+  "attrs": [
+   "Id",
+   "MapId",
+   "NameId",
+   "Difficult",
+   "GiftId",
+   "herostone",
+   "Time",
+   "DefendPoint",
+   "HeroNum",
+   "MonsterTypeTip"
+  ]
+ },
+ {
+  "file": "UnchartedMap.xml",
+  "root": "root",
+  "zh": "",
+  "items": 50,
+  "attrs": [
+   "MapId",
+   "Name"
+  ]
+ },
+ {
+  "file": "UnchartedTreasure.xml",
+  "root": "Battle",
+  "zh": "秘境夺宝",
+  "items": 2,
+  "attrs": [
+   "Type"
+  ]
+ },
+ {
+  "file": "Unearthly.xml",
+  "root": "Config",
+  "zh": "导量玩法关卡配置表",
+  "items": 3,
+  "attrs": [
+   "ChapterID",
+   "MapID"
+  ]
+ },
+ {
+  "file": "Unearthly_Box.xml",
+  "root": "Config",
+  "zh": "宝箱配置表",
+  "items": 3,
+  "attrs": [
+   "BoxType",
+   "Num",
+   "Time"
+  ]
+ },
+ {
+  "file": "Unearthly_Card.xml",
+  "root": "Config",
+  "zh": "卡牌配置表",
+  "items": 2,
+  "attrs": [
+   "MoldType"
+  ]
+ },
+ {
+  "file": "Unearthly_Troops.xml",
+  "root": "Config",
+  "zh": "出兵配置表",
+  "items": 42,
+  "attrs": [
+   "ID",
+   "IntervalTime",
+   "TroopsType"
+  ]
+ },
+ {
+  "file": "Unearthly_Upgrade.xml",
+  "root": "Config",
+  "zh": "升级消耗表",
+  "items": 3,
+  "attrs": [
+   "Quality"
+  ]
+ },
+ {
+  "file": "Upgrade.xml",
+  "root": "Config",
+  "zh": "直升计划配置表",
+  "items": 0,
+  "attrs": []
+ },
+ {
+  "file": "WishingWell.xml",
+  "root": "Config",
+  "zh": "许愿池",
+  "items": 5,
+  "attrs": [
+   "Name",
+   "Id",
+   "Title",
+   "Probability",
+   "Text1",
+   "ItemNum",
+   "Reward",
+   "Special"
+  ]
+ },
+ {
+  "file": "WorldBonus.xml",
+  "root": "Config",
+  "zh": "世界加成配置表",
+  "items": 30,
+  "attrs": [
+   "Points",
+   "CenterLevel",
+   "buildUp",
+   "HeroExpUp",
+   "PlunderUp",
+   "Show"
+  ]
+ },
+ {
+  "file": "WorldBossOne.xml",
+  "root": "WorldBossOne",
+  "zh": "",
+  "items": 8,
+  "attrs": [
+   "Id"
+  ]
+ },
+ {
+  "file": "WorldEvent.xml",
+  "root": "Config",
+  "zh": "世界活动",
+  "items": 4,
+  "attrs": [
+   "Name",
+   "Id",
+   "Title",
+   "ExpectedValue",
+   "PlayerPercent",
+   "ImageIcon",
+   "BuildHp",
+   "MaxNum"
+  ]
+ },
+ {
+  "file": "WorldKing.xml",
+  "root": "Config",
+  "zh": "世界王者配置表",
+  "items": 3,
+  "attrs": [
+   "PlayID",
+   "PlayNameID",
+   "CombatRange",
+   "IsRobot",
+   "Icon",
+   "IconGen"
+  ]
+ },
+ {
+  "file": "WorldReward.xml",
+  "root": "Config",
+  "zh": "湮灭来袭奖励表",
+  "items": 4,
+  "attrs": [
+   "Id"
+  ]
+ },
+ {
+  "file": "WorldTree.xml",
+  "root": "Config",
+  "zh": "世界树配置表",
+  "items": 5,
+  "attrs": [
+   "TypeID"
+  ]
+ }
+]

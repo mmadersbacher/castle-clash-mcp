@@ -1,0 +1,9 @@
+[Unit]
+Description=Castle Clash MCP data refresh (scrape casclash + rebuild DB)
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=oneshot
+ExecStart=/home/titan/castle-clash-mcp/scripts/refresh.sh --delay 1.0
+Nice=10

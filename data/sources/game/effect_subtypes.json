@@ -1,0 +1,492 @@
+[
+{
+"subtype": 1,
+"handler": "value-effect",
+"state_bit": null
+},
+{
+"subtype": 2,
+"handler": "value/other",
+"state_bit": null
+},
+{
+"subtype": 3,
+"handler": "UnSetObjectState(immune/cleanse)",
+"state_bit": "0x4"
+},
+{
+"subtype": 4,
+"handler": "SetObjectState+Stop(hard CC)",
+"state_bit": "0x40"
+},
+{
+"subtype": 5,
+"handler": "value/other",
+"state_bit": null
+},
+{
+"subtype": 6,
+"handler": "value/other",
+"state_bit": null
+},
+{
+"subtype": 7,
+"handler": "value/other",
+"state_bit": null
+},
+{
+"subtype": 8,
+"handler": "value/other",
+"state_bit": null
+},
+{
+"subtype": 9,
+"handler": "value/other",
+"state_bit": null
+},
+{
+"subtype": 10,
+"handler": "value/other",
+"state_bit": null
+},
+{
+"subtype": 11,
+"handler": "value/other",
+"state_bit": null
+},
+{
+"subtype": 12,
+"handler": "value/other",
+"state_bit": null
+},
+{
+"subtype": 13,
+"handler": "value/other",
+"state_bit": null
+},
+{
+"subtype": 14,
+"handler": "value/other",
+"state_bit": "0xe"
+},
+{
+"subtype": 15,
+"handler": "value/other",
+"state_bit": null
+},
+{
+"subtype": 16,
+"handler": "SetObjectState(apply status)",
+"state_bit": "0x4000"
+},
+{
+"subtype": 17,
+"handler": "SetObjectState(apply status)",
+"state_bit": "0x80"
+},
+{
+"subtype": 18,
+"handler": "value/other",
+"state_bit": "0x10"
+},
+{
+"subtype": 19,
+"handler": "SetObjectState(apply status)",
+"state_bit": "0x8000"
+},
+{
+"subtype": 20,
+"handler": "value/other",
+"state_bit": null
+},
+{
+"subtype": 21,
+"handler": "value/other",
+"state_bit": null
+},
+{
+"subtype": 22,
+"handler": "value/other",
+"state_bit": null
+},
+{
+"subtype": 23,
+"handler": "value/other",
+"state_bit": null
+},
+{
+"subtype": 24,
+"handler": "value/other",
+"state_bit": null
+},
+{
+"subtype": 25,
+"handler": "SetObjectState+Stop(hard CC)",
+"state_bit": "0x400"
+},
+{
+"subtype": 26,
+"handler": "SetObjectState(apply status)",
+"state_bit": "0x800"
+},
+{
+"subtype": 27,
+"handler": "SetObjectState(apply status)",
+"state_bit": "0x10000"
+},
+{
+"subtype": 28,
+"handler": "SetObjectState(apply status)",
+"state_bit": "0x20000"
+},
+{
+"subtype": 29,
+"handler": "value/other",
+"state_bit": null
+},
+{
+"subtype": 30,
+"handler": "value/other",
+"state_bit": "0x20"
+},
+{
+"subtype": 31,
+"handler": "value/other",
+"state_bit": null
+},
+{
+"subtype": 32,
+"handler": "SetObjectState(apply status)",
+"state_bit": "0x100000"
+},
+{
+"subtype": 33,
+"handler": "SetObjectState(apply status)",
+"state_bit": "0x200000"
+},
+{
+"subtype": 34,
+"handler": "SetObjectState(apply status)",
+"state_bit": "0x400000"
+},
+{
+"subtype": 35,
+"handler": "value/other",
+"state_bit": "0x2000000"
+},
+{
+"subtype": 36,
+"handler": "SetObjectState(apply status)",
+"state_bit": "0x2"
+},
+{
+"subtype": 37,
+"handler": "SetObjectState(apply status)",
+"state_bit": "0x100"
+},
+{
+"subtype": 38,
+"handler": "SetObjectState(apply status)",
+"state_bit": "0x8"
+},
+{
+"subtype": 39,
+"handler": "SetObjectState+Stop(hard CC)",
+"state_bit": "0x1000"
+},
+{
+"subtype": 40,
+"handler": "SetObjectState(apply status)",
+"state_bit": "0x2000"
+},
+{
+"subtype": 41,
+"handler": "SetObjectState(apply status)",
+"state_bit": "0x200"
+},
+{
+"subtype": 42,
+"handler": "value/other",
+"state_bit": null
+},
+{
+"subtype": 43,
+"handler": "SetObjectState(apply status)",
+"state_bit": "0x1000000"
+},
+{
+"subtype": 44,
+"handler": "value/other",
+"state_bit": "0x2c"
+},
+{
+"subtype": 45,
+"handler": "value/other",
+"state_bit": null
+},
+{
+"subtype": 46,
+"handler": "SetObjectState(apply status)",
+"state_bit": "0x4000000"
+},
+{
+"subtype": 47,
+"handler": "SetObjectState(apply status)",
+"state_bit": "0x40000"
+},
+{
+"subtype": 48,
+"handler": "value/other",
+"state_bit": "0x80000"
+},
+{
+"subtype": 49,
+"handler": "SetObjectState(apply status)",
+"state_bit": "0x800000"
+},
+{
+"subtype": 50,
+"handler": "value/other",
+"state_bit": null
+},
+{
+"subtype": 51,
+"handler": "SetObjectState(apply status)",
+"state_bit": "0x8000000"
+},
+{
+"subtype": 52,
+"handler": "value/other",
+"state_bit": null
+},
+{
+"subtype": 53,
+"handler": "value/other",
+"state_bit": null
+},
+{
+"subtype": 54,
+"handler": "value/other",
+"state_bit": null
+},
+{
+"subtype": 55,
+"handler": "value/other",
+"state_bit": null
+},
+{
+"subtype": 56,
+"handler": "value/other",
+"state_bit": "0x10000000"
+},
+{
+"subtype": 57,
+"handler": "SetObjectState(apply status)",
+"state_bit": "0x20000000"
+},
+{
+"subtype": 58,
+"handler": "SetObjectState(apply status)",
+"state_bit": "0x40000000"
+},
+{
+"subtype": 59,
+"handler": "value/other",
+"state_bit": null
+},
+{
+"subtype": 60,
+"handler": "value/other",
+"state_bit": null
+},
+{
+"subtype": 61,
+"handler": "value/other",
+"state_bit": "0x1"
+},
+{
+"subtype": 62,
+"handler": "value/other",
+"state_bit": null
+},
+{
+"subtype": 63,
+"handler": "value/other",
+"state_bit": null
+},
+{
+"subtype": 64,
+"handler": "value/other",
+"state_bit": null
+},
+{
+"subtype": 65,
+"handler": "value/other",
+"state_bit": null
+},
+{
+"subtype": 66,
+"handler": "value/other",
+"state_bit": null
+},
+{
+"subtype": 67,
+"handler": "value/other",
+"state_bit": null
+},
+{
+"subtype": 68,
+"handler": "value/other",
+"state_bit": null
+},
+{
+"subtype": 69,
+"handler": "value/other",
+"state_bit": null
+},
+{
+"subtype": 70,
+"handler": "value/other",
+"state_bit": null
+},
+{
+"subtype": 71,
+"handler": "value/other",
+"state_bit": null
+},
+{
+"subtype": 72,
+"handler": "value/other",
+"state_bit": null
+},
+{
+"subtype": 73,
+"handler": "value/other",
+"state_bit": null
+},
+{
+"subtype": 74,
+"handler": "value/other",
+"state_bit": null
+},
+{
+"subtype": 75,
+"handler": "value/other",
+"state_bit": null
+},
+{
+"subtype": 76,
+"handler": "value/other",
+"state_bit": null
+},
+{
+"subtype": 77,
+"handler": "value/other",
+"state_bit": null
+},
+{
+"subtype": 78,
+"handler": "value/other",
+"state_bit": null
+},
+{
+"subtype": 79,
+"handler": "value/other",
+"state_bit": null
+},
+{
+"subtype": 80,
+"handler": "value/other",
+"state_bit": null
+},
+{
+"subtype": 81,
+"handler": "value/other",
+"state_bit": null
+},
+{
+"subtype": 82,
+"handler": "value/other",
+"state_bit": null
+},
+{
+"subtype": 83,
+"handler": "value/other",
+"state_bit": null
+},
+{
+"subtype": 84,
+"handler": "value/other",
+"state_bit": null
+},
+{
+"subtype": 85,
+"handler": "value/other",
+"state_bit": null
+},
+{
+"subtype": 86,
+"handler": "value/other",
+"state_bit": null
+},
+{
+"subtype": 87,
+"handler": "value/other",
+"state_bit": null
+},
+{
+"subtype": 88,
+"handler": "value/other",
+"state_bit": null
+},
+{
+"subtype": 89,
+"handler": "value/other",
+"state_bit": null
+},
+{
+"subtype": 90,
+"handler": "value/other",
+"state_bit": null
+},
+{
+"subtype": 91,
+"handler": "value/other",
+"state_bit": null
+},
+{
+"subtype": 92,
+"handler": "value/other",
+"state_bit": null
+},
+{
+"subtype": 93,
+"handler": "value/other",
+"state_bit": null
+},
+{
+"subtype": 94,
+"handler": "value/other",
+"state_bit": null
+},
+{
+"subtype": 95,
+"handler": "value/other",
+"state_bit": null
+},
+{
+"subtype": 96,
+"handler": "value/other",
+"state_bit": null
+},
+{
+"subtype": 97,
+"handler": "value/other",
+"state_bit": null
+},
+{
+"subtype": 98,
+"handler": "value/other",
+"state_bit": null
+}
+]

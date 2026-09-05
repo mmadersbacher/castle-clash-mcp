@@ -1,0 +1,13 @@
+{
+  "_source": "castleclashbuilds.com/heroes/<slug> (Fandom Hero_Variables lacks these newest epics)",
+  "_fields": "HP=lvl1 base HP, HPinc=+HP/level, ATK=lvl1 base ATK, ATKinc=+ATK/level, ATKSPD",
+  "Serratica":      {"HP":12000,"HPinc":305,"ATK":410,"ATKinc":19,"ATKSPD":1650},
+  "Malefica":       {"HP":12000,"HPinc":300,"ATK":450,"ATKinc":25,"ATKSPD":1500},
+  "Dynamica":       {"HP":9800, "HPinc":300,"ATK":510,"ATKinc":21,"ATKSPD":1100},
+  "Bell Elk Maiden":{"HP":14500,"HPinc":290,"ATK":420,"ATKinc":22,"ATKSPD":1400},
+  "Necrofica":      {"HP":12000,"HPinc":290,"ATK":410,"ATKinc":25,"ATKSPD":1100},
+  "Celestica":      {"HP":12000,"HPinc":290,"ATK":420,"ATKinc":22,"ATKSPD":1400},
+  "Dreadshade":     {"HP":14200,"HPinc":310,"ATK":320,"ATKinc":19,"ATKSPD":1400},
+  "Wraith Binder":  {"HP":14000,"HPinc":310,"ATK":425,"ATKinc":23,"ATKSPD":1400},
+  "Bone Butcher":   {"HP":14200,"HPinc":310,"ATK":415,"ATKinc":20,"ATKSPD":1400}
+}

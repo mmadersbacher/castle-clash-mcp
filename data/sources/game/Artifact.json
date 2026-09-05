@@ -1,0 +1,3292 @@
+{
+ "_root": "Config",
+ "Name": "神器升级配置",
+ "_children": [
+  {
+   "_tag": "List",
+   "Type": "1",
+   "ClearCon": "10",
+   "ClearNum": "3",
+   "Gem": "1000",
+   "NotAppear": "4,5",
+   "Awake": "0",
+   "Star": "0",
+   "_children": [
+    {
+     "_tag": "Level",
+     "Lv": "1",
+     "Attack": "15",
+     "Hp": "450",
+     "OrdinaryCost": "4,0,300",
+     "GS": "5"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "2",
+     "Attack": "47",
+     "Hp": "1410",
+     "OrdinaryCost": "4,0,600",
+     "GS": "14"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "3",
+     "Attack": "95",
+     "Hp": "2850",
+     "OrdinaryCost": "4,0,900",
+     "GS": "29"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "4",
+     "Attack": "159",
+     "Hp": "4770",
+     "OrdinaryCost": "4,0,1200",
+     "HeroCost": "1",
+     "GS": "48"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "5",
+     "Attack": "239",
+     "Hp": "7170",
+     "OrdinaryCost": "4,0,1500",
+     "ItemCost": "5",
+     "GS": "72"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "6",
+     "Attack": "335",
+     "Hp": "10050",
+     "OrdinaryCost": "4,0,1800",
+     "ItemCost": "10",
+     "GS": "101"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "7",
+     "Attack": "447",
+     "Hp": "13410",
+     "OrdinaryCost": "4,0,2100",
+     "ItemCost": "15",
+     "GS": "134"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "8",
+     "Attack": "575",
+     "Hp": "17250",
+     "OrdinaryCost": "4,0,2400",
+     "ItemCost": "20",
+     "GS": "173"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "9",
+     "Attack": "719",
+     "Hp": "21570",
+     "OrdinaryCost": "4,0,2700",
+     "HeroCost": "1",
+     "GS": "216"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "10",
+     "Attack": "879",
+     "Hp": "26370",
+     "OrdinaryCost": "4,0,3000",
+     "ItemCost": "25",
+     "GS": "264"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "11",
+     "Attack": "1055",
+     "Hp": "31650",
+     "OrdinaryCost": "4,0,3500",
+     "ItemCost": "30",
+     "GS": "317"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "12",
+     "Attack": "1247",
+     "Hp": "37410",
+     "OrdinaryCost": "4,0,4000",
+     "ItemCost": "35",
+     "GS": "374"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "13",
+     "Attack": "1455",
+     "Hp": "43650",
+     "OrdinaryCost": "4,0,4500",
+     "ItemCost": "40",
+     "GS": "437"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "14",
+     "Attack": "1679",
+     "Hp": "50370",
+     "OrdinaryCost": "4,0,5000",
+     "HeroCost": "1",
+     "GS": "504"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "15",
+     "Attack": "1919",
+     "Hp": "57570",
+     "OrdinaryCost": "4,0,5500",
+     "ItemCost": "45",
+     "GS": "576"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "16",
+     "Attack": "2175",
+     "Hp": "65250",
+     "OrdinaryCost": "4,0,6000",
+     "ItemCost": "50",
+     "GS": "653"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "17",
+     "Attack": "2447",
+     "Hp": "73410",
+     "OrdinaryCost": "4,0,6500",
+     "ItemCost": "55",
+     "GS": "734"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "18",
+     "Attack": "2735",
+     "Hp": "82050",
+     "OrdinaryCost": "4,0,7000",
+     "ItemCost": "60",
+     "GS": "821"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "19",
+     "Attack": "3039",
+     "Hp": "91170",
+     "OrdinaryCost": "4,0,7500",
+     "HeroCost": "1",
+     "GS": "912"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "20",
+     "Attack": "3359",
+     "Hp": "100770",
+     "OrdinaryCost": "4,0,8000",
+     "ItemCost": "65",
+     "StarNum": "1,5",
+     "ItemCost1": "4,1,14000;5,3282,20",
+     "GS": "1008"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "21",
+     "Attack": "3695",
+     "Hp": "110850",
+     "OrdinaryCost": "4,0,8500",
+     "ItemCost": "70",
+     "GS": "1109"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "22",
+     "Attack": "4047",
+     "Hp": "121410",
+     "OrdinaryCost": "4,0,9000",
+     "ItemCost": "75",
+     "GS": "1214"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "23",
+     "Attack": "4415",
+     "Hp": "132450",
+     "OrdinaryCost": "4,0,9500",
+     "ItemCost": "80",
+     "GS": "1325"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "24",
+     "Attack": "4799",
+     "Hp": "143970",
+     "OrdinaryCost": "4,0,10300",
+     "HeroCost": "2",
+     "GS": "1440"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "25",
+     "Attack": "5199",
+     "Hp": "155970",
+     "OrdinaryCost": "4,0,11100",
+     "ItemCost": "85",
+     "GS": "1560"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "26",
+     "Attack": "5615",
+     "Hp": "168450",
+     "OrdinaryCost": "4,0,11900",
+     "ItemCost": "90",
+     "GS": "1685"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "27",
+     "Attack": "6047",
+     "Hp": "181410",
+     "OrdinaryCost": "4,0,12700",
+     "ItemCost": "95",
+     "GS": "1814"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "28",
+     "Attack": "6495",
+     "Hp": "194850",
+     "OrdinaryCost": "4,0,13500",
+     "ItemCost": "100",
+     "GS": "1949"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "29",
+     "Attack": "6959",
+     "Hp": "208770",
+     "OrdinaryCost": "4,0,14300",
+     "HeroCost": "2",
+     "GS": "2088"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "30",
+     "Attack": "7439",
+     "Hp": "223170",
+     "OrdinaryCost": "4,0,15100",
+     "ItemCost": "110",
+     "StarNum": "2,15",
+     "ItemCost1": "4,1,28000;5,3282,150",
+     "GS": "2232"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "31",
+     "Attack": "7935",
+     "Hp": "238050",
+     "OrdinaryCost": "4,0,16100",
+     "ItemCost": "120",
+     "GS": "2381"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "32",
+     "Attack": "8447",
+     "Hp": "253410",
+     "OrdinaryCost": "4,0,17200",
+     "ItemCost": "130",
+     "GS": "2534"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "33",
+     "Attack": "8975",
+     "Hp": "269250",
+     "OrdinaryCost": "4,0,18500",
+     "ItemCost": "140",
+     "GS": "2693"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "34",
+     "Attack": "9519",
+     "Hp": "285570",
+     "OrdinaryCost": "4,0,20000",
+     "HeroCost": "2",
+     "GS": "2856"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "35",
+     "Attack": "10079",
+     "Hp": "302370",
+     "OrdinaryCost": "4,0,21500",
+     "ItemCost": "150",
+     "GS": "3024"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "36",
+     "Attack": "10655",
+     "Hp": "319650",
+     "OrdinaryCost": "4,0,23000",
+     "ItemCost": "160",
+     "GS": "3197"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "37",
+     "Attack": "11247",
+     "Hp": "337410",
+     "OrdinaryCost": "4,0,24500",
+     "ItemCost": "170",
+     "GS": "3374"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "38",
+     "Attack": "11855",
+     "Hp": "355650",
+     "OrdinaryCost": "4,0,26000",
+     "ItemCost": "180",
+     "GS": "3557"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "39",
+     "Attack": "12479",
+     "Hp": "374370",
+     "OrdinaryCost": "4,0,27500",
+     "HeroCost": "2",
+     "GS": "3744"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "40",
+     "Attack": "13119",
+     "Hp": "393570",
+     "OrdinaryCost": "4,0,29000",
+     "ItemCost": "195",
+     "StarNum": "3,30",
+     "ItemCost1": "4,1,56000;5,3282,400",
+     "GS": "3936"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "41",
+     "Attack": "13775",
+     "Hp": "413250",
+     "OrdinaryCost": "4,0,31000",
+     "ItemCost": "210",
+     "GS": "4133"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "42",
+     "Attack": "14447",
+     "Hp": "433410",
+     "OrdinaryCost": "4,0,33000",
+     "ItemCost": "225",
+     "GS": "4334"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "43",
+     "Attack": "15135",
+     "Hp": "454050",
+     "OrdinaryCost": "4,0,35000",
+     "ItemCost": "240",
+     "GS": "4541"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "44",
+     "Attack": "15839",
+     "Hp": "475170",
+     "OrdinaryCost": "4,0,37000",
+     "HeroCost": "3",
+     "GS": "4752"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "45",
+     "Attack": "16559",
+     "Hp": "496770",
+     "OrdinaryCost": "4,0,39000",
+     "ItemCost": "255",
+     "GS": "4968"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "46",
+     "Attack": "17295",
+     "Hp": "518850",
+     "OrdinaryCost": "4,0,41000",
+     "ItemCost": "270",
+     "GS": "5189"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "47",
+     "Attack": "18047",
+     "Hp": "541410",
+     "OrdinaryCost": "4,0,43000",
+     "ItemCost": "285",
+     "GS": "5414"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "48",
+     "Attack": "18815",
+     "Hp": "564450",
+     "OrdinaryCost": "4,0,45000",
+     "ItemCost": "300",
+     "GS": "5645"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "49",
+     "Attack": "19599",
+     "Hp": "587970",
+     "OrdinaryCost": "4,0,47000",
+     "HeroCost": "3",
+     "GS": "5880"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "50",
+     "Attack": "20399",
+     "Hp": "611970",
+     "OrdinaryCost": "5,3272,20",
+     "ItemCost": "320",
+     "StarNum": "4,50",
+     "ItemCost1": "4,1,98000;5,3282,800",
+     "GS": "6120"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "51",
+     "Attack": "21215",
+     "Hp": "636450",
+     "OrdinaryCost": "5,3272,30",
+     "ItemCost": "340",
+     "GS": "6365"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "52",
+     "Attack": "22047",
+     "Hp": "661410",
+     "OrdinaryCost": "5,3272,40",
+     "ItemCost": "360",
+     "GS": "6614"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "53",
+     "Attack": "22895",
+     "Hp": "686850",
+     "OrdinaryCost": "5,3272,50",
+     "ItemCost": "380",
+     "GS": "6869"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "54",
+     "Attack": "23759",
+     "Hp": "712770",
+     "OrdinaryCost": "5,3272,60",
+     "HeroCost": "3",
+     "GS": "7128"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "55",
+     "Attack": "24639",
+     "Hp": "739170",
+     "OrdinaryCost": "5,3272,80",
+     "ItemCost": "400",
+     "GS": "7392"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "56",
+     "Attack": "25535",
+     "Hp": "766050",
+     "OrdinaryCost": "5,3272,100",
+     "ItemCost": "420",
+     "GS": "7661"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "57",
+     "Attack": "26447",
+     "Hp": "793410",
+     "OrdinaryCost": "5,3272,120",
+     "ItemCost": "440",
+     "GS": "7934"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "58",
+     "Attack": "27375",
+     "Hp": "821250",
+     "OrdinaryCost": "5,3272,140",
+     "ItemCost": "460",
+     "GS": "8213"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "59",
+     "Attack": "28319",
+     "Hp": "849570",
+     "OrdinaryCost": "5,3272,160",
+     "HeroCost": "3",
+     "GS": "8496"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "60",
+     "Attack": "29279",
+     "Hp": "878370",
+     "OrdinaryCost": "5,3272,180",
+     "ItemCost": "480",
+     "StarNum": "5,90",
+     "ItemCost1": "4,1,140000;5,3282,1500",
+     "GS": "8784"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "61",
+     "Attack": "30255",
+     "Hp": "907650",
+     "OrdinaryCost": "5,3272,200",
+     "ItemCost": "500",
+     "GS": "9078"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "62",
+     "Attack": "31247",
+     "Hp": "937410",
+     "OrdinaryCost": "5,3272,220",
+     "ItemCost": "520",
+     "GS": "9376"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "63",
+     "Attack": "32255",
+     "Hp": "967650",
+     "OrdinaryCost": "5,3272,240",
+     "ItemCost": "540",
+     "GS": "9679"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "64",
+     "Attack": "33279",
+     "Hp": "998370",
+     "OrdinaryCost": "5,3272,260",
+     "HeroCost": "4",
+     "GS": "9986"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "65",
+     "Attack": "34319",
+     "Hp": "1029570",
+     "OrdinaryCost": "5,3272,280",
+     "ItemCost": "560",
+     "GS": "10299"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "66",
+     "Attack": "35375",
+     "Hp": "1061250",
+     "OrdinaryCost": "5,3272,300",
+     "ItemCost": "580",
+     "GS": "10616"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "67",
+     "Attack": "36447",
+     "Hp": "1093410",
+     "OrdinaryCost": "5,3272,320",
+     "ItemCost": "600",
+     "GS": "10938"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "68",
+     "Attack": "37535",
+     "Hp": "1126050",
+     "OrdinaryCost": "5,3272,340",
+     "ItemCost": "620",
+     "GS": "11265"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "69",
+     "Attack": "38639",
+     "Hp": "1159170",
+     "OrdinaryCost": "5,3272,360",
+     "HeroCost": "4",
+     "GS": "11596"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "70",
+     "Attack": "39759",
+     "Hp": "1192770",
+     "OrdinaryCost": "5,3272,400",
+     "ItemCost": "640",
+     "StarNum": "6,140",
+     "ItemCost1": "4,1,190000;5,3282,3000",
+     "GS": "11933"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "71",
+     "Attack": "40895",
+     "Hp": "1226850",
+     "OrdinaryCost": "5,3272,440",
+     "ItemCost": "660",
+     "GS": "12274"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "72",
+     "Attack": "42047",
+     "Hp": "1261410",
+     "OrdinaryCost": "5,3272,480",
+     "ItemCost": "680",
+     "GS": "12620"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "73",
+     "Attack": "43215",
+     "Hp": "1296450",
+     "OrdinaryCost": "5,3272,520",
+     "ItemCost": "700",
+     "GS": "12971"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "74",
+     "Attack": "44399",
+     "Hp": "1331970",
+     "OrdinaryCost": "5,3272,560",
+     "HeroCost": "4",
+     "GS": "13326"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "75",
+     "Attack": "45599",
+     "Hp": "1367970",
+     "OrdinaryCost": "5,3434,20",
+     "ItemCost": "720",
+     "GS": "13687"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "76",
+     "Attack": "46815",
+     "Hp": "1404450",
+     "OrdinaryCost": "5,3434,30",
+     "ItemCost": "740",
+     "GS": "14052"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "77",
+     "Attack": "48047",
+     "Hp": "1441410",
+     "OrdinaryCost": "5,3434,40",
+     "ItemCost": "760",
+     "GS": "14422"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "78",
+     "Attack": "49295",
+     "Hp": "1478850",
+     "OrdinaryCost": "5,3434,50",
+     "ItemCost": "780",
+     "GS": "14797"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "79",
+     "Attack": "50559",
+     "Hp": "1516770",
+     "OrdinaryCost": "5,3434,60",
+     "HeroCost": "4",
+     "GS": "15176"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "80",
+     "Attack": "51839",
+     "Hp": "1555170",
+     "OrdinaryCost": "5,3434,80",
+     "ItemCost": "800",
+     "StarNum": "7,200",
+     "ItemCost1": "4,1,250000;5,3433,150",
+     "GS": "15561"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "81",
+     "Attack": "53135",
+     "Hp": "1594050",
+     "OrdinaryCost": "5,3434,100",
+     "ItemCost": "820",
+     "GS": "15950"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "82",
+     "Attack": "54447",
+     "Hp": "1633410",
+     "OrdinaryCost": "5,3434,120",
+     "ItemCost": "840",
+     "GS": "16345"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "83",
+     "Attack": "55775",
+     "Hp": "1673250",
+     "OrdinaryCost": "5,3434,140",
+     "ItemCost": "860",
+     "GS": "16744"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "84",
+     "Attack": "57119",
+     "Hp": "1713570",
+     "OrdinaryCost": "5,3434,160",
+     "HeroCost": "5",
+     "GS": "17148"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "85",
+     "Attack": "58479",
+     "Hp": "1754370",
+     "OrdinaryCost": "5,3434,180",
+     "ItemCost": "880",
+     "GS": "17557"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "86",
+     "Attack": "59855",
+     "Hp": "1795650",
+     "OrdinaryCost": "5,3434,200",
+     "ItemCost": "900",
+     "GS": "17970"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "87",
+     "Attack": "61247",
+     "Hp": "1837410",
+     "OrdinaryCost": "5,3434,220",
+     "ItemCost": "920",
+     "GS": "18389"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "88",
+     "Attack": "62655",
+     "Hp": "1879650",
+     "OrdinaryCost": "5,3434,240",
+     "ItemCost": "940",
+     "GS": "18812"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "89",
+     "Attack": "64079",
+     "Hp": "1922370",
+     "OrdinaryCost": "5,3434,260",
+     "HeroCost": "5",
+     "GS": "19240"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "90",
+     "Attack": "65519",
+     "Hp": "1965570",
+     "OrdinaryCost": "5,3434,280",
+     "ItemCost": "960",
+     "StarNum": "8,280",
+     "ItemCost1": "4,1,320000;5,3433,400",
+     "GS": "19673"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "91",
+     "Attack": "66975",
+     "Hp": "2009250",
+     "OrdinaryCost": "5,3434,300",
+     "ItemCost": "980",
+     "GS": "20110"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "92",
+     "Attack": "68447",
+     "Hp": "2053410",
+     "OrdinaryCost": "5,3434,320",
+     "ItemCost": "1000",
+     "GS": "20553"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "93",
+     "Attack": "69935",
+     "Hp": "2098050",
+     "OrdinaryCost": "5,3434,340",
+     "ItemCost": "1020",
+     "GS": "21000"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "94",
+     "Attack": "71439",
+     "Hp": "2143170",
+     "OrdinaryCost": "5,3434,360",
+     "HeroCost": "5",
+     "GS": "21452"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "95",
+     "Attack": "72959",
+     "Hp": "2188770",
+     "OrdinaryCost": "5,3434,400",
+     "ItemCost": "1040",
+     "GS": "21909"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "96",
+     "Attack": "74495",
+     "Hp": "2234850",
+     "OrdinaryCost": "5,3434,440",
+     "ItemCost": "1060",
+     "GS": "22370"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "97",
+     "Attack": "76047",
+     "Hp": "2281410",
+     "OrdinaryCost": "5,3434,480",
+     "ItemCost": "1080",
+     "GS": "22837"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "98",
+     "Attack": "77615",
+     "Hp": "2328450",
+     "OrdinaryCost": "5,3434,520",
+     "ItemCost": "1100",
+     "GS": "23308"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "99",
+     "Attack": "79199",
+     "Hp": "2375970",
+     "OrdinaryCost": "5,3434,560",
+     "HeroCost": "5",
+     "GS": "23784"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "100",
+     "Attack": "80799",
+     "Hp": "2423970",
+     "OrdinaryCost": "5,3434,600",
+     "StarNum": "9,380",
+     "ItemCost1": "4,1,400000;5,3433,800",
+     "GS": "24265"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "1",
+     "Name": "源能暴龍",
+     "HeroId": "1770",
+     "Mark": "167",
+     "Item": "2317"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "2",
+     "Name": "鬼戮獵者",
+     "HeroId": "1780",
+     "Mark": "168",
+     "Item": "2318"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "3",
+     "Name": "雷電之子",
+     "HeroId": "1790",
+     "Mark": "171",
+     "Item": "2328"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "4",
+     "Name": "絞世蟒後",
+     "HeroId": "1800",
+     "Mark": "172",
+     "Item": "2329"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "5",
+     "Name": "水澤聖女",
+     "HeroId": "1810",
+     "Mark": "173",
+     "Item": "2338"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "6",
+     "Name": "瘋狂博士",
+     "HeroId": "1820",
+     "Mark": "174",
+     "Item": "2339"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "7",
+     "Name": "懲戒之斧",
+     "HeroId": "1830",
+     "Mark": "175",
+     "Item": "2351"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "8",
+     "Name": "異戮刺客",
+     "HeroId": "1840",
+     "Mark": "176",
+     "Item": "2352"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "9",
+     "Name": "聖凜之子",
+     "HeroId": "1850",
+     "Mark": "180",
+     "Item": "2358"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "10",
+     "Name": "永生豔後",
+     "HeroId": "1860",
+     "Mark": "181",
+     "Item": "2359"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "11",
+     "Name": "源能巨像",
+     "HeroId": "1870",
+     "Mark": "182",
+     "Item": "2365"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "12",
+     "Name": "悲愴之音",
+     "HeroId": "1880",
+     "Mark": "183",
+     "Item": "2366"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "13",
+     "Name": "蠻斧戰姬",
+     "HeroId": "1890",
+     "Mark": "184",
+     "Item": "2377"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "14",
+     "Name": "幽寒聖女",
+     "HeroId": "1900",
+     "Mark": "185",
+     "Item": "2378"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "15",
+     "Name": "齒輪紳士",
+     "HeroId": "1910",
+     "Mark": "186",
+     "Item": "2386"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "16",
+     "Name": "械心夫人",
+     "HeroId": "1920",
+     "Mark": "187",
+     "Item": "2387"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "17",
+     "Name": "聖裁者",
+     "HeroId": "1930",
+     "Mark": "188",
+     "Item": "2396"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "18",
+     "Name": "赤翎翼龍",
+     "HeroId": "1940",
+     "Mark": "189",
+     "Item": "2397"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "19",
+     "Name": "星源拳師",
+     "HeroId": "1950",
+     "Mark": "190",
+     "Item": "3263"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "20",
+     "Name": "鮫羅刹",
+     "HeroId": "1960",
+     "Mark": "191",
+     "Item": "3264"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "21",
+     "Name": "肅淩之音",
+     "HeroId": "1970",
+     "Mark": "192",
+     "Item": "3270"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "22",
+     "Name": "蠻墟之魔",
+     "HeroId": "1980",
+     "Mark": "193",
+     "Item": "3271"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "23",
+     "Name": "頑隱貓靈",
+     "HeroId": "1990",
+     "Mark": "194",
+     "Item": "3279"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "24",
+     "Name": "塵火處刑者",
+     "HeroId": "2000",
+     "Mark": "195",
+     "Item": "3280"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "25",
+     "Name": "肅忍之刃",
+     "HeroId": "2010",
+     "Mark": "196",
+     "Item": "3291"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "26",
+     "Name": "鱗刃暴龍",
+     "HeroId": "2020",
+     "Mark": "197",
+     "Item": "3292"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "27",
+     "Name": "醉猿行者",
+     "HeroId": "2030",
+     "Mark": "199",
+     "Item": "3303"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "28",
+     "Name": "掘墓之徒",
+     "HeroId": "2040",
+     "Mark": "200",
+     "Item": "3304"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "29",
+     "Name": "陷陣先鋒",
+     "HeroId": "2050",
+     "Mark": "201",
+     "Item": "3313"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "30",
+     "Name": "繪咒師",
+     "HeroId": "2060",
+     "Mark": "202",
+     "Item": "3314"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "31",
+     "Name": "擎雷之羽",
+     "HeroId": "2070",
+     "Mark": "203",
+     "Item": "3325"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "32",
+     "Name": "執法冥官",
+     "HeroId": "2090",
+     "Mark": "204",
+     "Item": "3333"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "33",
+     "Name": "水晶靈偶",
+     "HeroId": "2100",
+     "Mark": "207",
+     "Item": "3339"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "34",
+     "Name": "馴野之蹄",
+     "HeroId": "2110",
+     "Mark": "211",
+     "Item": "3343"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "35",
+     "Name": "古劍宗",
+     "HeroId": "2120",
+     "Mark": "212",
+     "Item": "3344"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "36",
+     "Name": "火焱領主",
+     "HeroId": "2130",
+     "Mark": "213",
+     "Item": "3349"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "37",
+     "Name": "卿心花靈",
+     "HeroId": "2140",
+     "Mark": "214",
+     "Item": "3350"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "38",
+     "Name": "殺戮瘋鴉",
+     "HeroId": "2150",
+     "Mark": "215",
+     "Item": "3354"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "39",
+     "Name": "破繭蝶靈",
+     "HeroId": "2160",
+     "Mark": "216",
+     "Item": "3358"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "40",
+     "Name": "虛空傀俑",
+     "HeroId": "2170",
+     "Mark": "217",
+     "Item": "3362"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "41",
+     "Name": "御晶圣童",
+     "HeroId": "2180",
+     "Mark": "218",
+     "Item": "3365"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "42",
+     "Name": "羽蛇神龙",
+     "HeroId": "2190",
+     "Mark": "219",
+     "Item": "3372"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "43",
+     "Name": "骑巡之甲",
+     "HeroId": "2200",
+     "Mark": "220",
+     "Item": "3374"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "44",
+     "Name": "巨龙学士",
+     "HeroId": "2210",
+     "Mark": "221",
+     "Item": "3379"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "45",
+     "Name": "阴翳男爵",
+     "HeroId": "2220",
+     "Mark": "222",
+     "Item": "3381"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "46",
+     "Name": "蜘蛛女",
+     "HeroId": "2230",
+     "Mark": "223",
+     "Item": "3392"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "47",
+     "Name": "逐光之子",
+     "HeroId": "2240",
+     "Mark": "224",
+     "Item": "3395"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "48",
+     "Name": "堕罪瞳魔",
+     "HeroId": "2250",
+     "Mark": "226",
+     "Item": "3399"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "49",
+     "Name": "祭月猎者",
+     "HeroId": "2260",
+     "Mark": "227",
+     "Item": "3402"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "50",
+     "Name": "暴怒之牙",
+     "HeroId": "2270",
+     "Mark": "228",
+     "Item": "3409"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "51",
+     "Name": "灵修智枭",
+     "HeroId": "2280",
+     "Mark": "229",
+     "Item": "3411"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "52",
+     "Name": "撼海斗士",
+     "HeroId": "2290",
+     "Mark": "230",
+     "Item": "3417"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "53",
+     "Name": "秽海魅影",
+     "HeroId": "2300",
+     "Mark": "231",
+     "Item": "3421"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "54",
+     "Name": "森野之荧",
+     "HeroId": "2310",
+     "Mark": "232",
+     "Item": "3423"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "55",
+     "Name": "渡魂之镰",
+     "HeroId": "2320",
+     "Mark": "233",
+     "Item": "3426"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "56",
+     "Name": "圣言使者",
+     "HeroId": "2330",
+     "Mark": "234",
+     "Item": "3428"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "57",
+     "Name": "永恆明光",
+     "HeroId": "2340",
+     "Mark": "235",
+     "Item": "3432"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "58",
+     "Name": "雷罰之弩",
+     "HeroId": "2350",
+     "Mark": "236",
+     "Item": "3439"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "59",
+     "Name": "咒腐惡龍",
+     "HeroId": "2360",
+     "Mark": "237",
+     "Item": "3441"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "60",
+     "Name": "圣颂之音",
+     "HeroId": "2370",
+     "Mark": "240",
+     "Item": "3445"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "61",
+     "Name": "塵煙旅者",
+     "HeroId": "2380",
+     "Mark": "241",
+     "Item": "3449"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "62",
+     "Name": "缄默之镰",
+     "HeroId": "2390",
+     "Mark": "242",
+     "Item": "3452"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "63",
+     "Name": "傀儡偶师",
+     "HeroId": "2400",
+     "Mark": "243",
+     "Item": "3454"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "64",
+     "Name": "不熄燭靈",
+     "HeroId": "2410",
+     "Mark": "244",
+     "Item": "3456"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "65",
+     "Name": "拘魂索命",
+     "HeroId": "2420",
+     "Mark": "245",
+     "Item": "3460"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "66",
+     "Name": "冰雪莺女",
+     "HeroId": "2430",
+     "Mark": "246",
+     "Item": "3463"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "67",
+     "Name": "功夫熊猫",
+     "HeroId": "2440",
+     "Mark": "247",
+     "Item": "3465"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "68",
+     "Name": "暗黑人鱼",
+     "HeroId": "2450",
+     "Mark": "248",
+     "Item": "3470"
+    },
+    {
+     "_tag": "Clear",
+     "GS": "40,120,240,480,800",
+     "AttributeType": "0",
+     "AttributeName": "血量",
+     "Max": "240000",
+     "AttributePro": "100",
+     "Percentage": "5,15,30,60,100",
+     "Probability": "15,20,30,20,15",
+     "Pro5Control": "5"
+    },
+    {
+     "_tag": "Clear",
+     "GS": "40,120,240,480,800",
+     "AttributeType": "1",
+     "AttributeName": "攻击",
+     "Max": "8000",
+     "AttributePro": "100",
+     "Percentage": "5,15,30,60,100",
+     "Probability": "15,20,30,20,15",
+     "Pro5Control": "5"
+    },
+    {
+     "_tag": "Clear",
+     "GS": "40,120,240,480,800",
+     "AttributeType": "2",
+     "AttributeName": "韧性",
+     "Max": "1600",
+     "AttributePro": "100",
+     "Percentage": "5,15,30,60,100",
+     "Probability": "15,20,30,20,15",
+     "Pro5Control": "5"
+    },
+    {
+     "_tag": "Clear",
+     "GS": "40,120,240,480,800",
+     "AttributeType": "3",
+     "AttributeName": "暴击伤害",
+     "Max": "16000",
+     "AttributePro": "100",
+     "Percentage": "5,15,30,60,100",
+     "Probability": "15,20,30,20,15",
+     "Pro5Control": "5"
+    },
+    {
+     "_tag": "Clear",
+     "GS": "40,120,240,480,800",
+     "AttributeType": "4",
+     "AttributeName": "闪避 ",
+     "Max": "4000",
+     "AttributePro": "100",
+     "Percentage": "5,15,30,60,100",
+     "Probability": "15,20,30,20,15",
+     "Pro5Control": "5"
+    },
+    {
+     "_tag": "Clear",
+     "GS": "40,120,240,480,800",
+     "AttributeType": "5",
+     "AttributeName": "命中",
+     "Max": "15600",
+     "AttributePro": "100",
+     "Percentage": "5,15,30,60,100",
+     "Probability": "15,20,30,20,15",
+     "Pro5Control": "5"
+    },
+    {
+     "_tag": "Clear",
+     "GS": "40,120,240,480,800",
+     "AttributeType": "6",
+     "AttributeName": "暴击",
+     "Max": "1440",
+     "AttributePro": "100",
+     "Percentage": "5,15,30,60,100",
+     "Probability": "15,20,30,20,15",
+     "Pro5Control": "5"
+    }
+   ]
+  },
+  {
+   "_tag": "List",
+   "Type": "2",
+   "ClearCon": "10",
+   "ClearNum": "3",
+   "Gem": "500",
+   "NotAppear": "4,5",
+   "Awake": "2",
+   "Star": "1",
+   "_children": [
+    {
+     "_tag": "Level",
+     "Lv": "1",
+     "Attack": "8",
+     "Hp": "240",
+     "OrdinaryCost": "4,0,150",
+     "GS": "2"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "2",
+     "Attack": "24",
+     "Hp": "720",
+     "OrdinaryCost": "4,0,300",
+     "GS": "7"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "3",
+     "Attack": "48",
+     "Hp": "1440",
+     "OrdinaryCost": "4,0,450",
+     "GS": "14"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "4",
+     "Attack": "80",
+     "Hp": "2400",
+     "OrdinaryCost": "4,0,600",
+     "HeroCost": "1",
+     "GS": "24"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "5",
+     "Attack": "120",
+     "Hp": "3600",
+     "OrdinaryCost": "4,0,750",
+     "ItemCost": "5",
+     "GS": "36"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "6",
+     "Attack": "168",
+     "Hp": "5040",
+     "OrdinaryCost": "4,0,900",
+     "ItemCost": "10",
+     "GS": "50"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "7",
+     "Attack": "224",
+     "Hp": "6720",
+     "OrdinaryCost": "4,0,1050",
+     "ItemCost": "15",
+     "GS": "67"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "8",
+     "Attack": "288",
+     "Hp": "8640",
+     "OrdinaryCost": "4,0,1200",
+     "ItemCost": "20",
+     "GS": "86"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "9",
+     "Attack": "360",
+     "Hp": "10800",
+     "OrdinaryCost": "4,0,1350",
+     "HeroCost": "1",
+     "GS": "108"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "10",
+     "Attack": "440",
+     "Hp": "13200",
+     "OrdinaryCost": "4,0,1500",
+     "ItemCost": "25",
+     "GS": "132"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "11",
+     "Attack": "528",
+     "Hp": "15840",
+     "OrdinaryCost": "4,0,1750",
+     "ItemCost": "30",
+     "GS": "158"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "12",
+     "Attack": "624",
+     "Hp": "18720",
+     "OrdinaryCost": "4,0,2000",
+     "ItemCost": "35",
+     "GS": "187"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "13",
+     "Attack": "728",
+     "Hp": "21840",
+     "OrdinaryCost": "4,0,2250",
+     "ItemCost": "40",
+     "GS": "218"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "14",
+     "Attack": "840",
+     "Hp": "25200",
+     "OrdinaryCost": "4,0,2500",
+     "HeroCost": "1",
+     "GS": "252"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "15",
+     "Attack": "960",
+     "Hp": "28800",
+     "OrdinaryCost": "4,0,2750",
+     "ItemCost": "45",
+     "GS": "288"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "16",
+     "Attack": "1088",
+     "Hp": "32640",
+     "OrdinaryCost": "4,0,3000",
+     "ItemCost": "50",
+     "GS": "326"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "17",
+     "Attack": "1224",
+     "Hp": "36720",
+     "OrdinaryCost": "4,0,3250",
+     "ItemCost": "55",
+     "GS": "367"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "18",
+     "Attack": "1368",
+     "Hp": "41040",
+     "OrdinaryCost": "4,0,3500",
+     "ItemCost": "60",
+     "GS": "410"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "19",
+     "Attack": "1520",
+     "Hp": "45600",
+     "OrdinaryCost": "4,0,3750",
+     "HeroCost": "1",
+     "GS": "456"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "20",
+     "Attack": "1680",
+     "Hp": "50400",
+     "OrdinaryCost": "4,0,4000",
+     "ItemCost": "65",
+     "StarNum": "1,5",
+     "ItemCost1": "4,1,7000;5,3281,20",
+     "GS": "504"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "21",
+     "Attack": "1848",
+     "Hp": "55440",
+     "OrdinaryCost": "4,0,4250",
+     "ItemCost": "70",
+     "GS": "554"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "22",
+     "Attack": "2024",
+     "Hp": "60720",
+     "OrdinaryCost": "4,0,4500",
+     "ItemCost": "75",
+     "GS": "607"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "23",
+     "Attack": "2208",
+     "Hp": "66240",
+     "OrdinaryCost": "4,0,4750",
+     "ItemCost": "80",
+     "GS": "662"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "24",
+     "Attack": "2400",
+     "Hp": "72000",
+     "OrdinaryCost": "4,0,5150",
+     "HeroCost": "1",
+     "GS": "720"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "25",
+     "Attack": "2600",
+     "Hp": "78000",
+     "OrdinaryCost": "4,0,5550",
+     "ItemCost": "85",
+     "GS": "780"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "26",
+     "Attack": "2808",
+     "Hp": "84240",
+     "OrdinaryCost": "4,0,5950",
+     "ItemCost": "90",
+     "GS": "842"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "27",
+     "Attack": "3024",
+     "Hp": "90720",
+     "OrdinaryCost": "4,0,6350",
+     "ItemCost": "95",
+     "GS": "907"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "28",
+     "Attack": "3248",
+     "Hp": "97440",
+     "OrdinaryCost": "4,0,6750",
+     "ItemCost": "100",
+     "GS": "974"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "29",
+     "Attack": "3480",
+     "Hp": "104400",
+     "OrdinaryCost": "4,0,7150",
+     "HeroCost": "1",
+     "GS": "1044"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "30",
+     "Attack": "3720",
+     "Hp": "111600",
+     "OrdinaryCost": "4,0,7550",
+     "ItemCost": "110",
+     "StarNum": "2,15",
+     "ItemCost1": "4,1,14000;5,3281,150",
+     "GS": "1116"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "31",
+     "Attack": "3968",
+     "Hp": "119040",
+     "OrdinaryCost": "4,0,8050",
+     "ItemCost": "120",
+     "GS": "1190"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "32",
+     "Attack": "4224",
+     "Hp": "126720",
+     "OrdinaryCost": "4,0,8600",
+     "ItemCost": "130",
+     "GS": "1267"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "33",
+     "Attack": "4488",
+     "Hp": "134640",
+     "OrdinaryCost": "4,0,9250",
+     "ItemCost": "140",
+     "GS": "1346"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "34",
+     "Attack": "4760",
+     "Hp": "142800",
+     "OrdinaryCost": "4,0,10000",
+     "HeroCost": "1",
+     "GS": "1428"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "35",
+     "Attack": "5040",
+     "Hp": "151200",
+     "OrdinaryCost": "4,0,10750",
+     "ItemCost": "150",
+     "GS": "1512"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "36",
+     "Attack": "5328",
+     "Hp": "159840",
+     "OrdinaryCost": "4,0,11500",
+     "ItemCost": "160",
+     "GS": "1598"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "37",
+     "Attack": "5624",
+     "Hp": "168720",
+     "OrdinaryCost": "4,0,12250",
+     "ItemCost": "170",
+     "GS": "1687"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "38",
+     "Attack": "5928",
+     "Hp": "177840",
+     "OrdinaryCost": "4,0,13000",
+     "ItemCost": "180",
+     "GS": "1778"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "39",
+     "Attack": "6240",
+     "Hp": "187200",
+     "OrdinaryCost": "4,0,13750",
+     "HeroCost": "1",
+     "GS": "1872"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "40",
+     "Attack": "6560",
+     "Hp": "196800",
+     "OrdinaryCost": "4,0,14500",
+     "ItemCost": "195",
+     "StarNum": "3,30",
+     "ItemCost1": "4,1,28000;5,3281,400",
+     "GS": "1968"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "41",
+     "Attack": "6888",
+     "Hp": "206640",
+     "OrdinaryCost": "4,0,15500",
+     "ItemCost": "210",
+     "GS": "2066"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "42",
+     "Attack": "7224",
+     "Hp": "216720",
+     "OrdinaryCost": "4,0,16500",
+     "ItemCost": "225",
+     "GS": "2167"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "43",
+     "Attack": "7568",
+     "Hp": "227040",
+     "OrdinaryCost": "4,0,17500",
+     "ItemCost": "240",
+     "GS": "2270"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "44",
+     "Attack": "7920",
+     "Hp": "237600",
+     "OrdinaryCost": "4,0,18500",
+     "HeroCost": "1",
+     "GS": "2376"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "45",
+     "Attack": "8280",
+     "Hp": "248400",
+     "OrdinaryCost": "4,0,19500",
+     "ItemCost": "255",
+     "GS": "2484"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "46",
+     "Attack": "8648",
+     "Hp": "259440",
+     "OrdinaryCost": "4,0,20500",
+     "ItemCost": "270",
+     "GS": "2594"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "47",
+     "Attack": "9024",
+     "Hp": "270720",
+     "OrdinaryCost": "4,0,21500",
+     "ItemCost": "285",
+     "GS": "2707"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "48",
+     "Attack": "9408",
+     "Hp": "282240",
+     "OrdinaryCost": "4,0,22500",
+     "ItemCost": "300",
+     "GS": "2822"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "49",
+     "Attack": "9800",
+     "Hp": "294000",
+     "OrdinaryCost": "4,0,23500",
+     "HeroCost": "1",
+     "GS": "2940"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "50",
+     "Attack": "10200",
+     "Hp": "306000",
+     "OrdinaryCost": "5,3273,20",
+     "ItemCost": "320",
+     "StarNum": "4,50",
+     "ItemCost1": "4,1,49000;5,3281,800",
+     "GS": "3060"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "51",
+     "Attack": "10608",
+     "Hp": "318240",
+     "OrdinaryCost": "5,3273,30",
+     "ItemCost": "340",
+     "GS": "3182"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "52",
+     "Attack": "11024",
+     "Hp": "330720",
+     "OrdinaryCost": "5,3273,40",
+     "ItemCost": "360",
+     "GS": "3307"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "53",
+     "Attack": "11448",
+     "Hp": "343440",
+     "OrdinaryCost": "5,3273,50",
+     "ItemCost": "380",
+     "GS": "3434"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "54",
+     "Attack": "11880",
+     "Hp": "356400",
+     "OrdinaryCost": "5,3273,60",
+     "HeroCost": "2",
+     "GS": "3564"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "55",
+     "Attack": "12320",
+     "Hp": "369600",
+     "OrdinaryCost": "5,3273,80",
+     "ItemCost": "400",
+     "GS": "3696"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "56",
+     "Attack": "12768",
+     "Hp": "383040",
+     "OrdinaryCost": "5,3273,100",
+     "ItemCost": "420",
+     "GS": "3830"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "57",
+     "Attack": "13224",
+     "Hp": "396720",
+     "OrdinaryCost": "5,3273,120",
+     "ItemCost": "440",
+     "GS": "3967"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "58",
+     "Attack": "13688",
+     "Hp": "410640",
+     "OrdinaryCost": "5,3273,140",
+     "ItemCost": "460",
+     "GS": "4106"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "59",
+     "Attack": "14160",
+     "Hp": "424800",
+     "OrdinaryCost": "5,3273,160",
+     "HeroCost": "2",
+     "GS": "4248"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "60",
+     "Attack": "14640",
+     "Hp": "439200",
+     "OrdinaryCost": "5,3273,180",
+     "ItemCost": "480",
+     "StarNum": "5,90",
+     "ItemCost1": "4,1,70000;5,3281,1500",
+     "GS": "4392"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "61",
+     "Attack": "15128",
+     "Hp": "453840",
+     "OrdinaryCost": "5,3273,200",
+     "ItemCost": "500",
+     "GS": "4538"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "62",
+     "Attack": "15624",
+     "Hp": "468720",
+     "OrdinaryCost": "5,3273,220",
+     "ItemCost": "520",
+     "GS": "4687"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "63",
+     "Attack": "16128",
+     "Hp": "483840",
+     "OrdinaryCost": "5,3273,240",
+     "ItemCost": "540",
+     "GS": "4838"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "64",
+     "Attack": "16640",
+     "Hp": "499200",
+     "OrdinaryCost": "5,3273,260",
+     "HeroCost": "2",
+     "GS": "4992"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "65",
+     "Attack": "17160",
+     "Hp": "514800",
+     "OrdinaryCost": "5,3273,280",
+     "ItemCost": "560",
+     "GS": "5148"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "66",
+     "Attack": "17688",
+     "Hp": "530640",
+     "OrdinaryCost": "5,3273,300",
+     "ItemCost": "580",
+     "GS": "5306"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "67",
+     "Attack": "18224",
+     "Hp": "546720",
+     "OrdinaryCost": "5,3273,320",
+     "ItemCost": "600",
+     "GS": "5467"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "68",
+     "Attack": "18768",
+     "Hp": "563040",
+     "OrdinaryCost": "5,3273,340",
+     "ItemCost": "620",
+     "GS": "5630"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "69",
+     "Attack": "19320",
+     "Hp": "579600",
+     "OrdinaryCost": "5,3273,360",
+     "HeroCost": "2",
+     "GS": "5796"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "70",
+     "Attack": "19880",
+     "Hp": "596400",
+     "OrdinaryCost": "5,3273,400",
+     "ItemCost": "640",
+     "StarNum": "6,140",
+     "ItemCost1": "4,1,95000;5,3281,3000",
+     "GS": "5964"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "71",
+     "Attack": "20448",
+     "Hp": "613440",
+     "OrdinaryCost": "5,3273,440",
+     "ItemCost": "660",
+     "GS": "6134"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "72",
+     "Attack": "21024",
+     "Hp": "630720",
+     "OrdinaryCost": "5,3273,480",
+     "ItemCost": "680",
+     "GS": "6307"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "73",
+     "Attack": "21608",
+     "Hp": "648240",
+     "OrdinaryCost": "5,3273,520",
+     "ItemCost": "700",
+     "GS": "6482"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "74",
+     "Attack": "22200",
+     "Hp": "666000",
+     "OrdinaryCost": "5,3273,560",
+     "HeroCost": "2",
+     "GS": "6660"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "75",
+     "Attack": "22800",
+     "Hp": "684000",
+     "OrdinaryCost": "5,3435,20",
+     "ItemCost": "720",
+     "GS": "6840"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "76",
+     "Attack": "23408",
+     "Hp": "702240",
+     "OrdinaryCost": "5,3435,30",
+     "ItemCost": "740",
+     "GS": "7022"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "77",
+     "Attack": "24024",
+     "Hp": "720720",
+     "OrdinaryCost": "5,3435,40",
+     "ItemCost": "760",
+     "GS": "7207"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "78",
+     "Attack": "24648",
+     "Hp": "739440",
+     "OrdinaryCost": "5,3435,50",
+     "ItemCost": "780",
+     "GS": "7394"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "79",
+     "Attack": "25280",
+     "Hp": "758400",
+     "OrdinaryCost": "5,3435,60",
+     "HeroCost": "2",
+     "GS": "7584"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "80",
+     "Attack": "25920",
+     "Hp": "777600",
+     "OrdinaryCost": "5,3435,80",
+     "ItemCost": "800",
+     "StarNum": "7,200",
+     "ItemCost1": "4,1,120000;5,3436,150",
+     "GS": "7776"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "81",
+     "Attack": "26568",
+     "Hp": "797040",
+     "OrdinaryCost": "5,3435,100",
+     "ItemCost": "820",
+     "GS": "7970"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "82",
+     "Attack": "27224",
+     "Hp": "816720",
+     "OrdinaryCost": "5,3435,120",
+     "ItemCost": "840",
+     "GS": "8167"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "83",
+     "Attack": "27888",
+     "Hp": "836640",
+     "OrdinaryCost": "5,3435,140",
+     "ItemCost": "860",
+     "GS": "8366"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "84",
+     "Attack": "28560",
+     "Hp": "856800",
+     "OrdinaryCost": "5,3435,160",
+     "HeroCost": "3",
+     "GS": "8568"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "85",
+     "Attack": "29240",
+     "Hp": "877200",
+     "OrdinaryCost": "5,3435,180",
+     "ItemCost": "880",
+     "GS": "8772"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "86",
+     "Attack": "29928",
+     "Hp": "897840",
+     "OrdinaryCost": "5,3435,200",
+     "ItemCost": "900",
+     "GS": "8978"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "87",
+     "Attack": "30624",
+     "Hp": "918720",
+     "OrdinaryCost": "5,3435,220",
+     "ItemCost": "920",
+     "GS": "9187"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "88",
+     "Attack": "31328",
+     "Hp": "939840",
+     "OrdinaryCost": "5,3435,240",
+     "ItemCost": "940",
+     "GS": "9398"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "89",
+     "Attack": "32040",
+     "Hp": "961200",
+     "OrdinaryCost": "5,3435,260",
+     "HeroCost": "3",
+     "GS": "9612"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "90",
+     "Attack": "32760",
+     "Hp": "982800",
+     "OrdinaryCost": "5,3435,280",
+     "ItemCost": "960",
+     "StarNum": "8,280",
+     "ItemCost1": "4,1,160000;5,3436,400",
+     "GS": "9828"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "91",
+     "Attack": "33488",
+     "Hp": "1004640",
+     "OrdinaryCost": "5,3435,300",
+     "ItemCost": "980",
+     "GS": "10046"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "92",
+     "Attack": "34224",
+     "Hp": "1026720",
+     "OrdinaryCost": "5,3435,320",
+     "ItemCost": "1000",
+     "GS": "10267"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "93",
+     "Attack": "34968",
+     "Hp": "1049040",
+     "OrdinaryCost": "5,3435,340",
+     "ItemCost": "1020",
+     "GS": "10490"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "94",
+     "Attack": "35720",
+     "Hp": "1071600",
+     "OrdinaryCost": "5,3435,360",
+     "HeroCost": "3",
+     "GS": "10716"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "95",
+     "Attack": "36480",
+     "Hp": "1094400",
+     "OrdinaryCost": "5,3435,400",
+     "ItemCost": "1040",
+     "GS": "10944"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "96",
+     "Attack": "37248",
+     "Hp": "1117440",
+     "OrdinaryCost": "5,3435,440",
+     "ItemCost": "1060",
+     "GS": "11174"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "97",
+     "Attack": "38024",
+     "Hp": "1140720",
+     "OrdinaryCost": "5,3435,480",
+     "ItemCost": "1080",
+     "GS": "11407"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "98",
+     "Attack": "38808",
+     "Hp": "1164240",
+     "OrdinaryCost": "5,3435,520",
+     "ItemCost": "1100",
+     "GS": "11642"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "99",
+     "Attack": "39600",
+     "Hp": "1188000",
+     "OrdinaryCost": "5,3435,560",
+     "HeroCost": "3",
+     "GS": "11880"
+    },
+    {
+     "_tag": "Level",
+     "Lv": "100",
+     "Attack": "40400",
+     "Hp": "1212000",
+     "OrdinaryCost": "5,3435,600",
+     "StarNum": "9,380",
+     "ItemCost1": "4,1,200000;5,3436,800",
+     "GS": "12120"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "1001",
+     "Name": "聖騎士",
+     "HeroId": "210",
+     "Mark": "1",
+     "Item": "2345"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "1002",
+     "Name": "幽靈法師",
+     "HeroId": "230",
+     "Mark": "3",
+     "Item": "2345"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "1003",
+     "Name": "影舞者",
+     "HeroId": "240",
+     "Mark": "4",
+     "Item": "2345"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "1004",
+     "Name": "魅魔",
+     "HeroId": "350",
+     "Mark": "10",
+     "Item": "2345"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "1005",
+     "Name": "山丘之王",
+     "HeroId": "430",
+     "Mark": "13",
+     "Item": "2345"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "1006",
+     "Name": "獨眼巨人",
+     "HeroId": "440",
+     "Mark": "14",
+     "Item": "2345"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "1007",
+     "Name": "德魯伊",
+     "HeroId": "480",
+     "Mark": "18",
+     "Item": "2345"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "1008",
+     "Name": "雷神",
+     "HeroId": "530",
+     "Mark": "23",
+     "Item": "2345"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "1009",
+     "Name": "南瓜公爵",
+     "HeroId": "540",
+     "Mark": "24",
+     "Item": "2345"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "1010",
+     "Name": "牛頭酋長",
+     "HeroId": "550",
+     "Mark": "25",
+     "Item": "2345"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "1011",
+     "Name": "死神",
+     "HeroId": "560",
+     "Mark": "26",
+     "Item": "2345"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "1012",
+     "Name": "鳞甲毒蝎",
+     "HeroId": "620",
+     "Mark": "32",
+     "Item": "2345"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "1013",
+     "Name": "雪人",
+     "HeroId": "630",
+     "Mark": "33",
+     "Item": "2345"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "1014",
+     "Name": "爱神",
+     "HeroId": "670",
+     "Mark": "37",
+     "Item": "2345"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "1015",
+     "Name": "法老",
+     "HeroId": "720",
+     "Mark": "42",
+     "Item": "2345"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "1016",
+     "Name": "火焰之翼",
+     "HeroId": "740",
+     "Mark": "44",
+     "Item": "2345"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "1017",
+     "Name": "混沌騎士",
+     "HeroId": "750",
+     "Mark": "45",
+     "Item": "2345"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "1018",
+     "Name": "血族親王",
+     "HeroId": "760",
+     "Mark": "49",
+     "Item": "2345"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "1019",
+     "Name": "死亡骑士",
+     "HeroId": "770",
+     "Mark": "50",
+     "Item": "2345"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "1020",
+     "Name": "血斧",
+     "HeroId": "780",
+     "Mark": "51",
+     "Item": "2345"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "1021",
+     "Name": "聖誕老人",
+     "HeroId": "790",
+     "Mark": "52",
+     "Item": "2345"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "1022",
+     "Name": "花妖",
+     "HeroId": "800",
+     "Mark": "53",
+     "Item": "2345"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "1023",
+     "Name": "娜迦祭司",
+     "HeroId": "880",
+     "Mark": "55",
+     "Item": "2345"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "1024",
+     "Name": "毀滅之王",
+     "HeroId": "890",
+     "Mark": "56",
+     "Item": "2345"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "1025",
+     "Name": "烈焰術士",
+     "HeroId": "900",
+     "Mark": "57",
+     "Item": "2345"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "1026",
+     "Name": "森林之王",
+     "HeroId": "910",
+     "Mark": "58",
+     "Item": "2345"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "1027",
+     "Name": "鷹身女王",
+     "HeroId": "1010",
+     "Mark": "59",
+     "Item": "2345"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "1028",
+     "Name": "不死領主",
+     "HeroId": "1020",
+     "Mark": "60",
+     "Item": "2345"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "1029",
+     "Name": "海盜船長",
+     "HeroId": "1030",
+     "Mark": "61",
+     "Item": "2345"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "1030",
+     "Name": "邪眼惡靈",
+     "HeroId": "1040",
+     "Mark": "62",
+     "Item": "2345"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "1031",
+     "Name": "聖誕女郎",
+     "HeroId": "1050",
+     "Mark": "63",
+     "Item": "2345"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "1032",
+     "Name": "蒼藍之翼",
+     "HeroId": "1060",
+     "Mark": "64",
+     "Item": "2345"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "1033",
+     "Name": "甜心女皇",
+     "HeroId": "1090",
+     "Mark": "67",
+     "Item": "2345"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "1034",
+     "Name": "幽靈之王",
+     "HeroId": "1100",
+     "Mark": "68",
+     "Item": "2345"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "1035",
+     "Name": "驯兽师",
+     "HeroId": "1110",
+     "Mark": "69",
+     "Item": "2345"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "1036",
+     "Name": "雷霆猎手",
+     "HeroId": "1130",
+     "Mark": "71",
+     "Item": "2345"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "1037",
+     "Name": "地狱公爵",
+     "HeroId": "1140",
+     "Mark": "74",
+     "Item": "2345"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "1038",
+     "Name": "厄运之斧",
+     "HeroId": "1160",
+     "Mark": "76",
+     "Item": "2345"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "1039",
+     "Name": "诅咒女妖",
+     "HeroId": "1180",
+     "Mark": "79",
+     "Item": "2345"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "1040",
+     "Name": "雷霆之翼",
+     "HeroId": "1190",
+     "Mark": "80",
+     "Item": "2345"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "1041",
+     "Name": "南瓜女巫",
+     "HeroId": "1200",
+     "Mark": "81",
+     "Item": "2345"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "1042",
+     "Name": "亡灵铁骑",
+     "HeroId": "1220",
+     "Mark": "83",
+     "Item": "2345"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "1043",
+     "Name": "金叮当",
+     "HeroId": "1230",
+     "Mark": "85",
+     "Item": "2345"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "1044",
+     "Name": "审判天使",
+     "HeroId": "1240",
+     "Mark": "87",
+     "Item": "2345"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "1045",
+     "Name": "枪炮萝莉",
+     "HeroId": "1250",
+     "Mark": "88",
+     "Item": "2345"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "1046",
+     "Name": "荒漠冥神",
+     "HeroId": "1260",
+     "Mark": "89",
+     "Item": "2345"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "1047",
+     "Name": "武藏",
+     "HeroId": "1270",
+     "Mark": "91",
+     "Item": "2345"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "1048",
+     "Name": "战争玫瑰",
+     "HeroId": "1280",
+     "Mark": "92",
+     "Item": "2345"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "1049",
+     "Name": "荒野巨犀",
+     "HeroId": "1300",
+     "Mark": "95",
+     "Item": "2345"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "1050",
+     "Name": "铁甲钢拳",
+     "HeroId": "1310",
+     "Mark": "97",
+     "Item": "2345"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "1051",
+     "Name": "凛骨之翼",
+     "HeroId": "1330",
+     "Mark": "103",
+     "Item": "2345"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "1052",
+     "Name": "巫鸦祭祀",
+     "HeroId": "1340",
+     "Mark": "104",
+     "Item": "2345"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "1053",
+     "Name": "改造人1号",
+     "HeroId": "1350",
+     "Mark": "105",
+     "Item": "2345"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "1054",
+     "Name": "光辉女神",
+     "HeroId": "1360",
+     "Mark": "106",
+     "Item": "2345"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "1055",
+     "Name": "圣诞雪怪",
+     "HeroId": "1370",
+     "Mark": "108",
+     "Item": "2345"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "1056",
+     "Name": "牧灵使者",
+     "HeroId": "1380",
+     "Mark": "110",
+     "Item": "2345"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "1057",
+     "Name": "红心射手",
+     "HeroId": "1390",
+     "Mark": "112",
+     "Item": "2345"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "1058",
+     "Name": "汪洋女皇",
+     "HeroId": "1400",
+     "Mark": "115",
+     "Item": "2345"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "1059",
+     "Name": "噬雷者",
+     "HeroId": "1410",
+     "Mark": "116",
+     "Item": "2345"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "1060",
+     "Name": "跳跳博士",
+     "HeroId": "1420",
+     "Mark": "118",
+     "Item": "2345"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "1061",
+     "Name": "熔岩之翼",
+     "HeroId": "1430",
+     "Mark": "120",
+     "Item": "2345"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "1062",
+     "Name": "鬼眼修罗",
+     "HeroId": "1440",
+     "Mark": "122",
+     "Item": "2345"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "1063",
+     "Name": "寒冰术士",
+     "HeroId": "1450",
+     "Mark": "126",
+     "Item": "2345"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "1064",
+     "Name": "捣蛋奇兵",
+     "HeroId": "1460",
+     "Mark": "127",
+     "Item": "2345"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "1065",
+     "Name": "祸乱心魔",
+     "HeroId": "1470",
+     "Mark": "130",
+     "Item": "2345"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "1066",
+     "Name": "萝莉上将",
+     "HeroId": "1490",
+     "Mark": "132",
+     "Item": "2345"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "1067",
+     "Name": "玄冰怒凤",
+     "HeroId": "1500",
+     "Mark": "133",
+     "Item": "2345"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "1068",
+     "Name": "萝卜勇士",
+     "HeroId": "1510",
+     "Mark": "134",
+     "Item": "2345"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "1069",
+     "Name": "蔷薇战神",
+     "HeroId": "1520",
+     "Mark": "135",
+     "Item": "2345"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "1070",
+     "Name": "星辰之靈",
+     "HeroId": "1530",
+     "Mark": "139",
+     "Item": "2345"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "1071",
+     "Name": "碎裂先鋒",
+     "HeroId": "1540",
+     "Mark": "140",
+     "Item": "2345"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "1072",
+     "Name": "正義之壁",
+     "HeroId": "1550",
+     "Mark": "142",
+     "Item": "2345"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "1073",
+     "Name": "暴风之翼",
+     "HeroId": "1560",
+     "Mark": "144",
+     "Item": "2345"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "1074",
+     "Name": "巫蛊术士",
+     "HeroId": "1570",
+     "Mark": "146",
+     "Item": "2345"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "1075",
+     "Name": "恐惧主宰",
+     "HeroId": "1580",
+     "Mark": "147",
+     "Item": "2345"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "1076",
+     "Name": "绝命之刺",
+     "HeroId": "1590",
+     "Mark": "148",
+     "Item": "2345"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "1077",
+     "Name": "灰烬猎者",
+     "HeroId": "1600",
+     "Mark": "149",
+     "Item": "2345"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "1078",
+     "Name": "镜心女妖",
+     "HeroId": "1610",
+     "Mark": "150",
+     "Item": "2345"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "1079",
+     "Name": "敖龙行者",
+     "HeroId": "1620",
+     "Mark": "151",
+     "Item": "2345"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "1080",
+     "Name": "壁垒巨熊",
+     "HeroId": "1630",
+     "Mark": "152",
+     "Item": "2345"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "1081",
+     "Name": "吟游诗人",
+     "HeroId": "1640",
+     "Mark": "153",
+     "Item": "2345"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "1082",
+     "Name": "冰晶主宰",
+     "HeroId": "1650",
+     "Mark": "154",
+     "Item": "2345"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "1083",
+     "Name": "寒夜之靈",
+     "HeroId": "1660",
+     "Mark": "155",
+     "Item": "2345"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "1084",
+     "Name": "寒霜之镰",
+     "HeroId": "1670",
+     "Mark": "156",
+     "Item": "2345"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "1085",
+     "Name": "神英圣女",
+     "HeroId": "1680",
+     "Mark": "157",
+     "Item": "2345"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "1086",
+     "Name": "符文魔导师",
+     "HeroId": "1700",
+     "Mark": "159",
+     "Item": "2345"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "1087",
+     "Name": "灰燼之焰",
+     "HeroId": "1710",
+     "Mark": "161",
+     "Item": "2345"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "1088",
+     "Name": "源能機甲",
+     "HeroId": "1720",
+     "Mark": "162",
+     "Item": "2345"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "1089",
+     "Name": "暗影大师",
+     "HeroId": "1730",
+     "Mark": "163",
+     "Item": "2345"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "1090",
+     "Name": "兽化忍者",
+     "HeroId": "1740",
+     "Mark": "164",
+     "Item": "2345"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "1091",
+     "Name": "诡秘狂徒",
+     "HeroId": "1750",
+     "Mark": "165",
+     "Item": "2345"
+    },
+    {
+     "_tag": "Relationship",
+     "ID": "1092",
+     "Name": "魔术小姐",
+     "HeroId": "1760",
+     "Mark": "166",
+     "Item": "2345"
+    },
+    {
+     "_tag": "Clear",
+     "GS": "20,60,120,240,400",
+     "AttributeType": "0",
+     "AttributeName": "血量",
+     "Max": "120000",
+     "AttributePro": "100",
+     "Percentage": "5,15,30,60,100",
+     "Probability": "15,20,30,20,15",
+     "Pro5Control": "5"
+    },
+    {
+     "_tag": "Clear",
+     "GS": "20,60,120,240,400",
+     "AttributeType": "1",
+     "AttributeName": "攻击",
+     "Max": "4000",
+     "AttributePro": "100",
+     "Percentage": "5,15,30,60,100",
+     "Probability": "15,20,30,20,15",
+     "Pro5Control": "5"
+    },
+    {
+     "_tag": "Clear",
+     "GS": "20,60,120,240,400",
+     "AttributeType": "2",
+     "AttributeName": "韧性",
+     "Max": "800",
+     "AttributePro": "100",
+     "Percentage": "5,15,30,60,100",
+     "Probability": "15,20,30,20,15",
+     "Pro5Control": "5"
+    },
+    {
+     "_tag": "Clear",
+     "GS": "20,60,120,240,400",
+     "AttributeType": "3",
+     "AttributeName": "暴击伤害",
+     "Max": "8000",
+     "AttributePro": "100",
+     "Percentage": "5,15,30,60,100",
+     "Probability": "15,20,30,20,15",
+     "Pro5Control": "5"
+    },
+    {
+     "_tag": "Clear",
+     "GS": "20,60,120,240,400",
+     "AttributeType": "4",
+     "AttributeName": "闪避 ",
+     "Max": "2000",
+     "AttributePro": "100",
+     "Percentage": "5,15,30,60,100",
+     "Probability": "15,20,30,20,15",
+     "Pro5Control": "5"
+    },
+    {
+     "_tag": "Clear",
+     "GS": "20,60,120,240,400",
+     "AttributeType": "5",
+     "AttributeName": "命中",
+     "Max": "7800",
+     "AttributePro": "100",
+     "Percentage": "5,15,30,60,100",
+     "Probability": "15,20,30,20,15",
+     "Pro5Control": "5"
+    },
+    {
+     "_tag": "Clear",
+     "GS": "20,60,120,240,400",
+     "AttributeType": "6",
+     "AttributeName": "暴击",
+     "Max": "720",
+     "AttributePro": "100",
+     "Percentage": "5,15,30,60,100",
+     "Probability": "15,20,30,20,15",
+     "Pro5Control": "5"
+    }
+   ]
+  }
+ ]
+}

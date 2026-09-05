@@ -1,0 +1,16 @@
+{
+ "_note": "user-provided in-game per-system contributions for Dynamica; confirms stacking = base + flat sum. Relics(15/450) + Camp-Orderbound(8/680) matched our data EXACTLY.",
+ "systems_confirmed_exact": {"Relics_L1": {"ATK":15,"HP":450}, "Camp_Orderbound_L1": {"ATK":8,"HP":680,"CRIT":6}},
+ "systems_missing_or_wrong": ["Destiny stat bonus (our data has FateValue, not ATK/HP)", "gear HP (our gear = ATK only)", "Title(封号)", "Dice of Fate", "Breakthrough-45(突破)"],
+ "dynamica_loadout_totals": {"ATK":3242, "HP":82549, "ACC":404, "Dodge":1764, "CRIT":353, "CRIT_DMG":231, "CRIT_Resist":333},
+ "per_system": {
+   "Title": {"ATK":300,"HP":16800,"ACC":224,"Dodge":224,"CRIT":327,"CRIT_DMG":231,"CRIT_Resist":327},
+   "Equipment_gear_L20": {"ATK":1160,"HP":29000},
+   "Destiny_L4": {"ATK":40,"HP":1495,"ACC":56,"Dodge":56},
+   "Camp_Orderbound_L1": {"ATK":8,"HP":680,"CRIT":6,"CRIT_Resist":6},
+   "Breakthrough_L4": {"ATK":435,"HP":7650,"ACC":100,"Dodge":100,"CRIT":20},
+   "Relics_L1": {"ATK":15,"HP":450},
+   "Keepsake_Holy": {"ATK":1224,"HP":24674,"Dodge":1360},
+   "Dice_of_Fate": {"ATK":60,"HP":1800,"ACC":24,"Dodge":24}
+ }
+}

@@ -1,0 +1,1108 @@
+{
+"70781": {
+"name": "Moltanica",
+"skills": [
+{
+"id": 75000,
+"name": "?"
+},
+{
+"id": 75920,
+"name": "?"
+},
+{
+"id": 75924,
+"name": "?"
+},
+{
+"id": 76130,
+"name": "?"
+},
+{
+"id": 76276,
+"name": "?"
+},
+{
+"id": 76613,
+"name": "?"
+},
+{
+"id": 76614,
+"name": "?"
+},
+{
+"id": 76615,
+"name": "?"
+}
+]
+},
+"71761": {
+"name": "Cold Conjuress",
+"skills": [
+{
+"id": 75000,
+"name": "?"
+}
+]
+},
+"71801": {
+"name": "Vermilica",
+"skills": [
+{
+"id": 75000,
+"name": "?"
+}
+]
+},
+"70214": {
+"name": "Tundrahoof",
+"skills": [
+{
+"id": 75000,
+"name": "?"
+}
+]
+},
+"70222": {
+"name": "Jewellee",
+"skills": [
+{
+"id": 75000,
+"name": "?"
+}
+]
+},
+"70224": {
+"name": "Dusk Knight",
+"skills": [
+{
+"id": 75000,
+"name": "?"
+}
+]
+},
+"70228": {
+"name": "Lightchaser",
+"skills": [
+{
+"id": 75000,
+"name": "?"
+}
+]
+},
+"70229": {
+"name": "Evil Eye",
+"skills": [
+{
+"id": 75000,
+"name": "?"
+}
+]
+},
+"70230": {
+"name": "Lunar Hunter",
+"skills": [
+{
+"id": 75000,
+"name": "?"
+}
+]
+},
+"70244": {
+"name": "Ol&apos; Smoky",
+"skills": [
+{
+"id": 75000,
+"name": "?"
+}
+]
+},
+"70245": {
+"name": "Shysickle",
+"skills": [
+{
+"id": 75000,
+"name": "?"
+}
+]
+},
+"70247": {
+"name": "Puppeteer",
+"skills": [
+{
+"id": 75000,
+"name": "?"
+}
+]
+},
+"70321": {
+"name": "Werewolf",
+"skills": [
+{
+"id": 75000,
+"name": "?"
+}
+]
+},
+"70621": {
+"name": "Snowzilla",
+"skills": [
+{
+"id": 75000,
+"name": "?"
+},
+{
+"id": 76166,
+"name": "?"
+},
+{
+"id": 76800,
+"name": "?"
+}
+]
+},
+"71011": {
+"name": "Candy Kane",
+"skills": [
+{
+"id": 76400,
+"name": "?"
+},
+{
+"id": 76586,
+"name": "?"
+},
+{
+"id": 76800,
+"name": "?"
+}
+]
+},
+"71031": {
+"name": "Valentina",
+"skills": [
+{
+"id": 76626,
+"name": "?"
+},
+{
+"id": 76800,
+"name": "?"
+}
+]
+},
+"71061": {
+"name": "Lady Leo",
+"skills": [
+{
+"id": 75600,
+"name": "?"
+},
+{
+"id": 76666,
+"name": "?"
+},
+{
+"id": 76720,
+"name": "?"
+},
+{
+"id": 76800,
+"name": "?"
+}
+]
+},
+"71091": {
+"name": "Medusa",
+"skills": [
+{
+"id": 75960,
+"name": "?"
+},
+{
+"id": 76716,
+"name": "?"
+},
+{
+"id": 76800,
+"name": "?"
+}
+]
+},
+"71172": {
+"name": "?",
+"skills": [
+{
+"id": 75600,
+"name": "?"
+},
+{
+"id": 75921,
+"name": "Battle Hymn"
+},
+{
+"id": 76160,
+"name": "?"
+},
+{
+"id": 76616,
+"name": "?"
+},
+{
+"id": 76800,
+"name": "?"
+},
+{
+"id": 76826,
+"name": "?"
+}
+]
+},
+"71311": {
+"name": "Lavanica",
+"skills": [
+{
+"id": 75600,
+"name": "?"
+},
+{
+"id": 76140,
+"name": "?"
+},
+{
+"id": 76966,
+"name": "?"
+}
+]
+},
+"71341": {
+"name": "Rowdy Rascals",
+"skills": [
+{
+"id": 75840,
+"name": "?"
+},
+{
+"id": 76140,
+"name": "?"
+},
+{
+"id": 76160,
+"name": "?"
+},
+{
+"id": 76996,
+"name": "?"
+}
+]
+},
+"71431": {
+"name": "Zephyrica",
+"skills": [
+{
+"id": 76140,
+"name": "?"
+}
+]
+},
+"71511": {
+"name": "Rambard",
+"skills": [
+{
+"id": 76800,
+"name": "?"
+}
+]
+},
+"71531": {
+"name": "Boreal Fox",
+"skills": [
+{
+"id": 75800,
+"name": "?"
+},
+{
+"id": 76140,
+"name": "?"
+}
+]
+},
+"71561": {
+"name": "Rune Master",
+"skills": [
+{
+"id": 76140,
+"name": "?"
+},
+{
+"id": 76800,
+"name": "?"
+}
+]
+},
+"70241": {
+"name": "Angel",
+"skills": [
+{
+"id": 75600,
+"name": "?"
+}
+]
+},
+"70411": {
+"name": "Frost Witch",
+"skills": [
+{
+"id": 75600,
+"name": "?"
+}
+]
+},
+"70481": {
+"name": "Alchemist",
+"skills": [
+{
+"id": 75600,
+"name": "?"
+}
+]
+},
+"70741": {
+"name": "Immortep",
+"skills": [
+{
+"id": 76256,
+"name": "?"
+},
+{
+"id": 76440,
+"name": "?"
+}
+]
+},
+"70991": {
+"name": "Ghoulem",
+"skills": [
+{
+"id": 75600,
+"name": "?"
+},
+{
+"id": 76576,
+"name": "?"
+},
+{
+"id": 76600,
+"name": "?"
+}
+]
+},
+"71041": {
+"name": "Phantom King",
+"skills": [
+{
+"id": 75600,
+"name": "?"
+},
+{
+"id": 76160,
+"name": "?"
+},
+{
+"id": 76636,
+"name": "?"
+}
+]
+},
+"71141": {
+"name": "Michael",
+"skills": [
+{
+"id": 75600,
+"name": "?"
+},
+{
+"id": 76600,
+"name": "?"
+},
+{
+"id": 76776,
+"name": "?"
+}
+]
+},
+"71191": {
+"name": "Rockno",
+"skills": [
+{
+"id": 75600,
+"name": "?"
+},
+{
+"id": 76836,
+"name": "?"
+}
+]
+},
+"71671": {
+"name": "Water Priestess",
+"skills": [
+{
+"id": 75040,
+"name": "Shock Punishment"
+}
+]
+},
+"71691": {
+"name": "Axe Punisher",
+"skills": [
+{
+"id": 75040,
+"name": "Shock Punishment"
+}
+]
+},
+"71721": {
+"name": "Royal Mummy",
+"skills": [
+{
+"id": 75040,
+"name": "Shock Punishment"
+}
+]
+},
+"71771": {
+"name": "Genteel Droid",
+"skills": [
+{
+"id": 75040,
+"name": "Shock Punishment"
+}
+]
+},
+"71791": {
+"name": "Inquisitess",
+"skills": [
+{
+"id": 75040,
+"name": "Shock Punishment"
+}
+]
+},
+"71831": {
+"name": "Despotic Maestro",
+"skills": [
+{
+"id": 75040,
+"name": "Shock Punishment"
+}
+]
+},
+"70203": {
+"name": "Searing Slayer",
+"skills": [
+{
+"id": 75040,
+"name": "Shock Punishment"
+}
+]
+},
+"70207": {
+"name": "Gravedigger",
+"skills": [
+{
+"id": 75040,
+"name": "Shock Punishment"
+}
+]
+},
+"70201": {
+"name": "Paladin",
+"skills": [
+{
+"id": 75000,
+"name": "?"
+},
+{
+"id": 75746,
+"name": "?"
+}
+]
+},
+"70221": {
+"name": "Spirit Mage",
+"skills": [
+{
+"id": 75766,
+"name": "?"
+}
+]
+},
+"70231": {
+"name": "Ninja",
+"skills": [
+{
+"id": 75776,
+"name": "?"
+}
+]
+},
+"70341": {
+"name": "Succubus",
+"skills": [
+{
+"id": 75886,
+"name": "?"
+}
+]
+},
+"70421": {
+"name": "Champion",
+"skills": [
+{
+"id": 75966,
+"name": "?"
+}
+]
+},
+"70471": {
+"name": "Druid",
+"skills": [
+{
+"id": 76016,
+"name": "?"
+}
+]
+},
+"70521": {
+"name": "Thunder God",
+"skills": [
+{
+"id": 76066,
+"name": "?"
+}
+]
+},
+"70601": {
+"name": "Pumpkin Duke",
+"skills": [
+{
+"id": 76076,
+"name": "?"
+}
+]
+},
+"70541": {
+"name": "Minotaur Chieftain",
+"skills": [
+{
+"id": 76086,
+"name": "?"
+}
+]
+},
+"70581": {
+"name": "Grizzly Reaper",
+"skills": [
+{
+"id": 76096,
+"name": "?"
+}
+]
+},
+"70611": {
+"name": "Atlanticore",
+"skills": [
+{
+"id": 76156,
+"name": "?"
+}
+]
+},
+"70641": {
+"name": "Cupid",
+"skills": [
+{
+"id": 76206,
+"name": "?"
+}
+]
+},
+"70791": {
+"name": "Aries",
+"skills": [
+{
+"id": 76286,
+"name": "?"
+}
+]
+},
+"70821": {
+"name": "Vlad Dracula",
+"skills": [
+{
+"id": 76296,
+"name": "?"
+}
+]
+},
+"70901": {
+"name": "Death Knight",
+"skills": [
+{
+"id": 76306,
+"name": "?"
+}
+]
+},
+"70861": {
+"name": "Orksbane",
+"skills": [
+{
+"id": 76316,
+"name": "?"
+},
+{
+"id": 76320,
+"name": "?"
+}
+]
+},
+"70881": {
+"name": "Santa Boom",
+"skills": [
+{
+"id": 76326,
+"name": "?"
+},
+{
+"id": 76800,
+"name": "?"
+}
+]
+},
+"70911": {
+"name": "Pixie",
+"skills": [
+{
+"id": 76336,
+"name": "?"
+}
+]
+},
+"70931": {
+"name": "Siren",
+"skills": [
+{
+"id": 76416,
+"name": "?"
+}
+]
+},
+"70921": {
+"name": "Destroyer",
+"skills": [
+{
+"id": 76426,
+"name": "?"
+}
+]
+},
+"70941": {
+"name": "Warlock",
+"skills": [
+{
+"id": 76436,
+"name": "?"
+}
+]
+},
+"70951": {
+"name": "Treantaur",
+"skills": [
+{
+"id": 76446,
+"name": "?"
+}
+]
+},
+"70961": {
+"name": "Harpy Queen",
+"skills": [
+{
+"id": 76546,
+"name": "?"
+},
+{
+"id": 76550,
+"name": "?"
+}
+]
+},
+"70971": {
+"name": "Skull Knight",
+"skills": [
+{
+"id": 76556,
+"name": "?"
+}
+]
+},
+"70981": {
+"name": "Dread Drake",
+"skills": [
+{
+"id": 76240,
+"name": "?"
+},
+{
+"id": 76566,
+"name": "?"
+}
+]
+},
+"71021": {
+"name": "Arctica",
+"skills": [
+{
+"id": 76596,
+"name": "?"
+}
+]
+},
+"71051": {
+"name": "Beast Tamer",
+"skills": [
+{
+"id": 76000,
+"name": "?"
+},
+{
+"id": 76646,
+"name": "?"
+},
+{
+"id": 76656,
+"name": "?"
+}
+]
+},
+"71071": {
+"name": "Grimfiend",
+"skills": [
+{
+"id": 76676,
+"name": "?"
+},
+{
+"id": 76686,
+"name": "?"
+}
+]
+},
+"71081": {
+"name": "Dracax",
+"skills": [
+{
+"id": 76696,
+"name": "?"
+}
+]
+},
+"71100": {
+"name": "Demogorgon",
+"skills": [
+{
+"id": 76080,
+"name": "?"
+},
+{
+"id": 76726,
+"name": "?"
+},
+{
+"id": 76746,
+"name": "?"
+},
+{
+"id": 76856,
+"name": "?"
+}
+]
+},
+"71111": {
+"name": "Trixie Treat",
+"skills": [
+{
+"id": 75200,
+"name": "?"
+},
+{
+"id": 76736,
+"name": "?"
+}
+]
+},
+"71121": {
+"name": "Revenant",
+"skills": [
+{
+"id": 76756,
+"name": "?"
+}
+]
+},
+"71131": {
+"name": "Lil&apos; Nick",
+"skills": [
+{
+"id": 76766,
+"name": "?"
+}
+]
+},
+"71151": {
+"name": "Heartbreaker",
+"skills": [
+{
+"id": 76786,
+"name": "?"
+},
+{
+"id": 76800,
+"name": "?"
+}
+]
+},
+"71161": {
+"name": "Anubis",
+"skills": [
+{
+"id": 76796,
+"name": "?"
+}
+]
+},
+"71171": {
+"name": "Ronin",
+"skills": [
+{
+"id": 76806,
+"name": "?"
+}
+]
+},
+"71181": {
+"name": "Gunslinger",
+"skills": [
+{
+"id": 76816,
+"name": "?"
+}
+]
+},
+"71201": {
+"name": "Mechtessa",
+"skills": [
+{
+"id": 76320,
+"name": "?"
+},
+{
+"id": 76846,
+"name": "?"
+}
+]
+},
+"71211": {
+"name": "Skeletica",
+"skills": [
+{
+"id": 76866,
+"name": "?"
+}
+]
+},
+"71221": {
+"name": "Wallawalla",
+"skills": [
+{
+"id": 76876,
+"name": "?"
+}
+]
+},
+"71231": {
+"name": "Creation-01",
+"skills": [
+{
+"id": 76000,
+"name": "?"
+},
+{
+"id": 76886,
+"name": "?"
+}
+]
+},
+"71241": {
+"name": "Athene",
+"skills": [
+{
+"id": 76896,
+"name": "?"
+}
+]
+},
+"71251": {
+"name": "Sasquatch",
+"skills": [
+{
+"id": 76906,
+"name": "?"
+}
+]
+},
+"71261": {
+"name": "Espirita",
+"skills": [
+{
+"id": 76000,
+"name": "?"
+},
+{
+"id": 76916,
+"name": "?"
+}
+]
+},
+"71271": {
+"name": "Dove Keeper",
+"skills": [
+{
+"id": 75120,
+"name": "?"
+},
+{
+"id": 76926,
+"name": "?"
+}
+]
+},
+"71281": {
+"name": "Cirrina",
+"skills": [
+{
+"id": 76280,
+"name": "?"
+},
+{
+"id": 76936,
+"name": "?"
+}
+]
+},
+"71291": {
+"name": "Storm Eater",
+"skills": [
+{
+"id": 75400,
+"name": "?"
+},
+{
+"id": 76946,
+"name": "?"
+}
+]
+},
+"71301": {
+"name": "Professor Ribbit",
+"skills": [
+{
+"id": 76956,
+"name": "?"
+}
+]
+},
+"71321": {
+"name": "Asura",
+"skills": [
+{
+"id": 76976,
+"name": "?"
+}
+]
+},
+"71331": {
+"name": "Ma Hatma",
+"skills": [
+{
+"id": 76986,
+"name": "?"
+}
+]
+},
+"71351": {
+"name": "Bogeyman",
+"skills": [
+{
+"id": 76600,
+"name": "?"
+}
+]
+},
+"71361": {
+"name": "Commodora",
+"skills": [
+{
+"id": 75570,
+"name": "?"
+}
+]
+},
+"71401": {
+"name": "Cosmo",
+"skills": [
+{
+"id": 75580,
+"name": "?"
+}
+]
+},
+"71581": {
+"name": "Alphamech",
+"skills": [
+{
+"id": 76940,
+"name": "?"
+}
+]
+},
+"71601": {
+"name": "Berserker",
+"skills": [
+{
+"id": 76940,
+"name": "?"
+}
+]
+},
+"71381": {
+"name": "Plant Warrior",
+"skills": [
+{
+"id": 75120,
+"name": "?"
+}
+]
+},
+"71551": {
+"name": "Valiant Saintess",
+"skills": [
+{
+"id": 76720,
+"name": "?"
+}
+]
+}
+}

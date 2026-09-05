@@ -1,0 +1,356 @@
+[
+{
+"buffer_type": 1,
+"n_buffers": 85,
+"handler": "value-effect",
+"state_bit": null
+},
+{
+"buffer_type": 2,
+"n_buffers": 14,
+"handler": "value/other",
+"state_bit": null
+},
+{
+"buffer_type": 3,
+"n_buffers": 8,
+"handler": "UnSetObjectState(immune/cleanse)",
+"state_bit": "0x4"
+},
+{
+"buffer_type": 5,
+"n_buffers": 14,
+"handler": "value/other",
+"state_bit": null
+},
+{
+"buffer_type": 6,
+"n_buffers": 13,
+"handler": "value/other",
+"state_bit": null
+},
+{
+"buffer_type": 7,
+"n_buffers": 15,
+"handler": "value/other",
+"state_bit": null
+},
+{
+"buffer_type": 8,
+"n_buffers": 178,
+"handler": "value/other",
+"state_bit": null
+},
+{
+"buffer_type": 9,
+"n_buffers": 4,
+"handler": "value/other",
+"state_bit": null
+},
+{
+"buffer_type": 10,
+"n_buffers": 31,
+"handler": "value/other",
+"state_bit": null
+},
+{
+"buffer_type": 12,
+"n_buffers": 83,
+"handler": "value/other",
+"state_bit": null
+},
+{
+"buffer_type": 13,
+"n_buffers": 25,
+"handler": "value/other",
+"state_bit": null
+},
+{
+"buffer_type": 14,
+"n_buffers": 1,
+"handler": "value/other",
+"state_bit": "0xe"
+},
+{
+"buffer_type": 15,
+"n_buffers": 17,
+"handler": "value/other",
+"state_bit": null
+},
+{
+"buffer_type": 16,
+"n_buffers": 3,
+"handler": "SetObjectState(apply status)",
+"state_bit": "0x4000"
+},
+{
+"buffer_type": 17,
+"n_buffers": 3,
+"handler": "SetObjectState(apply status)",
+"state_bit": "0x80"
+},
+{
+"buffer_type": 19,
+"n_buffers": 3,
+"handler": "SetObjectState(apply status)",
+"state_bit": "0x8000"
+},
+{
+"buffer_type": 20,
+"n_buffers": 145,
+"handler": "value/other",
+"state_bit": null
+},
+{
+"buffer_type": 21,
+"n_buffers": 21,
+"handler": "value/other",
+"state_bit": null
+},
+{
+"buffer_type": 22,
+"n_buffers": 53,
+"handler": "value/other",
+"state_bit": null
+},
+{
+"buffer_type": 23,
+"n_buffers": 1,
+"handler": "value/other",
+"state_bit": null
+},
+{
+"buffer_type": 24,
+"n_buffers": 25,
+"handler": "value/other",
+"state_bit": null
+},
+{
+"buffer_type": 26,
+"n_buffers": 3,
+"handler": "SetObjectState(apply status)",
+"state_bit": "0x800"
+},
+{
+"buffer_type": 27,
+"n_buffers": 3,
+"handler": "SetObjectState(apply status)",
+"state_bit": "0x10000"
+},
+{
+"buffer_type": 28,
+"n_buffers": 2,
+"handler": "SetObjectState(apply status)",
+"state_bit": "0x20000"
+},
+{
+"buffer_type": 32,
+"n_buffers": 2,
+"handler": "SetObjectState(apply status)",
+"state_bit": "0x100000"
+},
+{
+"buffer_type": 35,
+"n_buffers": 2,
+"handler": "value/other",
+"state_bit": "0x2000000"
+},
+{
+"buffer_type": 36,
+"n_buffers": 1,
+"handler": "SetObjectState(apply status)",
+"state_bit": "0x2"
+},
+{
+"buffer_type": 39,
+"n_buffers": 11,
+"handler": "SetObjectState+Stop(hard CC)",
+"state_bit": "0x1000"
+},
+{
+"buffer_type": 45,
+"n_buffers": 34,
+"handler": "value/other",
+"state_bit": null
+},
+{
+"buffer_type": 46,
+"n_buffers": 3,
+"handler": "SetObjectState(apply status)",
+"state_bit": "0x4000000"
+},
+{
+"buffer_type": 47,
+"n_buffers": 20,
+"handler": "SetObjectState(apply status)",
+"state_bit": "0x40000"
+},
+{
+"buffer_type": 48,
+"n_buffers": 2,
+"handler": "value/other",
+"state_bit": "0x80000"
+},
+{
+"buffer_type": 51,
+"n_buffers": 3,
+"handler": "SetObjectState(apply status)",
+"state_bit": "0x8000000"
+},
+{
+"buffer_type": 52,
+"n_buffers": 2,
+"handler": "value/other",
+"state_bit": null
+},
+{
+"buffer_type": 56,
+"n_buffers": 5,
+"handler": "value/other",
+"state_bit": "0x10000000"
+},
+{
+"buffer_type": 58,
+"n_buffers": 1,
+"handler": "SetObjectState(apply status)",
+"state_bit": "0x40000000"
+},
+{
+"buffer_type": 59,
+"n_buffers": 11,
+"handler": "value/other",
+"state_bit": null
+},
+{
+"buffer_type": 60,
+"n_buffers": 5,
+"handler": "value/other",
+"state_bit": null
+},
+{
+"buffer_type": 61,
+"n_buffers": 1,
+"handler": "value/other",
+"state_bit": "0x1"
+},
+{
+"buffer_type": 62,
+"n_buffers": 49,
+"handler": "value/other",
+"state_bit": null
+},
+{
+"buffer_type": 63,
+"n_buffers": 1,
+"handler": "value/other",
+"state_bit": null
+},
+{
+"buffer_type": 64,
+"n_buffers": 2,
+"handler": "value/other",
+"state_bit": null
+},
+{
+"buffer_type": 67,
+"n_buffers": 2,
+"handler": "value/other",
+"state_bit": null
+},
+{
+"buffer_type": 68,
+"n_buffers": 1,
+"handler": "value/other",
+"state_bit": null
+},
+{
+"buffer_type": 69,
+"n_buffers": 1,
+"handler": "value/other",
+"state_bit": null
+},
+{
+"buffer_type": 91,
+"n_buffers": 125,
+"handler": "value/other",
+"state_bit": null
+},
+{
+"buffer_type": 92,
+"n_buffers": 156,
+"handler": "value/other",
+"state_bit": null
+},
+{
+"buffer_type": 93,
+"n_buffers": 10,
+"handler": "value/other",
+"state_bit": null
+},
+{
+"buffer_type": 94,
+"n_buffers": 10,
+"handler": "value/other",
+"state_bit": null
+},
+{
+"buffer_type": 95,
+"n_buffers": 1,
+"handler": "value/other",
+"state_bit": null
+},
+{
+"buffer_type": 96,
+"n_buffers": 18,
+"handler": "value/other",
+"state_bit": null
+},
+{
+"buffer_type": 97,
+"n_buffers": 11,
+"handler": "value/other",
+"state_bit": null
+},
+{
+"buffer_type": 99,
+"n_buffers": 2,
+"handler": "?",
+"state_bit": null
+},
+{
+"buffer_type": 101,
+"n_buffers": 94,
+"handler": "?",
+"state_bit": null
+},
+{
+"buffer_type": 102,
+"n_buffers": 98,
+"handler": "?",
+"state_bit": null
+},
+{
+"buffer_type": 103,
+"n_buffers": 31,
+"handler": "?",
+"state_bit": null
+},
+{
+"buffer_type": 104,
+"n_buffers": 30,
+"handler": "?",
+"state_bit": null
+},
+{
+"buffer_type": 111,
+"n_buffers": 1,
+"handler": "?",
+"state_bit": null
+},
+{
+"buffer_type": 114,
+"n_buffers": 1,
+"handler": "?",
+"state_bit": null
+}
+]

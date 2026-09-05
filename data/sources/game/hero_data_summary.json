@@ -1,0 +1,8764 @@
+{
+ "70781": {
+  "name": "Moltanica",
+  "clusters": [
+   {
+    "col2": 524365,
+    "n": 16,
+    "hp_min": 4000000,
+    "hp_max": 2000000000,
+    "atk_min": 2000,
+    "atk_max": 200000,
+    "acc": 25000,
+    "range": 4,
+    "atkspd": 1600,
+    "mov": 300,
+    "growthf": 2.237,
+    "recs": [
+     0,
+     874
+    ]
+   },
+   {
+    "col2": 524366,
+    "n": 2,
+    "hp_min": 5000000,
+    "hp_max": 5000000,
+    "atk_min": 20000,
+    "atk_max": 20000,
+    "acc": 25000,
+    "range": 3,
+    "atkspd": 800,
+    "mov": 320,
+    "growthf": 2.237,
+    "recs": [
+     6,
+     869
+    ]
+   },
+   {
+    "col2": 524448,
+    "n": 20,
+    "hp_min": 167253330,
+    "hp_max": 387692310,
+    "atk_min": 49500,
+    "atk_max": 90720,
+    "acc": 25000,
+    "range": 3,
+    "atkspd": 1000,
+    "mov": 260,
+    "growthf": 2.237,
+    "recs": [
+     9,
+     28
+    ]
+   },
+   {
+    "col2": 196698,
+    "n": 3,
+    "hp_min": 1600,
+    "hp_max": 1600,
+    "atk_min": 240,
+    "atk_max": 240,
+    "acc": 171,
+    "range": 5,
+    "atkspd": 600,
+    "mov": 400,
+    "growthf": 2.237,
+    "recs": [
+     217,
+     5404
+    ]
+   },
+   {
+    "col2": 524372,
+    "n": 6,
+    "hp_min": 7800,
+    "hp_max": 63342,
+    "atk_min": 780,
+    "atk_max": 2980,
+    "acc": 165,
+    "range": 3,
+    "atkspd": 1200,
+    "mov": 320,
+    "growthf": 2.237,
+    "recs": [
+     219,
+     6636
+    ]
+   },
+   {
+    "col2": 524374,
+    "n": 6,
+    "hp_min": 1600,
+    "hp_max": 31016,
+    "atk_min": 240,
+    "atk_max": 1274,
+    "acc": 171,
+    "range": 5,
+    "atkspd": 600,
+    "mov": 400,
+    "growthf": 2.237,
+    "recs": [
+     223,
+     6637
+    ]
+   },
+   {
+    "col2": 65657,
+    "n": 4,
+    "hp_min": 1600,
+    "hp_max": 1600,
+    "atk_min": 240,
+    "atk_max": 240,
+    "acc": 171,
+    "range": 5,
+    "atkspd": 600,
+    "mov": 400,
+    "growthf": 2.237,
+    "recs": [
+     224,
+     5128
+    ]
+   },
+   {
+    "col2": 524389,
+    "n": 1,
+    "hp_min": 1600,
+    "hp_max": 1600,
+    "atk_min": 240,
+    "atk_max": 240,
+    "acc": 171,
+    "range": 5,
+    "atkspd": 600,
+    "mov": 400,
+    "growthf": 2.237,
+    "recs": [
+     340,
+     340
+    ]
+   },
+   {
+    "col2": 524342,
+    "n": 57,
+    "hp_min": 1000,
+    "hp_max": 720000000,
+    "atk_min": 1600,
+    "atk_max": 60480,
+    "acc": 385,
+    "range": 3,
+    "atkspd": 1200,
+    "mov": 260,
+    "growthf": 2.237,
+    "recs": [
+     403,
+     777
+    ]
+   },
+   {
+    "col2": 196749,
+    "n": 1,
+    "hp_min": 1600,
+    "hp_max": 1600,
+    "atk_min": 240,
+    "atk_max": 240,
+    "acc": 171,
+    "range": 5,
+    "atkspd": 600,
+    "mov": 400,
+    "growthf": 2.237,
+    "recs": [
+     423,
+     423
+    ]
+   },
+   {
+    "col2": 524431,
+    "n": 3,
+    "hp_min": 1600,
+    "hp_max": 31016,
+    "atk_min": 240,
+    "atk_max": 1274,
+    "acc": 171,
+    "range": 5,
+    "atkspd": 600,
+    "mov": 400,
+    "growthf": 2.237,
+    "recs": [
+     424,
+     6425
+    ]
+   },
+   {
+    "col2": 196652,
+    "n": 61,
+    "hp_min": 713,
+    "hp_max": 126600,
+    "atk_min": 150,
+    "atk_max": 7983,
+    "acc": 174,
+    "range": 7,
+    "atkspd": 1200,
+    "mov": 165,
+    "growthf": 2.237,
+    "recs": [
+     505,
+     8532
+    ]
+   },
+   {
+    "col2": 524332,
+    "n": 9,
+    "hp_min": 200000,
+    "hp_max": 16200000,
+    "atk_min": 1000,
+    "atk_max": 37800,
+    "acc": 372,
+    "range": 8,
+    "atkspd": 1000,
+    "mov": 165,
+    "growthf": 2.237,
+    "recs": [
+     584,
+     592
+    ]
+   },
+   {
+    "col2": 524335,
+    "n": 1,
+    "hp_min": 2200000,
+    "hp_max": 2200000,
+    "atk_min": 3000,
+    "atk_max": 3000,
+    "acc": 405,
+    "range": 3,
+    "atkspd": 2000,
+    "mov": 260,
+    "growthf": 2.237,
+    "recs": [
+     778,
+     778
+    ]
+   },
+   {
+    "col2": 524360,
+    "n": 1,
+    "hp_min": 12000000,
+    "hp_max": 12000000,
+    "atk_min": 50000,
+    "atk_max": 50000,
+    "acc": 385,
+    "range": 3,
+    "atkspd": 1200,
+    "mov": 170,
+    "growthf": 2.237,
+    "recs": [
+     779,
+     779
+    ]
+   },
+   {
+    "col2": 524361,
+    "n": 1,
+    "hp_min": 12000000,
+    "hp_max": 12000000,
+    "atk_min": 50000,
+    "atk_max": 50000,
+    "acc": 385,
+    "range": 3,
+    "atkspd": 600,
+    "mov": 170,
+    "growthf": 2.237,
+    "recs": [
+     780,
+     780
+    ]
+   },
+   {
+    "col2": 201652,
+    "n": 9,
+    "hp_min": 7000,
+    "hp_max": 214200,
+    "atk_min": 420,
+    "atk_max": 8280,
+    "acc": 305,
+    "range": 7,
+    "atkspd": 1200,
+    "mov": 165,
+    "growthf": 2.237,
+    "recs": [
+     2454,
+     2462
+    ]
+   },
+   {
+    "col2": 529342,
+    "n": 13,
+    "hp_min": 409600,
+    "hp_max": 23497600,
+    "atk_min": 2400,
+    "atk_max": 90720,
+    "acc": 552,
+    "range": 3,
+    "atkspd": 1200,
+    "mov": 260,
+    "growthf": 2.237,
+    "recs": [
+     2659,
+     2671
+    ]
+   },
+   {
+    "col2": 529366,
+    "n": 1,
+    "hp_min": 50,
+    "hp_max": 50,
+    "atk_min": 1000,
+    "atk_max": 1000,
+    "acc": 15000,
+    "range": 6,
+    "atkspd": 800,
+    "mov": 250,
+    "growthf": 2.237,
+    "recs": [
+     2752,
+     2752
+    ]
+   },
+   {
+    "col2": 201752,
+    "n": 9,
+    "hp_min": 49000,
+    "hp_max": 1215200,
+    "atk_min": 2940,
+    "atk_max": 86940,
+    "acc": 407,
+    "range": 7,
+    "atkspd": 1200,
+    "mov": 165,
+    "growthf": 2.237,
+    "recs": [
+     3932,
+     3940
+    ]
+   },
+   {
+    "col2": 529442,
+    "n": 13,
+    "hp_min": 2867200,
+    "hp_max": 164483200,
+    "atk_min": 16800,
+    "atk_max": 952560,
+    "acc": 1247,
+    "range": 3,
+    "atkspd": 1200,
+    "mov": 260,
+    "growthf": 2.237,
+    "recs": [
+     4099,
+     4111
+    ]
+   }
+  ]
+ },
+ "70201": {
+  "name": "Paladin",
+  "clusters": [
+   {
+    "col2": 65537,
+    "n": 31,
+    "hp_min": 1520,
+    "hp_max": 110000,
+    "atk_min": 57,
+    "atk_max": 4272,
+    "acc": 136,
+    "range": 2,
+    "atkspd": 1500,
+    "mov": 150,
+    "growthf": 2.237,
+    "recs": [
+     86,
+     6322
+    ]
+   },
+   {
+    "col2": 70537,
+    "n": 9,
+    "hp_min": 6240,
+    "hp_max": 191160,
+    "atk_min": 200,
+    "atk_max": 4140,
+    "acc": 212,
+    "range": 2,
+    "atkspd": 1500,
+    "mov": 150,
+    "growthf": 2.237,
+    "recs": [
+     2152,
+     2160
+    ]
+   },
+   {
+    "col2": 70637,
+    "n": 9,
+    "hp_min": 43680,
+    "hp_max": 1084160,
+    "atk_min": 1400,
+    "atk_max": 43380,
+    "acc": 328,
+    "range": 2,
+    "atkspd": 1500,
+    "mov": 150,
+    "growthf": 2.237,
+    "recs": [
+     3630,
+     3638
+    ]
+   }
+  ]
+ },
+ "70211": {
+  "name": "Executioner",
+  "clusters": [
+   {
+    "col2": 65538,
+    "n": 10,
+    "hp_min": 1500,
+    "hp_max": 15000,
+    "atk_min": 200,
+    "atk_max": 2000,
+    "acc": 133,
+    "range": 3,
+    "atkspd": 1000,
+    "mov": 150,
+    "growthf": 2.075,
+    "recs": [
+     96,
+     105
+    ]
+   },
+   {
+    "col2": 70538,
+    "n": 9,
+    "hp_min": 3740,
+    "hp_max": 114660,
+    "atk_min": 300,
+    "atk_max": 5940,
+    "acc": 212,
+    "range": 3,
+    "atkspd": 1000,
+    "mov": 150,
+    "growthf": 2.075,
+    "recs": [
+     2161,
+     2169
+    ]
+   },
+   {
+    "col2": 70638,
+    "n": 9,
+    "hp_min": 26180,
+    "hp_max": 650720,
+    "atk_min": 2100,
+    "atk_max": 62280,
+    "acc": 278,
+    "range": 3,
+    "atkspd": 1000,
+    "mov": 150,
+    "growthf": 2.075,
+    "recs": [
+     3639,
+     3647
+    ]
+   }
+  ]
+ },
+ "70221": {
+  "name": "Spirit Mage",
+  "clusters": [
+   {
+    "col2": 131075,
+    "n": 30,
+    "hp_min": 1200,
+    "hp_max": 52800,
+    "atk_min": 270,
+    "atk_max": 8216,
+    "acc": 177,
+    "range": 8,
+    "atkspd": 1000,
+    "mov": 140,
+    "growthf": 2.237,
+    "recs": [
+     106,
+     6332
+    ]
+   },
+   {
+    "col2": 136075,
+    "n": 9,
+    "hp_min": 3000,
+    "hp_max": 91800,
+    "atk_min": 380,
+    "atk_max": 7560,
+    "acc": 284,
+    "range": 8,
+    "atkspd": 1000,
+    "mov": 140,
+    "growthf": 2.237,
+    "recs": [
+     2170,
+     2178
+    ]
+   },
+   {
+    "col2": 136175,
+    "n": 9,
+    "hp_min": 21000,
+    "hp_max": 520800,
+    "atk_min": 2660,
+    "atk_max": 79380,
+    "acc": 369,
+    "range": 8,
+    "atkspd": 1000,
+    "mov": 140,
+    "growthf": 2.237,
+    "recs": [
+     3648,
+     3656
+    ]
+   }
+  ]
+ },
+ "70231": {
+  "name": "Ninja",
+  "clusters": [
+   {
+    "col2": 65540,
+    "n": 31,
+    "hp_min": 1300,
+    "hp_max": 57200,
+    "atk_min": 120,
+    "atk_max": 8686,
+    "acc": 183,
+    "range": 2,
+    "atkspd": 800,
+    "mov": 220,
+    "growthf": 2.237,
+    "recs": [
+     116,
+     6342
+    ]
+   },
+   {
+    "col2": 70540,
+    "n": 9,
+    "hp_min": 3240,
+    "hp_max": 99360,
+    "atk_min": 420,
+    "atk_max": 8280,
+    "acc": 301,
+    "range": 2,
+    "atkspd": 800,
+    "mov": 220,
+    "growthf": 2.237,
+    "recs": [
+     2179,
+     2187
+    ]
+   },
+   {
+    "col2": 70640,
+    "n": 9,
+    "hp_min": 22680,
+    "hp_max": 563360,
+    "atk_min": 2940,
+    "atk_max": 86940,
+    "acc": 392,
+    "range": 2,
+    "atkspd": 800,
+    "mov": 220,
+    "growthf": 2.237,
+    "recs": [
+     3657,
+     3665
+    ]
+   }
+  ]
+ },
+ "70241": {
+  "name": "Angel",
+  "clusters": [
+   {
+    "col2": 131077,
+    "n": 10,
+    "hp_min": 900,
+    "hp_max": 9000,
+    "atk_min": 125,
+    "atk_max": 1250,
+    "acc": 93,
+    "range": 8,
+    "atkspd": 1000,
+    "mov": 130,
+    "growthf": 1.912,
+    "recs": [
+     126,
+     135
+    ]
+   },
+   {
+    "col2": 524384,
+    "n": 1,
+    "hp_min": 90000000,
+    "hp_max": 90000000,
+    "atk_min": 90000000,
+    "atk_max": 90000000,
+    "acc": 20000,
+    "range": 8,
+    "atkspd": 200,
+    "mov": 500,
+    "growthf": 5.477,
+    "recs": [
+     341,
+     341
+    ]
+   },
+   {
+    "col2": 136077,
+    "n": 9,
+    "hp_min": 2240,
+    "hp_max": 68760,
+    "atk_min": 180,
+    "atk_max": 3420,
+    "acc": 135,
+    "range": 8,
+    "atkspd": 1000,
+    "mov": 130,
+    "growthf": 1.912,
+    "recs": [
+     2188,
+     2196
+    ]
+   },
+   {
+    "col2": 136177,
+    "n": 9,
+    "hp_min": 15680,
+    "hp_max": 389760,
+    "atk_min": 1260,
+    "atk_max": 35820,
+    "acc": 174,
+    "range": 8,
+    "atkspd": 1000,
+    "mov": 130,
+    "growthf": 1.912,
+    "recs": [
+     3666,
+     3674
+    ]
+   }
+  ]
+ },
+ "70301": {
+  "name": "Assassin",
+  "clusters": [
+   {
+    "col2": 65542,
+    "n": 10,
+    "hp_min": 1040,
+    "hp_max": 10400,
+    "atk_min": 230,
+    "atk_max": 2300,
+    "acc": 141,
+    "range": 2,
+    "atkspd": 900,
+    "mov": 200,
+    "growthf": 2.075,
+    "recs": [
+     136,
+     145
+    ]
+   },
+   {
+    "col2": 70542,
+    "n": 9,
+    "hp_min": 2600,
+    "hp_max": 79560,
+    "atk_min": 320,
+    "atk_max": 6480,
+    "acc": 221,
+    "range": 2,
+    "atkspd": 900,
+    "mov": 200,
+    "growthf": 2.075,
+    "recs": [
+     2197,
+     2205
+    ]
+   },
+   {
+    "col2": 70642,
+    "n": 9,
+    "hp_min": 18200,
+    "hp_max": 451360,
+    "atk_min": 2240,
+    "atk_max": 68040,
+    "acc": 287,
+    "range": 2,
+    "atkspd": 900,
+    "mov": 200,
+    "growthf": 2.075,
+    "recs": [
+     3675,
+     3683
+    ]
+   }
+  ]
+ },
+ "70311": {
+  "name": "Marksman",
+  "clusters": [
+   {
+    "col2": 65543,
+    "n": 10,
+    "hp_min": 780,
+    "hp_max": 7800,
+    "atk_min": 170,
+    "atk_max": 1700,
+    "acc": 103,
+    "range": 8,
+    "atkspd": 1000,
+    "mov": 150,
+    "growthf": 1.912,
+    "recs": [
+     146,
+     155
+    ]
+   },
+   {
+    "col2": 70543,
+    "n": 9,
+    "hp_min": 1940,
+    "hp_max": 59580,
+    "atk_min": 240,
+    "atk_max": 4680,
+    "acc": 153,
+    "range": 8,
+    "atkspd": 1000,
+    "mov": 150,
+    "growthf": 1.912,
+    "recs": [
+     2206,
+     2214
+    ]
+   },
+   {
+    "col2": 70643,
+    "n": 9,
+    "hp_min": 13580,
+    "hp_max": 338240,
+    "atk_min": 1680,
+    "atk_max": 49140,
+    "acc": 198,
+    "range": 8,
+    "atkspd": 1000,
+    "mov": 150,
+    "growthf": 1.912,
+    "recs": [
+     3684,
+     3692
+    ]
+   }
+  ]
+ },
+ "70321": {
+  "name": "Werewolf",
+  "clusters": [
+   {
+    "col2": 196616,
+    "n": 10,
+    "hp_min": 2000,
+    "hp_max": 20000,
+    "atk_min": 120,
+    "atk_max": 1200,
+    "acc": 110,
+    "range": 2,
+    "atkspd": 1500,
+    "mov": 150,
+    "growthf": 2.075,
+    "recs": [
+     156,
+     165
+    ]
+   },
+   {
+    "col2": 201616,
+    "n": 9,
+    "hp_min": 5000,
+    "hp_max": 153000,
+    "atk_min": 180,
+    "atk_max": 3420,
+    "acc": 165,
+    "range": 2,
+    "atkspd": 1500,
+    "mov": 150,
+    "growthf": 2.075,
+    "recs": [
+     2215,
+     2223
+    ]
+   },
+   {
+    "col2": 201716,
+    "n": 9,
+    "hp_min": 35000,
+    "hp_max": 868000,
+    "atk_min": 1260,
+    "atk_max": 35820,
+    "acc": 220,
+    "range": 2,
+    "atkspd": 1500,
+    "mov": 150,
+    "growthf": 2.075,
+    "recs": [
+     3693,
+     3701
+    ]
+   }
+  ]
+ },
+ "70331": {
+  "name": "Hill Giant",
+  "clusters": [
+   {
+    "col2": 65545,
+    "n": 10,
+    "hp_min": 1040,
+    "hp_max": 10400,
+    "atk_min": 150,
+    "atk_max": 1500,
+    "acc": 99,
+    "range": 2,
+    "atkspd": 1000,
+    "mov": 145,
+    "growthf": 1.912,
+    "recs": [
+     166,
+     175
+    ]
+   },
+   {
+    "col2": 70545,
+    "n": 9,
+    "hp_min": 2600,
+    "hp_max": 79560,
+    "atk_min": 200,
+    "atk_max": 4140,
+    "acc": 146,
+    "range": 2,
+    "atkspd": 1000,
+    "mov": 145,
+    "growthf": 1.912,
+    "recs": [
+     2224,
+     2232
+    ]
+   },
+   {
+    "col2": 70645,
+    "n": 9,
+    "hp_min": 18200,
+    "hp_max": 451360,
+    "atk_min": 1400,
+    "atk_max": 43380,
+    "acc": 190,
+    "range": 2,
+    "atkspd": 1000,
+    "mov": 145,
+    "growthf": 1.912,
+    "recs": [
+     3702,
+     3710
+    ]
+   }
+  ]
+ },
+ "70341": {
+  "name": "Succubus",
+  "clusters": [
+   {
+    "col2": 131082,
+    "n": 30,
+    "hp_min": 1600,
+    "hp_max": 70400,
+    "atk_min": 220,
+    "atk_max": 6714,
+    "acc": 162,
+    "range": 4,
+    "atkspd": 1000,
+    "mov": 150,
+    "growthf": 2.237,
+    "recs": [
+     176,
+     6352
+    ]
+   },
+   {
+    "col2": 136082,
+    "n": 9,
+    "hp_min": 4000,
+    "hp_max": 122400,
+    "atk_min": 320,
+    "atk_max": 6480,
+    "acc": 262,
+    "range": 4,
+    "atkspd": 1000,
+    "mov": 150,
+    "growthf": 2.237,
+    "recs": [
+     2233,
+     2241
+    ]
+   },
+   {
+    "col2": 136182,
+    "n": 9,
+    "hp_min": 28000,
+    "hp_max": 694400,
+    "atk_min": 2240,
+    "atk_max": 68040,
+    "acc": 343,
+    "range": 4,
+    "atkspd": 1000,
+    "mov": 150,
+    "growthf": 2.237,
+    "recs": [
+     3711,
+     3719
+    ]
+   }
+  ]
+ },
+ "71172": {
+  "name": "",
+  "clusters": [
+   {
+    "col2": 196701,
+    "n": 6,
+    "hp_min": 200,
+    "hp_max": 200,
+    "atk_min": 600,
+    "atk_max": 600,
+    "acc": 159,
+    "range": 3,
+    "atkspd": 800,
+    "mov": 400,
+    "growthf": 2.237,
+    "recs": [
+     220,
+     6638
+    ]
+   },
+   {
+    "col2": 524397,
+    "n": 1,
+    "hp_min": 1000000,
+    "hp_max": 1000000,
+    "atk_min": 3000,
+    "atk_max": 3000,
+    "acc": 385,
+    "range": 9,
+    "atkspd": 800,
+    "mov": 600,
+    "growthf": 2.237,
+    "recs": [
+     411,
+     411
+    ]
+   },
+   {
+    "col2": 524498,
+    "n": 1,
+    "hp_min": 1000000,
+    "hp_max": 1000000,
+    "atk_min": 3000,
+    "atk_max": 3000,
+    "acc": 50000,
+    "range": 9,
+    "atkspd": 800,
+    "mov": 600,
+    "growthf": 2.237,
+    "recs": [
+     484,
+     484
+    ]
+   },
+   {
+    "col2": 524382,
+    "n": 30,
+    "hp_min": 5000,
+    "hp_max": 76160,
+    "atk_min": 1000,
+    "atk_max": 13090,
+    "acc": 385,
+    "range": 9,
+    "atkspd": 800,
+    "mov": 600,
+    "growthf": 2.237,
+    "recs": [
+     985,
+     6838
+    ]
+   },
+   {
+    "col2": 529382,
+    "n": 10,
+    "hp_min": 8800,
+    "hp_max": 308600,
+    "atk_min": 300,
+    "atk_max": 9200,
+    "acc": 332,
+    "range": 9,
+    "atkspd": 800,
+    "mov": 600,
+    "growthf": 2.237,
+    "recs": [
+     2863,
+     2872
+    ]
+   },
+   {
+    "col2": 529482,
+    "n": 10,
+    "hp_min": 61600,
+    "hp_max": 1425600,
+    "atk_min": 2100,
+    "atk_max": 96600,
+    "acc": 558,
+    "range": 9,
+    "atkspd": 800,
+    "mov": 600,
+    "growthf": 2.237,
+    "recs": [
+     4302,
+     4311
+    ]
+   },
+   {
+    "col2": 524402,
+    "n": 30,
+    "hp_min": 5000,
+    "hp_max": 76160,
+    "atk_min": 1000,
+    "atk_max": 13090,
+    "acc": 385,
+    "range": 9,
+    "atkspd": 800,
+    "mov": 600,
+    "growthf": 2.237,
+    "recs": [
+     9133,
+     9162
+    ]
+   },
+   {
+    "col2": 524433,
+    "n": 30,
+    "hp_min": 5000,
+    "hp_max": 76160,
+    "atk_min": 1000,
+    "atk_max": 13090,
+    "acc": 385,
+    "range": 9,
+    "atkspd": 800,
+    "mov": 600,
+    "growthf": 2.237,
+    "recs": [
+     10183,
+     10212
+    ]
+   }
+  ]
+ },
+ "70401": {
+  "name": "Engineer",
+  "clusters": [
+   {
+    "col2": 65547,
+    "n": 10,
+    "hp_min": 845,
+    "hp_max": 8450,
+    "atk_min": 165,
+    "atk_max": 1650,
+    "acc": 102,
+    "range": 8,
+    "atkspd": 1000,
+    "mov": 145,
+    "growthf": 1.912,
+    "recs": [
+     236,
+     245
+    ]
+   },
+   {
+    "col2": 70547,
+    "n": 9,
+    "hp_min": 2100,
+    "hp_max": 64260,
+    "atk_min": 240,
+    "atk_max": 4680,
+    "acc": 154,
+    "range": 8,
+    "atkspd": 1000,
+    "mov": 145,
+    "growthf": 1.912,
+    "recs": [
+     2245,
+     2253
+    ]
+   },
+   {
+    "col2": 70647,
+    "n": 9,
+    "hp_min": 14700,
+    "hp_max": 364000,
+    "atk_min": 1680,
+    "atk_max": 49140,
+    "acc": 199,
+    "range": 8,
+    "atkspd": 1000,
+    "mov": 145,
+    "growthf": 1.912,
+    "recs": [
+     3723,
+     3731
+    ]
+   }
+  ]
+ },
+ "70411": {
+  "name": "Frost Witch",
+  "clusters": [
+   {
+    "col2": 131084,
+    "n": 10,
+    "hp_min": 910,
+    "hp_max": 9100,
+    "atk_min": 155,
+    "atk_max": 1550,
+    "acc": 100,
+    "range": 8,
+    "atkspd": 1000,
+    "mov": 140,
+    "growthf": 1.912,
+    "recs": [
+     246,
+     255
+    ]
+   },
+   {
+    "col2": 136084,
+    "n": 9,
+    "hp_min": 2240,
+    "hp_max": 68760,
+    "atk_min": 200,
+    "atk_max": 4140,
+    "acc": 146,
+    "range": 8,
+    "atkspd": 1000,
+    "mov": 140,
+    "growthf": 1.912,
+    "recs": [
+     2254,
+     2262
+    ]
+   },
+   {
+    "col2": 136184,
+    "n": 9,
+    "hp_min": 15680,
+    "hp_max": 389760,
+    "atk_min": 1400,
+    "atk_max": 43380,
+    "acc": 189,
+    "range": 8,
+    "atkspd": 1000,
+    "mov": 140,
+    "growthf": 1.912,
+    "recs": [
+     3732,
+     3740
+    ]
+   }
+  ]
+ },
+ "70421": {
+  "name": "Champion",
+  "clusters": [
+   {
+    "col2": 65549,
+    "n": 30,
+    "hp_min": 1400,
+    "hp_max": 61600,
+    "atk_min": 230,
+    "atk_max": 6995,
+    "acc": 165,
+    "range": 2,
+    "atkspd": 1000,
+    "mov": 150,
+    "growthf": 2.237,
+    "recs": [
+     256,
+     6374
+    ]
+   },
+   {
+    "col2": 70549,
+    "n": 9,
+    "hp_min": 3500,
+    "hp_max": 107100,
+    "atk_min": 320,
+    "atk_max": 6480,
+    "acc": 261,
+    "range": 2,
+    "atkspd": 1000,
+    "mov": 150,
+    "growthf": 2.237,
+    "recs": [
+     2263,
+     2271
+    ]
+   },
+   {
+    "col2": 70649,
+    "n": 9,
+    "hp_min": 24500,
+    "hp_max": 607040,
+    "atk_min": 2240,
+    "atk_max": 68040,
+    "acc": 341,
+    "range": 2,
+    "atkspd": 1000,
+    "mov": 150,
+    "growthf": 2.237,
+    "recs": [
+     3741,
+     3749
+    ]
+   }
+  ]
+ },
+ "70431": {
+  "name": "Cyclops",
+  "clusters": [
+   {
+    "col2": 65550,
+    "n": 10,
+    "hp_min": 1120,
+    "hp_max": 11200,
+    "atk_min": 190,
+    "atk_max": 1900,
+    "acc": 130,
+    "range": 2,
+    "atkspd": 1000,
+    "mov": 140,
+    "growthf": 2.075,
+    "recs": [
+     266,
+     275
+    ]
+   },
+   {
+    "col2": 70550,
+    "n": 9,
+    "hp_min": 2800,
+    "hp_max": 85680,
+    "atk_min": 260,
+    "atk_max": 5220,
+    "acc": 198,
+    "range": 2,
+    "atkspd": 1000,
+    "mov": 140,
+    "growthf": 2.075,
+    "recs": [
+     2272,
+     2280
+    ]
+   },
+   {
+    "col2": 70650,
+    "n": 9,
+    "hp_min": 19600,
+    "hp_max": 486080,
+    "atk_min": 1820,
+    "atk_max": 54720,
+    "acc": 257,
+    "range": 2,
+    "atkspd": 1000,
+    "mov": 140,
+    "growthf": 2.075,
+    "recs": [
+     3750,
+     3758
+    ]
+   }
+  ]
+ },
+ "70441": {
+  "name": "Dryad",
+  "clusters": [
+   {
+    "col2": 65551,
+    "n": 10,
+    "hp_min": 1625,
+    "hp_max": 16250,
+    "atk_min": 100,
+    "atk_max": 1000,
+    "acc": 86,
+    "range": 2,
+    "atkspd": 1500,
+    "mov": 135,
+    "growthf": 1.912,
+    "recs": [
+     276,
+     285
+    ]
+   },
+   {
+    "col2": 70551,
+    "n": 9,
+    "hp_min": 4040,
+    "hp_max": 123840,
+    "atk_min": 140,
+    "atk_max": 2880,
+    "acc": 127,
+    "range": 2,
+    "atkspd": 1500,
+    "mov": 135,
+    "growthf": 1.912,
+    "recs": [
+     2281,
+     2289
+    ]
+   },
+   {
+    "col2": 70651,
+    "n": 9,
+    "hp_min": 28280,
+    "hp_max": 702240,
+    "atk_min": 980,
+    "atk_max": 30240,
+    "acc": 167,
+    "range": 2,
+    "atkspd": 1500,
+    "mov": 135,
+    "growthf": 1.912,
+    "recs": [
+     3759,
+     3767
+    ]
+   }
+  ]
+ },
+ "70451": {
+  "name": "Pain-Da",
+  "clusters": [
+   {
+    "col2": 65552,
+    "n": 10,
+    "hp_min": 1600,
+    "hp_max": 16000,
+    "atk_min": 140,
+    "atk_max": 1400,
+    "acc": 115,
+    "range": 2,
+    "atkspd": 1500,
+    "mov": 145,
+    "growthf": 2.075,
+    "recs": [
+     286,
+     295
+    ]
+   },
+   {
+    "col2": 70552,
+    "n": 9,
+    "hp_min": 4000,
+    "hp_max": 122400,
+    "atk_min": 200,
+    "atk_max": 4140,
+    "acc": 177,
+    "range": 2,
+    "atkspd": 1500,
+    "mov": 145,
+    "growthf": 2.075,
+    "recs": [
+     2290,
+     2298
+    ]
+   },
+   {
+    "col2": 70652,
+    "n": 9,
+    "hp_min": 28000,
+    "hp_max": 694400,
+    "atk_min": 1400,
+    "atk_max": 43380,
+    "acc": 233,
+    "range": 2,
+    "atkspd": 1500,
+    "mov": 145,
+    "growthf": 2.075,
+    "recs": [
+     3768,
+     3776
+    ]
+   }
+  ]
+ },
+ "70461": {
+  "name": "Shaman",
+  "clusters": [
+   {
+    "col2": 196625,
+    "n": 10,
+    "hp_min": 1800,
+    "hp_max": 18000,
+    "atk_min": 120,
+    "atk_max": 1200,
+    "acc": 110,
+    "range": 8,
+    "atkspd": 1500,
+    "mov": 150,
+    "growthf": 2.075,
+    "recs": [
+     296,
+     305
+    ]
+   },
+   {
+    "col2": 201625,
+    "n": 9,
+    "hp_min": 4500,
+    "hp_max": 137700,
+    "atk_min": 180,
+    "atk_max": 3420,
+    "acc": 165,
+    "range": 8,
+    "atkspd": 1500,
+    "mov": 150,
+    "growthf": 2.075,
+    "recs": [
+     2299,
+     2307
+    ]
+   },
+   {
+    "col2": 201725,
+    "n": 9,
+    "hp_min": 31500,
+    "hp_max": 780640,
+    "atk_min": 1260,
+    "atk_max": 35820,
+    "acc": 218,
+    "range": 8,
+    "atkspd": 1500,
+    "mov": 150,
+    "growthf": 2.075,
+    "recs": [
+     3777,
+     3785
+    ]
+   }
+  ]
+ },
+ "70471": {
+  "name": "Druid",
+  "clusters": [
+   {
+    "col2": 65554,
+    "n": 31,
+    "hp_min": 1045,
+    "hp_max": 70400,
+    "atk_min": 90,
+    "atk_max": 6244,
+    "acc": 158,
+    "range": 8,
+    "atkspd": 1000,
+    "mov": 155,
+    "growthf": 2.237,
+    "recs": [
+     306,
+     6384
+    ]
+   },
+   {
+    "col2": 70554,
+    "n": 9,
+    "hp_min": 4000,
+    "hp_max": 122400,
+    "atk_min": 300,
+    "atk_max": 5940,
+    "acc": 250,
+    "range": 8,
+    "atkspd": 1000,
+    "mov": 155,
+    "growthf": 2.237,
+    "recs": [
+     2308,
+     2316
+    ]
+   },
+   {
+    "col2": 70654,
+    "n": 9,
+    "hp_min": 28000,
+    "hp_max": 694400,
+    "atk_min": 2100,
+    "atk_max": 62280,
+    "acc": 328,
+    "range": 8,
+    "atkspd": 1000,
+    "mov": 155,
+    "growthf": 2.237,
+    "recs": [
+     3786,
+     3794
+    ]
+   }
+  ]
+ },
+ "70481": {
+  "name": "Alchemist",
+  "clusters": [
+   {
+    "col2": 65555,
+    "n": 10,
+    "hp_min": 910,
+    "hp_max": 9100,
+    "atk_min": 155,
+    "atk_max": 1550,
+    "acc": 100,
+    "range": 6,
+    "atkspd": 1000,
+    "mov": 145,
+    "growthf": 1.912,
+    "recs": [
+     316,
+     325
+    ]
+   },
+   {
+    "col2": 70555,
+    "n": 9,
+    "hp_min": 2240,
+    "hp_max": 68760,
+    "atk_min": 200,
+    "atk_max": 4140,
+    "acc": 146,
+    "range": 6,
+    "atkspd": 1000,
+    "mov": 145,
+    "growthf": 1.912,
+    "recs": [
+     2317,
+     2325
+    ]
+   },
+   {
+    "col2": 70655,
+    "n": 9,
+    "hp_min": 15680,
+    "hp_max": 389760,
+    "atk_min": 1400,
+    "atk_max": 43380,
+    "acc": 189,
+    "range": 6,
+    "atkspd": 1000,
+    "mov": 145,
+    "growthf": 1.912,
+    "recs": [
+     3795,
+     3803
+    ]
+   }
+  ]
+ },
+ "70491": {
+  "name": "Marauder",
+  "clusters": [
+   {
+    "col2": 65556,
+    "n": 10,
+    "hp_min": 1462,
+    "hp_max": 14620,
+    "atk_min": 105,
+    "atk_max": 1050,
+    "acc": 87,
+    "range": 2,
+    "atkspd": 1500,
+    "mov": 140,
+    "growthf": 1.912,
+    "recs": [
+     326,
+     335
+    ]
+   },
+   {
+    "col2": 70556,
+    "n": 9,
+    "hp_min": 3640,
+    "hp_max": 111600,
+    "atk_min": 140,
+    "atk_max": 2880,
+    "acc": 126,
+    "range": 2,
+    "atkspd": 1500,
+    "mov": 140,
+    "growthf": 1.912,
+    "recs": [
+     2326,
+     2334
+    ]
+   },
+   {
+    "col2": 70656,
+    "n": 9,
+    "hp_min": 25480,
+    "hp_max": 632800,
+    "atk_min": 980,
+    "atk_max": 30240,
+    "acc": 166,
+    "range": 2,
+    "atkspd": 1500,
+    "mov": 140,
+    "growthf": 1.912,
+    "recs": [
+     3804,
+     3812
+    ]
+   }
+  ]
+ },
+ "70501": {
+  "name": "Slime",
+  "clusters": [
+   {
+    "col2": 524309,
+    "n": 1,
+    "hp_min": 1,
+    "hp_max": 1,
+    "atk_min": 1,
+    "atk_max": 1,
+    "acc": 1,
+    "range": 1,
+    "atkspd": 1,
+    "mov": 100,
+    "growthf": 1.912,
+    "recs": [
+     336,
+     336
+    ]
+   }
+  ]
+ },
+ "70502": {
+  "name": "Crystal Ooze",
+  "clusters": [
+   {
+    "col2": 524309,
+    "n": 1,
+    "hp_min": 1,
+    "hp_max": 1,
+    "atk_min": 1,
+    "atk_max": 1,
+    "acc": 1,
+    "range": 1,
+    "atkspd": 1,
+    "mov": 100,
+    "growthf": 2.075,
+    "recs": [
+     337,
+     337
+    ]
+   }
+  ]
+ },
+ "70503": {
+  "name": "Gelatinous Champion",
+  "clusters": [
+   {
+    "col2": 524309,
+    "n": 1,
+    "hp_min": 1,
+    "hp_max": 1,
+    "atk_min": 1,
+    "atk_max": 1,
+    "acc": 1,
+    "range": 1,
+    "atkspd": 1,
+    "mov": 100,
+    "growthf": 2.237,
+    "recs": [
+     338,
+     338
+    ]
+   }
+  ]
+ },
+ "71001": {
+  "name": "Master Slime",
+  "clusters": [
+   {
+    "col2": 524309,
+    "n": 1,
+    "hp_min": 1,
+    "hp_max": 1,
+    "atk_min": 1,
+    "atk_max": 1,
+    "acc": 1,
+    "range": 1,
+    "atkspd": 1,
+    "mov": 100,
+    "growthf": 1.912,
+    "recs": [
+     339,
+     339
+    ]
+   }
+  ]
+ },
+ "70511": {
+  "name": "Serpent Queen",
+  "clusters": [
+   {
+    "col2": 196630,
+    "n": 10,
+    "hp_min": 1300,
+    "hp_max": 13000,
+    "atk_min": 180,
+    "atk_max": 1800,
+    "acc": 127,
+    "range": 4,
+    "atkspd": 1000,
+    "mov": 150,
+    "growthf": 2.075,
+    "recs": [
+     342,
+     351
+    ]
+   },
+   {
+    "col2": 201630,
+    "n": 9,
+    "hp_min": 3240,
+    "hp_max": 99360,
+    "atk_min": 260,
+    "atk_max": 5220,
+    "acc": 198,
+    "range": 4,
+    "atkspd": 1000,
+    "mov": 150,
+    "growthf": 2.075,
+    "recs": [
+     2335,
+     2343
+    ]
+   },
+   {
+    "col2": 201730,
+    "n": 9,
+    "hp_min": 22680,
+    "hp_max": 563360,
+    "atk_min": 1820,
+    "atk_max": 54720,
+    "acc": 259,
+    "range": 4,
+    "atkspd": 1000,
+    "mov": 150,
+    "growthf": 2.075,
+    "recs": [
+     3813,
+     3821
+    ]
+   }
+  ]
+ },
+ "70521": {
+  "name": "Thunder God",
+  "clusters": [
+   {
+    "col2": 131095,
+    "n": 30,
+    "hp_min": 1600,
+    "hp_max": 70400,
+    "atk_min": 220,
+    "atk_max": 6714,
+    "acc": 162,
+    "range": 3,
+    "atkspd": 1000,
+    "mov": 170,
+    "growthf": 2.237,
+    "recs": [
+     352,
+     6394
+    ]
+   },
+   {
+    "col2": 136095,
+    "n": 9,
+    "hp_min": 4000,
+    "hp_max": 122400,
+    "atk_min": 320,
+    "atk_max": 6480,
+    "acc": 262,
+    "range": 3,
+    "atkspd": 1000,
+    "mov": 170,
+    "growthf": 2.237,
+    "recs": [
+     2344,
+     2352
+    ]
+   },
+   {
+    "col2": 136195,
+    "n": 9,
+    "hp_min": 28000,
+    "hp_max": 694400,
+    "atk_min": 2240,
+    "atk_max": 68040,
+    "acc": 343,
+    "range": 3,
+    "atkspd": 1000,
+    "mov": 170,
+    "growthf": 2.237,
+    "recs": [
+     3822,
+     3830
+    ]
+   }
+  ]
+ },
+ "70601": {
+  "name": "Pumpkin Duke",
+  "clusters": [
+   {
+    "col2": 196632,
+    "n": 90,
+    "hp_min": 1500,
+    "hp_max": 66000,
+    "atk_min": 280,
+    "atk_max": 8545,
+    "acc": 180,
+    "range": 2,
+    "atkspd": 1000,
+    "mov": 170,
+    "growthf": 2.237,
+    "recs": [
+     362,
+     11742
+    ]
+   },
+   {
+    "col2": 201632,
+    "n": 9,
+    "hp_min": 3740,
+    "hp_max": 114660,
+    "atk_min": 420,
+    "atk_max": 8280,
+    "acc": 301,
+    "range": 2,
+    "atkspd": 1000,
+    "mov": 170,
+    "growthf": 2.237,
+    "recs": [
+     2353,
+     2361
+    ]
+   },
+   {
+    "col2": 201732,
+    "n": 9,
+    "hp_min": 26180,
+    "hp_max": 650720,
+    "atk_min": 2940,
+    "atk_max": 86940,
+    "acc": 393,
+    "range": 2,
+    "atkspd": 1000,
+    "mov": 170,
+    "growthf": 2.237,
+    "recs": [
+     3831,
+     3839
+    ]
+   }
+  ]
+ },
+ "70541": {
+  "name": "Minotaur Chieftain",
+  "clusters": [
+   {
+    "col2": 65561,
+    "n": 60,
+    "hp_min": 2450,
+    "hp_max": 105300,
+    "atk_min": 210,
+    "atk_max": 6337,
+    "acc": 157,
+    "range": 2,
+    "atkspd": 1500,
+    "mov": 170,
+    "growthf": 2.237,
+    "recs": [
+     372,
+     8562
+    ]
+   },
+   {
+    "col2": 524322,
+    "n": 6,
+    "hp_min": 10000,
+    "hp_max": 58000,
+    "atk_min": 300,
+    "atk_max": 2700,
+    "acc": 334,
+    "range": 4,
+    "atkspd": 1000,
+    "mov": 200,
+    "growthf": 2.237,
+    "recs": [
+     455,
+     460
+    ]
+   },
+   {
+    "col2": 524323,
+    "n": 6,
+    "hp_min": 68000,
+    "hp_max": 118000,
+    "atk_min": 3200,
+    "atk_max": 5700,
+    "acc": 337,
+    "range": 4,
+    "atkspd": 1000,
+    "mov": 200,
+    "growthf": 2.237,
+    "recs": [
+     461,
+     466
+    ]
+   },
+   {
+    "col2": 524324,
+    "n": 8,
+    "hp_min": 128000,
+    "hp_max": 198000,
+    "atk_min": 6200,
+    "atk_max": 9700,
+    "acc": 334,
+    "range": 4,
+    "atkspd": 1000,
+    "mov": 200,
+    "growthf": 2.237,
+    "recs": [
+     467,
+     474
+    ]
+   },
+   {
+    "col2": 70561,
+    "n": 9,
+    "hp_min": 5500,
+    "hp_max": 168300,
+    "atk_min": 260,
+    "atk_max": 5220,
+    "acc": 234,
+    "range": 2,
+    "atkspd": 1500,
+    "mov": 170,
+    "growthf": 2.237,
+    "recs": [
+     2362,
+     2370
+    ]
+   },
+   {
+    "col2": 529322,
+    "n": 6,
+    "hp_min": 40000,
+    "hp_max": 600000,
+    "atk_min": 600,
+    "atk_max": 6240,
+    "acc": 357,
+    "range": 4,
+    "atkspd": 1000,
+    "mov": 200,
+    "growthf": 2.237,
+    "recs": [
+     2416,
+     2421
+    ]
+   },
+   {
+    "col2": 529323,
+    "n": 6,
+    "hp_min": 80000,
+    "hp_max": 1224000,
+    "atk_min": 1200,
+    "atk_max": 11880,
+    "acc": 357,
+    "range": 4,
+    "atkspd": 1000,
+    "mov": 200,
+    "growthf": 2.237,
+    "recs": [
+     2422,
+     2427
+    ]
+   },
+   {
+    "col2": 529324,
+    "n": 8,
+    "hp_min": 384000,
+    "hp_max": 2448000,
+    "atk_min": 4680,
+    "atk_max": 23760,
+    "acc": 357,
+    "range": 4,
+    "atkspd": 1000,
+    "mov": 200,
+    "growthf": 2.237,
+    "recs": [
+     2428,
+     2435
+    ]
+   },
+   {
+    "col2": 70661,
+    "n": 9,
+    "hp_min": 38500,
+    "hp_max": 954240,
+    "atk_min": 1820,
+    "atk_max": 54720,
+    "acc": 312,
+    "range": 2,
+    "atkspd": 1500,
+    "mov": 170,
+    "growthf": 2.237,
+    "recs": [
+     3840,
+     3848
+    ]
+   },
+   {
+    "col2": 529422,
+    "n": 6,
+    "hp_min": 280000,
+    "hp_max": 4200000,
+    "atk_min": 4200,
+    "atk_max": 43680,
+    "acc": 507,
+    "range": 4,
+    "atkspd": 1000,
+    "mov": 200,
+    "growthf": 2.237,
+    "recs": [
+     3894,
+     3899
+    ]
+   },
+   {
+    "col2": 529423,
+    "n": 6,
+    "hp_min": 560000,
+    "hp_max": 6944000,
+    "atk_min": 8400,
+    "atk_max": 124740,
+    "acc": 507,
+    "range": 4,
+    "atkspd": 1000,
+    "mov": 200,
+    "growthf": 2.237,
+    "recs": [
+     3900,
+     3905
+    ]
+   },
+   {
+    "col2": 529424,
+    "n": 8,
+    "hp_min": 2688000,
+    "hp_max": 17136000,
+    "atk_min": 32760,
+    "atk_max": 249480,
+    "acc": 507,
+    "range": 4,
+    "atkspd": 1000,
+    "mov": 200,
+    "growthf": 2.237,
+    "recs": [
+     3906,
+     3913
+    ]
+   }
+  ]
+ },
+ "70581": {
+  "name": "Grizzly Reaper",
+  "clusters": [
+   {
+    "col2": 131098,
+    "n": 31,
+    "hp_min": 760,
+    "hp_max": 70400,
+    "atk_min": 110,
+    "atk_max": 6995,
+    "acc": 166,
+    "range": 6,
+    "atkspd": 750,
+    "mov": 110,
+    "growthf": 2.237,
+    "recs": [
+     382,
+     6424
+    ]
+   },
+   {
+    "col2": 524317,
+    "n": 1,
+    "hp_min": 0,
+    "hp_max": 0,
+    "atk_min": 4500,
+    "atk_max": 4500,
+    "acc": 385,
+    "range": 3,
+    "atkspd": 1000,
+    "mov": 200,
+    "growthf": 2.075,
+    "recs": [
+     412,
+     412
+    ]
+   },
+   {
+    "col2": 524334,
+    "n": 1,
+    "hp_min": 150000000,
+    "hp_max": 150000000,
+    "atk_min": 6100,
+    "atk_max": 6100,
+    "acc": 306,
+    "range": 3,
+    "atkspd": 1000,
+    "mov": 200,
+    "growthf": 2.075,
+    "recs": [
+     576,
+     576
+    ]
+   },
+   {
+    "col2": 136098,
+    "n": 9,
+    "hp_min": 4000,
+    "hp_max": 122400,
+    "atk_min": 320,
+    "atk_max": 6480,
+    "acc": 263,
+    "range": 6,
+    "atkspd": 750,
+    "mov": 110,
+    "growthf": 2.237,
+    "recs": [
+     2371,
+     2379
+    ]
+   },
+   {
+    "col2": 136198,
+    "n": 9,
+    "hp_min": 28000,
+    "hp_max": 694400,
+    "atk_min": 2240,
+    "atk_max": 68040,
+    "acc": 345,
+    "range": 6,
+    "atkspd": 750,
+    "mov": 110,
+    "growthf": 2.237,
+    "recs": [
+     3849,
+     3857
+    ]
+   }
+  ]
+ },
+ "70561": {
+  "name": "Ice Demon",
+  "clusters": [
+   {
+    "col2": 196635,
+    "n": 10,
+    "hp_min": 1400,
+    "hp_max": 14000,
+    "atk_min": 160,
+    "atk_max": 1600,
+    "acc": 122,
+    "range": 6,
+    "atkspd": 1000,
+    "mov": 150,
+    "growthf": 2.075,
+    "recs": [
+     392,
+     401
+    ]
+   },
+   {
+    "col2": 201635,
+    "n": 9,
+    "hp_min": 3500,
+    "hp_max": 107100,
+    "atk_min": 240,
+    "atk_max": 4680,
+    "acc": 189,
+    "range": 6,
+    "atkspd": 1000,
+    "mov": 150,
+    "growthf": 2.075,
+    "recs": [
+     2380,
+     2388
+    ]
+   },
+   {
+    "col2": 201735,
+    "n": 9,
+    "hp_min": 24500,
+    "hp_max": 607040,
+    "atk_min": 1680,
+    "atk_max": 49140,
+    "acc": 247,
+    "range": 6,
+    "atkspd": 1000,
+    "mov": 150,
+    "growthf": 2.075,
+    "recs": [
+     3858,
+     3866
+    ]
+   }
+  ]
+ },
+ "70571": {
+  "name": "",
+  "clusters": [
+   {
+    "col2": 524316,
+    "n": 1,
+    "hp_min": 0,
+    "hp_max": 0,
+    "atk_min": 6000,
+    "atk_max": 6000,
+    "acc": 385,
+    "range": 3,
+    "atkspd": 1000,
+    "mov": 200,
+    "growthf": 1.912,
+    "recs": [
+     402,
+     402
+    ]
+   },
+   {
+    "col2": 524333,
+    "n": 1,
+    "hp_min": 40000000,
+    "hp_max": 40000000,
+    "atk_min": 3900,
+    "atk_max": 3900,
+    "acc": 268,
+    "range": 3,
+    "atkspd": 1000,
+    "mov": 200,
+    "growthf": 1.912,
+    "recs": [
+     575,
+     575
+    ]
+   },
+   {
+    "col2": 524336,
+    "n": 1,
+    "hp_min": 26000000,
+    "hp_max": 26000000,
+    "atk_min": 2600,
+    "atk_max": 2600,
+    "acc": 268,
+    "range": 3,
+    "atkspd": 1000,
+    "mov": 200,
+    "growthf": 1.912,
+    "recs": [
+     578,
+     578
+    ]
+   }
+  ]
+ },
+ "70961": {
+  "name": "Harpy Queen",
+  "clusters": [
+   {
+    "col2": 524395,
+    "n": 1,
+    "hp_min": 1000000,
+    "hp_max": 1000000,
+    "atk_min": 3000,
+    "atk_max": 3000,
+    "acc": 400,
+    "range": 10,
+    "atkspd": 1500,
+    "mov": 190,
+    "growthf": 2.237,
+    "recs": [
+     409,
+     409
+    ]
+   },
+   {
+    "col2": 524497,
+    "n": 1,
+    "hp_min": 1000000,
+    "hp_max": 1000000,
+    "atk_min": 3000,
+    "atk_max": 3000,
+    "acc": 50000,
+    "range": 10,
+    "atkspd": 1500,
+    "mov": 190,
+    "growthf": 2.237,
+    "recs": [
+     483,
+     483
+    ]
+   },
+   {
+    "col2": 65595,
+    "n": 30,
+    "hp_min": 2000,
+    "hp_max": 87750,
+    "atk_min": 180,
+    "atk_max": 5445,
+    "acc": 148,
+    "range": 10,
+    "atkspd": 1500,
+    "mov": 190,
+    "growthf": 2.237,
+    "recs": [
+     705,
+     6585
+    ]
+   },
+   {
+    "col2": 70595,
+    "n": 9,
+    "hp_min": 8000,
+    "hp_max": 219600,
+    "atk_min": 240,
+    "atk_max": 5220,
+    "acc": 238,
+    "range": 10,
+    "atkspd": 1500,
+    "mov": 190,
+    "growthf": 2.237,
+    "recs": [
+     2600,
+     2608
+    ]
+   },
+   {
+    "col2": 70695,
+    "n": 9,
+    "hp_min": 56000,
+    "hp_max": 1188320,
+    "atk_min": 1680,
+    "atk_max": 54720,
+    "acc": 320,
+    "range": 10,
+    "atkspd": 1500,
+    "mov": 190,
+    "growthf": 2.237,
+    "recs": [
+     4040,
+     4048
+    ]
+   }
+  ]
+ },
+ "70651": {
+  "name": "",
+  "clusters": [
+   {
+    "col2": 524465,
+    "n": 1,
+    "hp_min": 0,
+    "hp_max": 0,
+    "atk_min": 50000,
+    "atk_max": 50000,
+    "acc": 0,
+    "range": 3,
+    "atkspd": 1000,
+    "mov": 200,
+    "growthf": 2.237,
+    "recs": [
+     414,
+     414
+    ]
+   },
+   {
+    "col2": 524466,
+    "n": 1,
+    "hp_min": 0,
+    "hp_max": 0,
+    "atk_min": 50000,
+    "atk_max": 50000,
+    "acc": 0,
+    "range": 4,
+    "atkspd": 1000,
+    "mov": 200,
+    "growthf": 2.237,
+    "recs": [
+     415,
+     415
+    ]
+   },
+   {
+    "col2": 524467,
+    "n": 1,
+    "hp_min": 0,
+    "hp_max": 0,
+    "atk_min": 50000,
+    "atk_max": 50000,
+    "acc": 0,
+    "range": 10,
+    "atkspd": 1000,
+    "mov": 200,
+    "growthf": 2.237,
+    "recs": [
+     416,
+     416
+    ]
+   },
+   {
+    "col2": 524526,
+    "n": 1,
+    "hp_min": 0,
+    "hp_max": 0,
+    "atk_min": 50000,
+    "atk_max": 50000,
+    "acc": 0,
+    "range": 10,
+    "atkspd": 1000,
+    "mov": 200,
+    "growthf": 2.237,
+    "recs": [
+     420,
+     420
+    ]
+   },
+   {
+    "col2": 524390,
+    "n": 1,
+    "hp_min": 0,
+    "hp_max": 0,
+    "atk_min": 50000,
+    "atk_max": 50000,
+    "acc": 385,
+    "range": 3,
+    "atkspd": 1000,
+    "mov": 200,
+    "growthf": 2.237,
+    "recs": [
+     475,
+     475
+    ]
+   }
+  ]
+ },
+ "70591": {
+  "name": "",
+  "clusters": [
+   {
+    "col2": 524318,
+    "n": 1,
+    "hp_min": 0,
+    "hp_max": 0,
+    "atk_min": 15000,
+    "atk_max": 15000,
+    "acc": 385,
+    "range": 3,
+    "atkspd": 1500,
+    "mov": 200,
+    "growthf": 2.237,
+    "recs": [
+     421,
+     421
+    ]
+   },
+   {
+    "col2": 524335,
+    "n": 6,
+    "hp_min": 250000000,
+    "hp_max": 250000000,
+    "atk_min": 8400,
+    "atk_max": 8400,
+    "acc": 342,
+    "range": 3,
+    "atkspd": 1000,
+    "mov": 200,
+    "growthf": 2.237,
+    "recs": [
+     577,
+     583
+    ]
+   },
+   {
+    "col2": 529333,
+    "n": 1,
+    "hp_min": 150000,
+    "hp_max": 150000,
+    "atk_min": 1500,
+    "atk_max": 1500,
+    "acc": 501,
+    "range": 3,
+    "atkspd": 1000,
+    "mov": 100,
+    "growthf": 2.237,
+    "recs": [
+     2517,
+     2517
+    ]
+   },
+   {
+    "col2": 529334,
+    "n": 1,
+    "hp_min": 390000,
+    "hp_max": 390000,
+    "atk_min": 3440,
+    "atk_max": 3440,
+    "acc": 501,
+    "range": 3,
+    "atkspd": 1000,
+    "mov": 100,
+    "growthf": 2.237,
+    "recs": [
+     2518,
+     2518
+    ]
+   },
+   {
+    "col2": 529335,
+    "n": 6,
+    "hp_min": 720000,
+    "hp_max": 4590000,
+    "atk_min": 5820,
+    "atk_max": 29700,
+    "acc": 501,
+    "range": 3,
+    "atkspd": 1000,
+    "mov": 100,
+    "growthf": 2.237,
+    "recs": [
+     2519,
+     2525
+    ]
+   },
+   {
+    "col2": 529336,
+    "n": 1,
+    "hp_min": 1140000,
+    "hp_max": 1140000,
+    "atk_min": 8640,
+    "atk_max": 8640,
+    "acc": 501,
+    "range": 3,
+    "atkspd": 1000,
+    "mov": 100,
+    "growthf": 2.237,
+    "recs": [
+     2520,
+     2520
+    ]
+   },
+   {
+    "col2": 529433,
+    "n": 1,
+    "hp_min": 1050000,
+    "hp_max": 1050000,
+    "atk_min": 10500,
+    "atk_max": 10500,
+    "acc": 551,
+    "range": 3,
+    "atkspd": 1000,
+    "mov": 100,
+    "growthf": 2.237,
+    "recs": [
+     3995,
+     3995
+    ]
+   },
+   {
+    "col2": 529434,
+    "n": 1,
+    "hp_min": 2730000,
+    "hp_max": 2730000,
+    "atk_min": 24080,
+    "atk_max": 24080,
+    "acc": 551,
+    "range": 3,
+    "atkspd": 1000,
+    "mov": 100,
+    "growthf": 2.237,
+    "recs": [
+     3996,
+     3996
+    ]
+   },
+   {
+    "col2": 529435,
+    "n": 6,
+    "hp_min": 5040000,
+    "hp_max": 32130000,
+    "atk_min": 40740,
+    "atk_max": 311760,
+    "acc": 551,
+    "range": 3,
+    "atkspd": 1000,
+    "mov": 100,
+    "growthf": 2.237,
+    "recs": [
+     3997,
+     4003
+    ]
+   },
+   {
+    "col2": 529436,
+    "n": 1,
+    "hp_min": 7980000,
+    "hp_max": 7980000,
+    "atk_min": 60480,
+    "atk_max": 60480,
+    "acc": 551,
+    "range": 3,
+    "atkspd": 1000,
+    "mov": 100,
+    "growthf": 2.237,
+    "recs": [
+     3998,
+     3998
+    ]
+   }
+  ]
+ },
+ "70631": {
+  "name": "Triton",
+  "clusters": [
+   {
+    "col2": 65567,
+    "n": 10,
+    "hp_min": 1600,
+    "hp_max": 16000,
+    "atk_min": 140,
+    "atk_max": 1400,
+    "acc": 115,
+    "range": 2,
+    "atkspd": 1500,
+    "mov": 150,
+    "growthf": 2.075,
+    "recs": [
+     425,
+     434
+    ]
+   },
+   {
+    "col2": 70567,
+    "n": 9,
+    "hp_min": 4000,
+    "hp_max": 122400,
+    "atk_min": 200,
+    "atk_max": 4140,
+    "acc": 177,
+    "range": 2,
+    "atkspd": 1500,
+    "mov": 150,
+    "growthf": 2.075,
+    "recs": [
+     2389,
+     2397
+    ]
+   },
+   {
+    "col2": 70667,
+    "n": 9,
+    "hp_min": 28000,
+    "hp_max": 694400,
+    "atk_min": 1400,
+    "atk_max": 43380,
+    "acc": 233,
+    "range": 2,
+    "atkspd": 1500,
+    "mov": 150,
+    "growthf": 2.075,
+    "recs": [
+     3867,
+     3875
+    ]
+   }
+  ]
+ },
+ "70611": {
+  "name": "Atlanticore",
+  "clusters": [
+   {
+    "col2": 196640,
+    "n": 30,
+    "hp_min": 2200,
+    "hp_max": 96800,
+    "atk_min": 180,
+    "atk_max": 5493,
+    "acc": 145,
+    "range": 2,
+    "atkspd": 2000,
+    "mov": 145,
+    "growthf": 2.237,
+    "recs": [
+     435,
+     6435
+    ]
+   },
+   {
+    "col2": 201640,
+    "n": 9,
+    "hp_min": 5500,
+    "hp_max": 168300,
+    "atk_min": 260,
+    "atk_max": 5220,
+    "acc": 231,
+    "range": 2,
+    "atkspd": 2000,
+    "mov": 145,
+    "growthf": 2.237,
+    "recs": [
+     2398,
+     2406
+    ]
+   },
+   {
+    "col2": 201740,
+    "n": 9,
+    "hp_min": 38500,
+    "hp_max": 954240,
+    "atk_min": 1820,
+    "atk_max": 54720,
+    "acc": 308,
+    "range": 2,
+    "atkspd": 2000,
+    "mov": 145,
+    "growthf": 2.237,
+    "recs": [
+     3876,
+     3884
+    ]
+   }
+  ]
+ },
+ "70621": {
+  "name": "Snowzilla",
+  "clusters": [
+   {
+    "col2": 131105,
+    "n": 30,
+    "hp_min": 2000,
+    "hp_max": 88000,
+    "atk_min": 215,
+    "atk_max": 6525,
+    "acc": 161,
+    "range": 4,
+    "atkspd": 1000,
+    "mov": 150,
+    "growthf": 2.237,
+    "recs": [
+     445,
+     6445
+    ]
+   },
+   {
+    "col2": 136105,
+    "n": 9,
+    "hp_min": 5000,
+    "hp_max": 153000,
+    "atk_min": 300,
+    "atk_max": 5940,
+    "acc": 252,
+    "range": 4,
+    "atkspd": 1000,
+    "mov": 150,
+    "growthf": 2.237,
+    "recs": [
+     2407,
+     2415
+    ]
+   },
+   {
+    "col2": 136205,
+    "n": 9,
+    "hp_min": 35000,
+    "hp_max": 868000,
+    "atk_min": 2100,
+    "atk_max": 62280,
+    "acc": 333,
+    "range": 4,
+    "atkspd": 1000,
+    "mov": 150,
+    "growthf": 2.237,
+    "recs": [
+     3885,
+     3893
+    ]
+   }
+  ]
+ },
+ "70641": {
+  "name": "Cupid",
+  "clusters": [
+   {
+    "col2": 131109,
+    "n": 60,
+    "hp_min": 1600,
+    "hp_max": 71400,
+    "atk_min": 200,
+    "atk_max": 6200,
+    "acc": 155,
+    "range": 8,
+    "atkspd": 1200,
+    "mov": 155,
+    "growthf": 2.237,
+    "recs": [
+     485,
+     8502
+    ]
+   },
+   {
+    "col2": 136109,
+    "n": 9,
+    "hp_min": 4240,
+    "hp_max": 129960,
+    "atk_min": 360,
+    "atk_max": 7020,
+    "acc": 273,
+    "range": 8,
+    "atkspd": 1200,
+    "mov": 155,
+    "growthf": 2.237,
+    "recs": [
+     2436,
+     2444
+    ]
+   },
+   {
+    "col2": 136209,
+    "n": 9,
+    "hp_min": 29680,
+    "hp_max": 736960,
+    "atk_min": 2520,
+    "atk_max": 73620,
+    "acc": 358,
+    "range": 8,
+    "atkspd": 1200,
+    "mov": 155,
+    "growthf": 2.237,
+    "recs": [
+     3914,
+     3922
+    ]
+   }
+  ]
+ },
+ "70741": {
+  "name": "Immortep",
+  "clusters": [
+   {
+    "col2": 131114,
+    "n": 30,
+    "hp_min": 2200,
+    "hp_max": 91600,
+    "atk_min": 200,
+    "atk_max": 6008,
+    "acc": 156,
+    "range": 3,
+    "atkspd": 1000,
+    "mov": 165,
+    "growthf": 2.237,
+    "recs": [
+     495,
+     6465
+    ]
+   },
+   {
+    "col2": 136114,
+    "n": 9,
+    "hp_min": 4200,
+    "hp_max": 128520,
+    "atk_min": 240,
+    "atk_max": 4680,
+    "acc": 223,
+    "range": 3,
+    "atkspd": 1000,
+    "mov": 165,
+    "growthf": 2.237,
+    "recs": [
+     2445,
+     2453
+    ]
+   },
+   {
+    "col2": 136214,
+    "n": 9,
+    "hp_min": 29400,
+    "hp_max": 729120,
+    "atk_min": 1680,
+    "atk_max": 49140,
+    "acc": 294,
+    "range": 3,
+    "atkspd": 1000,
+    "mov": 165,
+    "growthf": 2.237,
+    "recs": [
+     3923,
+     3931
+    ]
+   }
+  ]
+ },
+ "70791": {
+  "name": "Aries",
+  "clusters": [
+   {
+    "col2": 196653,
+    "n": 60,
+    "hp_min": 1800,
+    "hp_max": 79200,
+    "atk_min": 280,
+    "atk_max": 8545,
+    "acc": 180,
+    "range": 9,
+    "atkspd": 1000,
+    "mov": 170,
+    "growthf": 2.237,
+    "recs": [
+     515,
+     8652
+    ]
+   },
+   {
+    "col2": 201653,
+    "n": 9,
+    "hp_min": 4500,
+    "hp_max": 137700,
+    "atk_min": 420,
+    "atk_max": 8280,
+    "acc": 302,
+    "range": 9,
+    "atkspd": 1000,
+    "mov": 170,
+    "growthf": 2.237,
+    "recs": [
+     2463,
+     2471
+    ]
+   },
+   {
+    "col2": 201753,
+    "n": 9,
+    "hp_min": 31500,
+    "hp_max": 780640,
+    "atk_min": 2940,
+    "atk_max": 86940,
+    "acc": 396,
+    "range": 9,
+    "atkspd": 1000,
+    "mov": 170,
+    "growthf": 2.237,
+    "recs": [
+     3941,
+     3949
+    ]
+   }
+  ]
+ },
+ "70821": {
+  "name": "Vlad Dracula",
+  "clusters": [
+   {
+    "col2": 196657,
+    "n": 60,
+    "hp_min": 2400,
+    "hp_max": 105600,
+    "atk_min": 260,
+    "atk_max": 7935,
+    "acc": 174,
+    "range": 6,
+    "atkspd": 1200,
+    "mov": 165,
+    "growthf": 2.237,
+    "recs": [
+     525,
+     8682
+    ]
+   },
+   {
+    "col2": 201657,
+    "n": 9,
+    "hp_min": 6000,
+    "hp_max": 183600,
+    "atk_min": 380,
+    "atk_max": 7560,
+    "acc": 288,
+    "range": 6,
+    "atkspd": 1200,
+    "mov": 165,
+    "growthf": 2.237,
+    "recs": [
+     2472,
+     2480
+    ]
+   },
+   {
+    "col2": 201757,
+    "n": 9,
+    "hp_min": 42000,
+    "hp_max": 1041600,
+    "atk_min": 2660,
+    "atk_max": 79380,
+    "acc": 382,
+    "range": 6,
+    "atkspd": 1200,
+    "mov": 165,
+    "growthf": 2.237,
+    "recs": [
+     3950,
+     3958
+    ]
+   }
+  ]
+ },
+ "70901": {
+  "name": "Death Knight",
+  "clusters": [
+   {
+    "col2": 196658,
+    "n": 31,
+    "hp_min": 1300,
+    "hp_max": 140800,
+    "atk_min": 100,
+    "atk_max": 7324,
+    "acc": 168,
+    "range": 3,
+    "atkspd": 1200,
+    "mov": 175,
+    "growthf": 2.237,
+    "recs": [
+     535,
+     6505
+    ]
+   },
+   {
+    "col2": 201658,
+    "n": 9,
+    "hp_min": 6000,
+    "hp_max": 183600,
+    "atk_min": 380,
+    "atk_max": 7560,
+    "acc": 288,
+    "range": 6,
+    "atkspd": 1200,
+    "mov": 165,
+    "growthf": 2.237,
+    "recs": [
+     2481,
+     2489
+    ]
+   },
+   {
+    "col2": 201758,
+    "n": 9,
+    "hp_min": 42000,
+    "hp_max": 1041600,
+    "atk_min": 2660,
+    "atk_max": 79380,
+    "acc": 382,
+    "range": 6,
+    "atkspd": 1200,
+    "mov": 165,
+    "growthf": 2.237,
+    "recs": [
+     3959,
+     3967
+    ]
+   }
+  ]
+ },
+ "70861": {
+  "name": "Orksbane",
+  "clusters": [
+   {
+    "col2": 196659,
+    "n": 30,
+    "hp_min": 3600,
+    "hp_max": 158400,
+    "atk_min": 240,
+    "atk_max": 7324,
+    "acc": 168,
+    "range": 3,
+    "atkspd": 1200,
+    "mov": 190,
+    "growthf": 2.237,
+    "recs": [
+     545,
+     6515
+    ]
+   },
+   {
+    "col2": 201659,
+    "n": 9,
+    "hp_min": 9000,
+    "hp_max": 275400,
+    "atk_min": 360,
+    "atk_max": 7020,
+    "acc": 282,
+    "range": 3,
+    "atkspd": 1200,
+    "mov": 170,
+    "growthf": 2.237,
+    "recs": [
+     2490,
+     2498
+    ]
+   },
+   {
+    "col2": 201759,
+    "n": 9,
+    "hp_min": 63000,
+    "hp_max": 1562400,
+    "atk_min": 2520,
+    "atk_max": 73620,
+    "acc": 381,
+    "range": 3,
+    "atkspd": 1200,
+    "mov": 170,
+    "growthf": 2.237,
+    "recs": [
+     3968,
+     3976
+    ]
+   }
+  ]
+ },
+ "70881": {
+  "name": "Santa Boom",
+  "clusters": [
+   {
+    "col2": 131124,
+    "n": 60,
+    "hp_min": 2000,
+    "hp_max": 88000,
+    "atk_min": 260,
+    "atk_max": 7935,
+    "acc": 173,
+    "range": 7,
+    "atkspd": 1200,
+    "mov": 175,
+    "growthf": 2.237,
+    "recs": [
+     555,
+     8922
+    ]
+   },
+   {
+    "col2": 136124,
+    "n": 9,
+    "hp_min": 8000,
+    "hp_max": 219600,
+    "atk_min": 380,
+    "atk_max": 9360,
+    "acc": 329,
+    "range": 7,
+    "atkspd": 1200,
+    "mov": 175,
+    "growthf": 2.237,
+    "recs": [
+     2499,
+     2507
+    ]
+   },
+   {
+    "col2": 136224,
+    "n": 9,
+    "hp_min": 56000,
+    "hp_max": 1188320,
+    "atk_min": 2660,
+    "atk_max": 98280,
+    "acc": 438,
+    "range": 7,
+    "atkspd": 1200,
+    "mov": 175,
+    "growthf": 2.237,
+    "recs": [
+     3977,
+     3985
+    ]
+   }
+  ]
+ },
+ "70911": {
+  "name": "Pixie",
+  "clusters": [
+   {
+    "col2": 65589,
+    "n": 30,
+    "hp_min": 1900,
+    "hp_max": 83600,
+    "atk_min": 240,
+    "atk_max": 7324,
+    "acc": 166,
+    "range": 10,
+    "atkspd": 1500,
+    "mov": 170,
+    "growthf": 2.237,
+    "recs": [
+     565,
+     6535
+    ]
+   },
+   {
+    "col2": 70589,
+    "n": 9,
+    "hp_min": 7600,
+    "hp_max": 208440,
+    "atk_min": 360,
+    "atk_max": 8640,
+    "acc": 311,
+    "range": 10,
+    "atkspd": 1500,
+    "mov": 170,
+    "growthf": 2.237,
+    "recs": [
+     2508,
+     2516
+    ]
+   },
+   {
+    "col2": 70689,
+    "n": 9,
+    "hp_min": 53200,
+    "hp_max": 1127840,
+    "atk_min": 2520,
+    "atk_max": 90720,
+    "acc": 414,
+    "range": 10,
+    "atkspd": 1500,
+    "mov": 170,
+    "growthf": 2.237,
+    "recs": [
+     3986,
+     3994
+    ]
+   }
+  ]
+ },
+ "70931": {
+  "name": "Siren",
+  "clusters": [
+   {
+    "col2": 65591,
+    "n": 30,
+    "hp_min": 1800,
+    "hp_max": 79200,
+    "atk_min": 220,
+    "atk_max": 6714,
+    "acc": 161,
+    "range": 8,
+    "atkspd": 1200,
+    "mov": 170,
+    "growthf": 2.237,
+    "recs": [
+     629,
+     6545
+    ]
+   },
+   {
+    "col2": 70591,
+    "n": 9,
+    "hp_min": 7200,
+    "hp_max": 197640,
+    "atk_min": 320,
+    "atk_max": 7560,
+    "acc": 289,
+    "range": 8,
+    "atkspd": 1200,
+    "mov": 170,
+    "growthf": 2.237,
+    "recs": [
+     2564,
+     2572
+    ]
+   },
+   {
+    "col2": 70691,
+    "n": 9,
+    "hp_min": 50400,
+    "hp_max": 1069600,
+    "atk_min": 2240,
+    "atk_max": 79380,
+    "acc": 384,
+    "range": 8,
+    "atkspd": 1200,
+    "mov": 170,
+    "growthf": 2.237,
+    "recs": [
+     4004,
+     4012
+    ]
+   }
+  ]
+ },
+ "70921": {
+  "name": "Destroyer",
+  "clusters": [
+   {
+    "col2": 196664,
+    "n": 31,
+    "hp_min": 1800,
+    "hp_max": 140800,
+    "atk_min": 90,
+    "atk_max": 7935,
+    "acc": 173,
+    "range": 3,
+    "atkspd": 1500,
+    "mov": 180,
+    "growthf": 2.237,
+    "recs": [
+     639,
+     6555
+    ]
+   },
+   {
+    "col2": 201664,
+    "n": 9,
+    "hp_min": 12800,
+    "hp_max": 351180,
+    "atk_min": 380,
+    "atk_max": 9360,
+    "acc": 335,
+    "range": 3,
+    "atkspd": 1500,
+    "mov": 180,
+    "growthf": 2.237,
+    "recs": [
+     2573,
+     2581
+    ]
+   },
+   {
+    "col2": 201764,
+    "n": 9,
+    "hp_min": 89600,
+    "hp_max": 1900640,
+    "atk_min": 2660,
+    "atk_max": 98280,
+    "acc": 457,
+    "range": 3,
+    "atkspd": 1500,
+    "mov": 180,
+    "growthf": 2.237,
+    "recs": [
+     4013,
+     4021
+    ]
+   }
+  ]
+ },
+ "70941": {
+  "name": "Warlock",
+  "clusters": [
+   {
+    "col2": 65593,
+    "n": 60,
+    "hp_min": 1800,
+    "hp_max": 79200,
+    "atk_min": 260,
+    "atk_max": 7839,
+    "acc": 173,
+    "range": 10,
+    "atkspd": 1200,
+    "mov": 170,
+    "growthf": 2.237,
+    "recs": [
+     649,
+     9462
+    ]
+   },
+   {
+    "col2": 70593,
+    "n": 9,
+    "hp_min": 7200,
+    "hp_max": 197640,
+    "atk_min": 320,
+    "atk_max": 7560,
+    "acc": 289,
+    "range": 10,
+    "atkspd": 1200,
+    "mov": 170,
+    "growthf": 2.237,
+    "recs": [
+     2582,
+     2590
+    ]
+   },
+   {
+    "col2": 70693,
+    "n": 9,
+    "hp_min": 50400,
+    "hp_max": 1069600,
+    "atk_min": 2240,
+    "atk_max": 79380,
+    "acc": 384,
+    "range": 10,
+    "atkspd": 1200,
+    "mov": 170,
+    "growthf": 2.237,
+    "recs": [
+     4022,
+     4030
+    ]
+   }
+  ]
+ },
+ "70951": {
+  "name": "Treantaur",
+  "clusters": [
+   {
+    "col2": 65594,
+    "n": 60,
+    "hp_min": 1600,
+    "hp_max": 71400,
+    "atk_min": 200,
+    "atk_max": 6200,
+    "acc": 154,
+    "range": 8,
+    "atkspd": 1500,
+    "mov": 155,
+    "growthf": 2.237,
+    "recs": [
+     659,
+     9342
+    ]
+   },
+   {
+    "col2": 70594,
+    "n": 9,
+    "hp_min": 6800,
+    "hp_max": 186300,
+    "atk_min": 360,
+    "atk_max": 8640,
+    "acc": 310,
+    "range": 8,
+    "atkspd": 1500,
+    "mov": 155,
+    "growthf": 2.237,
+    "recs": [
+     2591,
+     2599
+    ]
+   },
+   {
+    "col2": 70694,
+    "n": 9,
+    "hp_min": 47600,
+    "hp_max": 1008000,
+    "atk_min": 2520,
+    "atk_max": 90720,
+    "acc": 410,
+    "range": 8,
+    "atkspd": 1500,
+    "mov": 155,
+    "growthf": 2.237,
+    "recs": [
+     4031,
+     4039
+    ]
+   }
+  ]
+ },
+ "70971": {
+  "name": "Skull Knight",
+  "clusters": [
+   {
+    "col2": 196668,
+    "n": 60,
+    "hp_min": 3200,
+    "hp_max": 140800,
+    "atk_min": 240,
+    "atk_max": 7324,
+    "acc": 171,
+    "range": 3,
+    "atkspd": 600,
+    "mov": 310,
+    "growthf": 2.237,
+    "recs": [
+     715,
+     8772
+    ]
+   },
+   {
+    "col2": 201668,
+    "n": 10,
+    "hp_min": 12800,
+    "hp_max": 448600,
+    "atk_min": 360,
+    "atk_max": 11000,
+    "acc": 382,
+    "range": 3,
+    "atkspd": 600,
+    "mov": 310,
+    "growthf": 2.237,
+    "recs": [
+     2609,
+     2618
+    ]
+   },
+   {
+    "col2": 201768,
+    "n": 10,
+    "hp_min": 89600,
+    "hp_max": 2072400,
+    "atk_min": 2520,
+    "atk_max": 115400,
+    "acc": 518,
+    "range": 3,
+    "atkspd": 600,
+    "mov": 310,
+    "growthf": 2.237,
+    "recs": [
+     4049,
+     4058
+    ]
+   }
+  ]
+ },
+ "70981": {
+  "name": "Dread Drake",
+  "clusters": [
+   {
+    "col2": 65597,
+    "n": 60,
+    "hp_min": 4800,
+    "hp_max": 197200,
+    "atk_min": 240,
+    "atk_max": 7276,
+    "acc": 169,
+    "range": 3,
+    "atkspd": 1200,
+    "mov": 255,
+    "growthf": 2.237,
+    "recs": [
+     725,
+     8592
+    ]
+   },
+   {
+    "col2": 70597,
+    "n": 10,
+    "hp_min": 13600,
+    "hp_max": 477000,
+    "atk_min": 320,
+    "atk_max": 9600,
+    "acc": 349,
+    "range": 3,
+    "atkspd": 1200,
+    "mov": 255,
+    "growthf": 2.237,
+    "recs": [
+     2619,
+     2628
+    ]
+   },
+   {
+    "col2": 70697,
+    "n": 10,
+    "hp_min": 95200,
+    "hp_max": 2203600,
+    "atk_min": 2240,
+    "atk_max": 100800,
+    "acc": 478,
+    "range": 3,
+    "atkspd": 1200,
+    "mov": 255,
+    "growthf": 2.237,
+    "recs": [
+     4059,
+     4068
+    ]
+   }
+  ]
+ },
+ "70991": {
+  "name": "Ghoulem",
+  "clusters": [
+   {
+    "col2": 131134,
+    "n": 60,
+    "hp_min": 4800,
+    "hp_max": 201200,
+    "atk_min": 200,
+    "atk_max": 6104,
+    "acc": 157,
+    "range": 8,
+    "atkspd": 1200,
+    "mov": 175,
+    "growthf": 2.237,
+    "recs": [
+     735,
+     8472
+    ]
+   },
+   {
+    "col2": 136134,
+    "n": 10,
+    "hp_min": 15200,
+    "hp_max": 533800,
+    "atk_min": 300,
+    "atk_max": 9200,
+    "acc": 344,
+    "range": 8,
+    "atkspd": 1200,
+    "mov": 175,
+    "growthf": 2.237,
+    "recs": [
+     2629,
+     2638
+    ]
+   },
+   {
+    "col2": 136234,
+    "n": 10,
+    "hp_min": 106400,
+    "hp_max": 2466000,
+    "atk_min": 2100,
+    "atk_max": 96600,
+    "acc": 475,
+    "range": 8,
+    "atkspd": 1200,
+    "mov": 175,
+    "growthf": 2.237,
+    "recs": [
+     4069,
+     4078
+    ]
+   }
+  ]
+ },
+ "71011": {
+  "name": "Candy Kane",
+  "clusters": [
+   {
+    "col2": 65599,
+    "n": 30,
+    "hp_min": 1600,
+    "hp_max": 76400,
+    "atk_min": 215,
+    "atk_max": 6621,
+    "acc": 160,
+    "range": 10,
+    "atkspd": 1200,
+    "mov": 180,
+    "growthf": 2.237,
+    "recs": [
+     745,
+     6625
+    ]
+   },
+   {
+    "col2": 70599,
+    "n": 10,
+    "hp_min": 8800,
+    "hp_max": 308600,
+    "atk_min": 360,
+    "atk_max": 11000,
+    "acc": 370,
+    "range": 10,
+    "atkspd": 1200,
+    "mov": 180,
+    "growthf": 2.237,
+    "recs": [
+     2639,
+     2648
+    ]
+   },
+   {
+    "col2": 70699,
+    "n": 10,
+    "hp_min": 61600,
+    "hp_max": 1425600,
+    "atk_min": 2520,
+    "atk_max": 115400,
+    "acc": 492,
+    "range": 10,
+    "atkspd": 1200,
+    "mov": 180,
+    "growthf": 2.237,
+    "recs": [
+     4079,
+     4088
+    ]
+   }
+  ]
+ },
+ "71021": {
+  "name": "Arctica",
+  "clusters": [
+   {
+    "col2": 131136,
+    "n": 60,
+    "hp_min": 2600,
+    "hp_max": 114400,
+    "atk_min": 220,
+    "atk_max": 6762,
+    "acc": 163,
+    "range": 9,
+    "atkspd": 1000,
+    "mov": 165,
+    "growthf": 2.237,
+    "recs": [
+     755,
+     8832
+    ]
+   },
+   {
+    "col2": 136136,
+    "n": 10,
+    "hp_min": 10400,
+    "hp_max": 365000,
+    "atk_min": 360,
+    "atk_max": 11000,
+    "acc": 373,
+    "range": 9,
+    "atkspd": 1200,
+    "mov": 165,
+    "growthf": 2.237,
+    "recs": [
+     2649,
+     2658
+    ]
+   },
+   {
+    "col2": 136236,
+    "n": 10,
+    "hp_min": 72800,
+    "hp_max": 1686200,
+    "atk_min": 2520,
+    "atk_max": 115400,
+    "acc": 501,
+    "range": 9,
+    "atkspd": 1200,
+    "mov": 165,
+    "growthf": 2.237,
+    "recs": [
+     4089,
+     4098
+    ]
+   }
+  ]
+ },
+ "71031": {
+  "name": "Valentina",
+  "clusters": [
+   {
+    "col2": 65603,
+    "n": 60,
+    "hp_min": 1700,
+    "hp_max": 79575,
+    "atk_min": 210,
+    "atk_max": 6483,
+    "acc": 160,
+    "range": 9,
+    "atkspd": 1200,
+    "mov": 165,
+    "growthf": 2.237,
+    "recs": [
+     785,
+     8862
+    ]
+   },
+   {
+    "col2": 70603,
+    "n": 10,
+    "hp_min": 8800,
+    "hp_max": 308600,
+    "atk_min": 360,
+    "atk_max": 11000,
+    "acc": 370,
+    "range": 9,
+    "atkspd": 1200,
+    "mov": 165,
+    "growthf": 2.237,
+    "recs": [
+     2672,
+     2681
+    ]
+   },
+   {
+    "col2": 70703,
+    "n": 10,
+    "hp_min": 61600,
+    "hp_max": 1425600,
+    "atk_min": 2520,
+    "atk_max": 115400,
+    "acc": 492,
+    "range": 9,
+    "atkspd": 1200,
+    "mov": 165,
+    "growthf": 2.237,
+    "recs": [
+     4112,
+     4121
+    ]
+   }
+  ]
+ },
+ "71041": {
+  "name": "Phantom King",
+  "clusters": [
+   {
+    "col2": 131140,
+    "n": 60,
+    "hp_min": 1800,
+    "hp_max": 81200,
+    "atk_min": 200,
+    "atk_max": 6104,
+    "acc": 157,
+    "range": 6,
+    "atkspd": 800,
+    "mov": 280,
+    "growthf": 2.237,
+    "recs": [
+     795,
+     8952
+    ]
+   },
+   {
+    "col2": 136140,
+    "n": 10,
+    "hp_min": 8000,
+    "hp_max": 280600,
+    "atk_min": 300,
+    "atk_max": 9200,
+    "acc": 331,
+    "range": 6,
+    "atkspd": 800,
+    "mov": 280,
+    "growthf": 2.237,
+    "recs": [
+     2682,
+     2691
+    ]
+   },
+   {
+    "col2": 136240,
+    "n": 10,
+    "hp_min": 56000,
+    "hp_max": 1296200,
+    "atk_min": 2100,
+    "atk_max": 96600,
+    "acc": 441,
+    "range": 6,
+    "atkspd": 800,
+    "mov": 280,
+    "growthf": 2.237,
+    "recs": [
+     4122,
+     4131
+    ]
+   }
+  ]
+ },
+ "71051": {
+  "name": "Beast Tamer",
+  "clusters": [
+   {
+    "col2": 196677,
+    "n": 30,
+    "hp_min": 2400,
+    "hp_max": 109600,
+    "atk_min": 180,
+    "atk_max": 5445,
+    "acc": 148,
+    "range": 2,
+    "atkspd": 1500,
+    "mov": 200,
+    "growthf": 2.237,
+    "recs": [
+     805,
+     6668
+    ]
+   },
+   {
+    "col2": 524358,
+    "n": 30,
+    "hp_min": 5000,
+    "hp_max": 210000,
+    "atk_min": 260,
+    "atk_max": 7887,
+    "acc": 176,
+    "range": 2,
+    "atkspd": 1000,
+    "mov": 250,
+    "growthf": 2.237,
+    "recs": [
+     815,
+     6678
+    ]
+   },
+   {
+    "col2": 201677,
+    "n": 10,
+    "hp_min": 11200,
+    "hp_max": 392600,
+    "atk_min": 240,
+    "atk_max": 6600,
+    "acc": 278,
+    "range": 2,
+    "atkspd": 1500,
+    "mov": 200,
+    "growthf": 2.237,
+    "recs": [
+     2692,
+     2701
+    ]
+   },
+   {
+    "col2": 529358,
+    "n": 10,
+    "hp_min": 16000,
+    "hp_max": 561800,
+    "atk_min": 360,
+    "atk_max": 11000,
+    "acc": 386,
+    "range": 2,
+    "atkspd": 1000,
+    "mov": 250,
+    "growthf": 2.237,
+    "recs": [
+     2702,
+     2711
+    ]
+   },
+   {
+    "col2": 201777,
+    "n": 10,
+    "hp_min": 78400,
+    "hp_max": 1813800,
+    "atk_min": 1680,
+    "atk_max": 69200,
+    "acc": 380,
+    "range": 2,
+    "atkspd": 1500,
+    "mov": 200,
+    "growthf": 2.237,
+    "recs": [
+     4132,
+     4141
+    ]
+   },
+   {
+    "col2": 529458,
+    "n": 10,
+    "hp_min": 112000,
+    "hp_max": 2595400,
+    "atk_min": 2520,
+    "atk_max": 115400,
+    "acc": 531,
+    "range": 2,
+    "atkspd": 1000,
+    "mov": 250,
+    "growthf": 2.237,
+    "recs": [
+     4142,
+     4151
+    ]
+   }
+  ]
+ },
+ "71061": {
+  "name": "Lady Leo",
+  "clusters": [
+   {
+    "col2": 131143,
+    "n": 30,
+    "hp_min": 2400,
+    "hp_max": 103600,
+    "atk_min": 190,
+    "atk_max": 5822,
+    "acc": 153,
+    "range": 10,
+    "atkspd": 1200,
+    "mov": 230,
+    "growthf": 2.237,
+    "recs": [
+     825,
+     6688
+    ]
+   },
+   {
+    "col2": 136143,
+    "n": 10,
+    "hp_min": 8800,
+    "hp_max": 308600,
+    "atk_min": 300,
+    "atk_max": 9200,
+    "acc": 331,
+    "range": 10,
+    "atkspd": 1200,
+    "mov": 230,
+    "growthf": 2.237,
+    "recs": [
+     2712,
+     2721
+    ]
+   },
+   {
+    "col2": 136243,
+    "n": 10,
+    "hp_min": 61600,
+    "hp_max": 1425600,
+    "atk_min": 2100,
+    "atk_max": 96600,
+    "acc": 442,
+    "range": 10,
+    "atkspd": 1200,
+    "mov": 230,
+    "growthf": 2.237,
+    "recs": [
+     4152,
+     4161
+    ]
+   }
+  ]
+ },
+ "71071": {
+  "name": "Grimfiend",
+  "clusters": [
+   {
+    "col2": 196682,
+    "n": 60,
+    "hp_min": 2500,
+    "hp_max": 109000,
+    "atk_min": 240,
+    "atk_max": 7373,
+    "acc": 169,
+    "range": 10,
+    "atkspd": 1000,
+    "mov": 235,
+    "growthf": 2.237,
+    "recs": [
+     835,
+     9192
+    ]
+   },
+   {
+    "col2": 196683,
+    "n": 60,
+    "hp_min": 2500,
+    "hp_max": 109000,
+    "atk_min": 240,
+    "atk_max": 7373,
+    "acc": 169,
+    "range": 10,
+    "atkspd": 1000,
+    "mov": 235,
+    "growthf": 2.237,
+    "recs": [
+     845,
+     9222
+    ]
+   },
+   {
+    "col2": 201682,
+    "n": 10,
+    "hp_min": 9600,
+    "hp_max": 336400,
+    "atk_min": 380,
+    "atk_max": 11800,
+    "acc": 390,
+    "range": 10,
+    "atkspd": 1000,
+    "mov": 235,
+    "growthf": 2.237,
+    "recs": [
+     2722,
+     2731
+    ]
+   },
+   {
+    "col2": 201683,
+    "n": 10,
+    "hp_min": 9600,
+    "hp_max": 336400,
+    "atk_min": 380,
+    "atk_max": 11800,
+    "acc": 390,
+    "range": 10,
+    "atkspd": 1000,
+    "mov": 235,
+    "growthf": 2.237,
+    "recs": [
+     2732,
+     2741
+    ]
+   },
+   {
+    "col2": 201782,
+    "n": 10,
+    "hp_min": 67200,
+    "hp_max": 1554000,
+    "atk_min": 2660,
+    "atk_max": 123800,
+    "acc": 520,
+    "range": 10,
+    "atkspd": 1000,
+    "mov": 235,
+    "growthf": 2.237,
+    "recs": [
+     4162,
+     4171
+    ]
+   },
+   {
+    "col2": 201783,
+    "n": 10,
+    "hp_min": 67200,
+    "hp_max": 1554000,
+    "atk_min": 2660,
+    "atk_max": 123800,
+    "acc": 520,
+    "range": 10,
+    "atkspd": 1000,
+    "mov": 235,
+    "growthf": 2.237,
+    "recs": [
+     4172,
+     4181
+    ]
+   }
+  ]
+ },
+ "71081": {
+  "name": "Dracax",
+  "clusters": [
+   {
+    "col2": 196684,
+    "n": 30,
+    "hp_min": 2450,
+    "hp_max": 111300,
+    "atk_min": 210,
+    "atk_max": 6481,
+    "acc": 160,
+    "range": 8,
+    "atkspd": 1100,
+    "mov": 235,
+    "growthf": 2.237,
+    "recs": [
+     855,
+     6718
+    ]
+   },
+   {
+    "col2": 201684,
+    "n": 10,
+    "hp_min": 11200,
+    "hp_max": 392600,
+    "atk_min": 360,
+    "atk_max": 11000,
+    "acc": 375,
+    "range": 8,
+    "atkspd": 1100,
+    "mov": 235,
+    "growthf": 2.237,
+    "recs": [
+     2742,
+     2751
+    ]
+   },
+   {
+    "col2": 201784,
+    "n": 10,
+    "hp_min": 78400,
+    "hp_max": 1813800,
+    "atk_min": 2520,
+    "atk_max": 115400,
+    "acc": 506,
+    "range": 8,
+    "atkspd": 1100,
+    "mov": 235,
+    "growthf": 2.237,
+    "recs": [
+     4182,
+     4191
+    ]
+   }
+  ]
+ },
+ "71091": {
+  "name": "Medusa",
+  "clusters": [
+   {
+    "col2": 196687,
+    "n": 60,
+    "hp_min": 1900,
+    "hp_max": 86600,
+    "atk_min": 220,
+    "atk_max": 6810,
+    "acc": 162,
+    "range": 10,
+    "atkspd": 1000,
+    "mov": 240,
+    "growthf": 2.237,
+    "recs": [
+     875,
+     8892
+    ]
+   },
+   {
+    "col2": 201687,
+    "n": 10,
+    "hp_min": 8800,
+    "hp_max": 308600,
+    "atk_min": 380,
+    "atk_max": 11800,
+    "acc": 388,
+    "range": 10,
+    "atkspd": 1000,
+    "mov": 240,
+    "growthf": 2.237,
+    "recs": [
+     2753,
+     2762
+    ]
+   },
+   {
+    "col2": 201787,
+    "n": 10,
+    "hp_min": 61600,
+    "hp_max": 1425600,
+    "atk_min": 2660,
+    "atk_max": 123800,
+    "acc": 516,
+    "range": 10,
+    "atkspd": 1000,
+    "mov": 240,
+    "growthf": 2.237,
+    "recs": [
+     4192,
+     4201
+    ]
+   }
+  ]
+ },
+ "71100": {
+  "name": "Demogorgon",
+  "clusters": [
+   {
+    "col2": 131152,
+    "n": 90,
+    "hp_min": 3200,
+    "hp_max": 138800,
+    "atk_min": 230,
+    "atk_max": 7043,
+    "acc": 166,
+    "range": 10,
+    "atkspd": 1000,
+    "mov": 255,
+    "growthf": 2.237,
+    "recs": [
+     885,
+     10272
+    ]
+   },
+   {
+    "col2": 524370,
+    "n": 60,
+    "hp_min": 6000,
+    "hp_max": 95940,
+    "atk_min": 1000,
+    "atk_max": 15990,
+    "acc": 385,
+    "range": 2,
+    "atkspd": 1000,
+    "mov": 450,
+    "growthf": 2.237,
+    "recs": [
+     905,
+     6868
+    ]
+   },
+   {
+    "col2": 136152,
+    "n": 10,
+    "hp_min": 12000,
+    "hp_max": 420600,
+    "atk_min": 420,
+    "atk_max": 13400,
+    "acc": 430,
+    "range": 10,
+    "atkspd": 1000,
+    "mov": 255,
+    "growthf": 2.237,
+    "recs": [
+     2763,
+     2772
+    ]
+   },
+   {
+    "col2": 529370,
+    "n": 10,
+    "hp_min": 10000,
+    "hp_max": 351200,
+    "atk_min": 360,
+    "atk_max": 11000,
+    "acc": 373,
+    "range": 2,
+    "atkspd": 1000,
+    "mov": 450,
+    "growthf": 2.237,
+    "recs": [
+     2783,
+     2792
+    ]
+   },
+   {
+    "col2": 136252,
+    "n": 10,
+    "hp_min": 84000,
+    "hp_max": 1943000,
+    "atk_min": 2940,
+    "atk_max": 140600,
+    "acc": 577,
+    "range": 10,
+    "atkspd": 1000,
+    "mov": 255,
+    "growthf": 2.237,
+    "recs": [
+     4202,
+     4211
+    ]
+   },
+   {
+    "col2": 529470,
+    "n": 10,
+    "hp_min": 70000,
+    "hp_max": 1622400,
+    "atk_min": 2520,
+    "atk_max": 115400,
+    "acc": 500,
+    "range": 2,
+    "atkspd": 1000,
+    "mov": 450,
+    "growthf": 2.237,
+    "recs": [
+     4222,
+     4231
+    ]
+   }
+  ]
+ },
+ "71111": {
+  "name": "Trixie Treat",
+  "clusters": [
+   {
+    "col2": 196689,
+    "n": 60,
+    "hp_min": 2000,
+    "hp_max": 92000,
+    "atk_min": 210,
+    "atk_max": 6433,
+    "acc": 158,
+    "range": 9,
+    "atkspd": 1200,
+    "mov": 235,
+    "growthf": 2.237,
+    "recs": [
+     895,
+     8622
+    ]
+   },
+   {
+    "col2": 201689,
+    "n": 10,
+    "hp_min": 9600,
+    "hp_max": 336400,
+    "atk_min": 320,
+    "atk_max": 9600,
+    "acc": 341,
+    "range": 9,
+    "atkspd": 1200,
+    "mov": 235,
+    "growthf": 2.237,
+    "recs": [
+     2773,
+     2782
+    ]
+   },
+   {
+    "col2": 201789,
+    "n": 10,
+    "hp_min": 67200,
+    "hp_max": 1554000,
+    "atk_min": 2240,
+    "atk_max": 100800,
+    "acc": 458,
+    "range": 9,
+    "atkspd": 1200,
+    "mov": 235,
+    "growthf": 2.237,
+    "recs": [
+     4212,
+     4221
+    ]
+   }
+  ]
+ },
+ "71121": {
+  "name": "Revenant",
+  "clusters": [
+   {
+    "col2": 196691,
+    "n": 60,
+    "hp_min": 4000,
+    "hp_max": 172000,
+    "atk_min": 225,
+    "atk_max": 6903,
+    "acc": 165,
+    "range": 3,
+    "atkspd": 1000,
+    "mov": 275,
+    "growthf": 2.237,
+    "recs": [
+     915,
+     9102
+    ]
+   },
+   {
+    "col2": 201691,
+    "n": 10,
+    "hp_min": 14400,
+    "hp_max": 505200,
+    "atk_min": 360,
+    "atk_max": 11000,
+    "acc": 383,
+    "range": 3,
+    "atkspd": 1000,
+    "mov": 275,
+    "growthf": 2.237,
+    "recs": [
+     2793,
+     2802
+    ]
+   },
+   {
+    "col2": 201791,
+    "n": 10,
+    "hp_min": 100800,
+    "hp_max": 2334000,
+    "atk_min": 2520,
+    "atk_max": 115400,
+    "acc": 650,
+    "range": 3,
+    "atkspd": 1000,
+    "mov": 275,
+    "growthf": 2.237,
+    "recs": [
+     4232,
+     4241
+    ]
+   }
+  ]
+ },
+ "71131": {
+  "name": "Lil&apos; Nick",
+  "clusters": [
+   {
+    "col2": 65621,
+    "n": 60,
+    "hp_min": 2000,
+    "hp_max": 89000,
+    "atk_min": 215,
+    "atk_max": 6669,
+    "acc": 165,
+    "range": 10,
+    "atkspd": 1200,
+    "mov": 240,
+    "growthf": 2.237,
+    "recs": [
+     925,
+     8802
+    ]
+   },
+   {
+    "col2": 70621,
+    "n": 10,
+    "hp_min": 8400,
+    "hp_max": 294000,
+    "atk_min": 380,
+    "atk_max": 11800,
+    "acc": 387,
+    "range": 10,
+    "atkspd": 1200,
+    "mov": 240,
+    "growthf": 2.237,
+    "recs": [
+     2803,
+     2812
+    ]
+   },
+   {
+    "col2": 70721,
+    "n": 10,
+    "hp_min": 58800,
+    "hp_max": 1358200,
+    "atk_min": 2660,
+    "atk_max": 123800,
+    "acc": 662,
+    "range": 10,
+    "atkspd": 1200,
+    "mov": 240,
+    "growthf": 2.237,
+    "recs": [
+     4242,
+     4251
+    ]
+   }
+  ]
+ },
+ "71141": {
+  "name": "Michael",
+  "clusters": [
+   {
+    "col2": 131159,
+    "n": 90,
+    "hp_min": 5500,
+    "hp_max": 239000,
+    "atk_min": 195,
+    "atk_max": 5963,
+    "acc": 154,
+    "range": 2,
+    "atkspd": 1500,
+    "mov": 315,
+    "growthf": 2.237,
+    "recs": [
+     935,
+     10062
+    ]
+   },
+   {
+    "col2": 136159,
+    "n": 10,
+    "hp_min": 20800,
+    "hp_max": 730600,
+    "atk_min": 300,
+    "atk_max": 9200,
+    "acc": 357,
+    "range": 2,
+    "atkspd": 1500,
+    "mov": 315,
+    "growthf": 2.237,
+    "recs": [
+     2813,
+     2822
+    ]
+   },
+   {
+    "col2": 136259,
+    "n": 10,
+    "hp_min": 145600,
+    "hp_max": 3375200,
+    "atk_min": 2100,
+    "atk_max": 96600,
+    "acc": 594,
+    "range": 2,
+    "atkspd": 1500,
+    "mov": 315,
+    "growthf": 2.237,
+    "recs": [
+     4252,
+     4261
+    ]
+   }
+  ]
+ },
+ "71151": {
+  "name": "Heartbreaker",
+  "clusters": [
+   {
+    "col2": 65624,
+    "n": 60,
+    "hp_min": 2000,
+    "hp_max": 88000,
+    "atk_min": 210,
+    "atk_max": 6529,
+    "acc": 159,
+    "range": 10,
+    "atkspd": 700,
+    "mov": 275,
+    "growthf": 2.237,
+    "recs": [
+     945,
+     9012
+    ]
+   },
+   {
+    "col2": 70624,
+    "n": 10,
+    "hp_min": 8000,
+    "hp_max": 280600,
+    "atk_min": 380,
+    "atk_max": 11800,
+    "acc": 387,
+    "range": 10,
+    "atkspd": 700,
+    "mov": 275,
+    "growthf": 2.237,
+    "recs": [
+     2823,
+     2832
+    ]
+   },
+   {
+    "col2": 70724,
+    "n": 10,
+    "hp_min": 56000,
+    "hp_max": 1296200,
+    "atk_min": 2660,
+    "atk_max": 123800,
+    "acc": 664,
+    "range": 10,
+    "atkspd": 700,
+    "mov": 275,
+    "growthf": 2.237,
+    "recs": [
+     4262,
+     4271
+    ]
+   }
+  ]
+ },
+ "71161": {
+  "name": "Anubis",
+  "clusters": [
+   {
+    "col2": 196697,
+    "n": 90,
+    "hp_min": 3600,
+    "hp_max": 154400,
+    "atk_min": 205,
+    "atk_max": 6340,
+    "acc": 159,
+    "range": 3,
+    "atkspd": 1000,
+    "mov": 315,
+    "growthf": 2.237,
+    "recs": [
+     955,
+     9942
+    ]
+   },
+   {
+    "col2": 201697,
+    "n": 10,
+    "hp_min": 12800,
+    "hp_max": 448600,
+    "atk_min": 360,
+    "atk_max": 11000,
+    "acc": 379,
+    "range": 3,
+    "atkspd": 1000,
+    "mov": 315,
+    "growthf": 2.237,
+    "recs": [
+     2833,
+     2842
+    ]
+   },
+   {
+    "col2": 201797,
+    "n": 10,
+    "hp_min": 89600,
+    "hp_max": 2072400,
+    "atk_min": 2520,
+    "atk_max": 115400,
+    "acc": 645,
+    "range": 3,
+    "atkspd": 1000,
+    "mov": 315,
+    "growthf": 2.237,
+    "recs": [
+     4272,
+     4281
+    ]
+   }
+  ]
+ },
+ "71171": {
+  "name": "Ronin",
+  "clusters": [
+   {
+    "col2": 65627,
+    "n": 60,
+    "hp_min": 2700,
+    "hp_max": 115800,
+    "atk_min": 300,
+    "atk_max": 9108,
+    "acc": 188,
+    "range": 4,
+    "atkspd": 650,
+    "mov": 355,
+    "growthf": 2.237,
+    "recs": [
+     965,
+     9072
+    ]
+   },
+   {
+    "col2": 70627,
+    "n": 10,
+    "hp_min": 9600,
+    "hp_max": 336400,
+    "atk_min": 420,
+    "atk_max": 13400,
+    "acc": 423,
+    "range": 4,
+    "atkspd": 650,
+    "mov": 355,
+    "growthf": 2.237,
+    "recs": [
+     2843,
+     2852
+    ]
+   },
+   {
+    "col2": 70727,
+    "n": 10,
+    "hp_min": 67200,
+    "hp_max": 1554000,
+    "atk_min": 2940,
+    "atk_max": 140600,
+    "acc": 737,
+    "range": 4,
+    "atkspd": 650,
+    "mov": 355,
+    "growthf": 2.237,
+    "recs": [
+     4282,
+     4291
+    ]
+   }
+  ]
+ },
+ "71181": {
+  "name": "Gunslinger",
+  "clusters": [
+   {
+    "col2": 65628,
+    "n": 90,
+    "hp_min": 3200,
+    "hp_max": 131800,
+    "atk_min": 200,
+    "atk_max": 6344,
+    "acc": 159,
+    "range": 9,
+    "atkspd": 600,
+    "mov": 235,
+    "growthf": 2.237,
+    "recs": [
+     975,
+     10182
+    ]
+   },
+   {
+    "col2": 70628,
+    "n": 10,
+    "hp_min": 9200,
+    "hp_max": 322600,
+    "atk_min": 440,
+    "atk_max": 14200,
+    "acc": 441,
+    "range": 9,
+    "atkspd": 600,
+    "mov": 235,
+    "growthf": 2.237,
+    "recs": [
+     2853,
+     2862
+    ]
+   },
+   {
+    "col2": 70728,
+    "n": 10,
+    "hp_min": 64400,
+    "hp_max": 1490400,
+    "atk_min": 3080,
+    "atk_max": 149000,
+    "acc": 769,
+    "range": 9,
+    "atkspd": 600,
+    "mov": 235,
+    "growthf": 2.237,
+    "recs": [
+     4292,
+     4301
+    ]
+   }
+  ]
+ },
+ "71191": {
+  "name": "Rockno",
+  "clusters": [
+   {
+    "col2": 196703,
+    "n": 60,
+    "hp_min": 4800,
+    "hp_max": 203200,
+    "atk_min": 210,
+    "atk_max": 6385,
+    "acc": 160,
+    "range": 3,
+    "atkspd": 1200,
+    "mov": 315,
+    "growthf": 2.237,
+    "recs": [
+     995,
+     9282
+    ]
+   },
+   {
+    "col2": 201703,
+    "n": 10,
+    "hp_min": 16000,
+    "hp_max": 561800,
+    "atk_min": 300,
+    "atk_max": 9200,
+    "acc": 347,
+    "range": 3,
+    "atkspd": 1200,
+    "mov": 315,
+    "growthf": 2.237,
+    "recs": [
+     2873,
+     2882
+    ]
+   },
+   {
+    "col2": 201803,
+    "n": 10,
+    "hp_min": 112000,
+    "hp_max": 2595400,
+    "atk_min": 2100,
+    "atk_max": 96600,
+    "acc": 579,
+    "range": 3,
+    "atkspd": 1200,
+    "mov": 315,
+    "growthf": 2.237,
+    "recs": [
+     4312,
+     4321
+    ]
+   }
+  ]
+ },
+ "71201": {
+  "name": "Mechtessa",
+  "clusters": [
+   {
+    "col2": 65633,
+    "n": 60,
+    "hp_min": 3600,
+    "hp_max": 158400,
+    "atk_min": 245,
+    "atk_max": 7465,
+    "acc": 165,
+    "range": 4,
+    "atkspd": 1500,
+    "mov": 315,
+    "growthf": 2.237,
+    "recs": [
+     1005,
+     8982
+    ]
+   },
+   {
+    "col2": 70633,
+    "n": 10,
+    "hp_min": 14400,
+    "hp_max": 505200,
+    "atk_min": 360,
+    "atk_max": 11000,
+    "acc": 382,
+    "range": 4,
+    "atkspd": 1500,
+    "mov": 315,
+    "growthf": 2.237,
+    "recs": [
+     2883,
+     2892
+    ]
+   },
+   {
+    "col2": 70733,
+    "n": 10,
+    "hp_min": 100800,
+    "hp_max": 2334000,
+    "atk_min": 2520,
+    "atk_max": 115400,
+    "acc": 646,
+    "range": 4,
+    "atkspd": 1500,
+    "mov": 315,
+    "growthf": 2.237,
+    "recs": [
+     4322,
+     4331
+    ]
+   }
+  ]
+ },
+ "71211": {
+  "name": "Skeletica",
+  "clusters": [
+   {
+    "col2": 196711,
+    "n": 60,
+    "hp_min": 4300,
+    "hp_max": 190200,
+    "atk_min": 235,
+    "atk_max": 7232,
+    "acc": 168,
+    "range": 10,
+    "atkspd": 1000,
+    "mov": 255,
+    "growthf": 2.237,
+    "recs": [
+     1025,
+     9252
+    ]
+   },
+   {
+    "col2": 201711,
+    "n": 10,
+    "hp_min": 17600,
+    "hp_max": 617600,
+    "atk_min": 380,
+    "atk_max": 11800,
+    "acc": 407,
+    "range": 10,
+    "atkspd": 1000,
+    "mov": 255,
+    "growthf": 2.237,
+    "recs": [
+     2893,
+     2902
+    ]
+   },
+   {
+    "col2": 201811,
+    "n": 10,
+    "hp_min": 123200,
+    "hp_max": 2853200,
+    "atk_min": 2660,
+    "atk_max": 123800,
+    "acc": 695,
+    "range": 10,
+    "atkspd": 1000,
+    "mov": 255,
+    "growthf": 2.237,
+    "recs": [
+     4332,
+     4341
+    ]
+   }
+  ]
+ },
+ "71221": {
+  "name": "Wallawalla",
+  "clusters": [
+   {
+    "col2": 196712,
+    "n": 90,
+    "hp_min": 2450,
+    "hp_max": 107300,
+    "atk_min": 255,
+    "atk_max": 7746,
+    "acc": 284,
+    "range": 10,
+    "atkspd": 1000,
+    "mov": 245,
+    "growthf": 2.237,
+    "recs": [
+     1035,
+     10302
+    ]
+   },
+   {
+    "col2": 201712,
+    "n": 10,
+    "hp_min": 9600,
+    "hp_max": 336400,
+    "atk_min": 360,
+    "atk_max": 11000,
+    "acc": 373,
+    "range": 10,
+    "atkspd": 1000,
+    "mov": 245,
+    "growthf": 2.237,
+    "recs": [
+     2903,
+     2912
+    ]
+   },
+   {
+    "col2": 201812,
+    "n": 10,
+    "hp_min": 67200,
+    "hp_max": 1554000,
+    "atk_min": 2520,
+    "atk_max": 115400,
+    "acc": 634,
+    "range": 10,
+    "atkspd": 1000,
+    "mov": 245,
+    "growthf": 2.237,
+    "recs": [
+     4342,
+     4351
+    ]
+   }
+  ]
+ },
+ "71231": {
+  "name": "Creation-01",
+  "clusters": [
+   {
+    "col2": 65641,
+    "n": 60,
+    "hp_min": 4500,
+    "hp_max": 197000,
+    "atk_min": 195,
+    "atk_max": 6011,
+    "acc": 156,
+    "range": 3,
+    "atkspd": 1000,
+    "mov": 215,
+    "growthf": 2.237,
+    "recs": [
+     1045,
+     9402
+    ]
+   },
+   {
+    "col2": 70641,
+    "n": 10,
+    "hp_min": 17600,
+    "hp_max": 617600,
+    "atk_min": 320,
+    "atk_max": 9600,
+    "acc": 359,
+    "range": 3,
+    "atkspd": 1000,
+    "mov": 215,
+    "growthf": 2.237,
+    "recs": [
+     2913,
+     2922
+    ]
+   },
+   {
+    "col2": 70741,
+    "n": 10,
+    "hp_min": 123200,
+    "hp_max": 2853200,
+    "atk_min": 2240,
+    "atk_max": 100800,
+    "acc": 603,
+    "range": 3,
+    "atkspd": 1000,
+    "mov": 215,
+    "growthf": 2.237,
+    "recs": [
+     4352,
+     4361
+    ]
+   }
+  ]
+ },
+ "71241": {
+  "name": "Athene",
+  "clusters": [
+   {
+    "col2": 131178,
+    "n": 60,
+    "hp_min": 2000,
+    "hp_max": 100000,
+    "atk_min": 195,
+    "atk_max": 6251,
+    "acc": 154,
+    "range": 10,
+    "atkspd": 1200,
+    "mov": 235,
+    "growthf": 2.237,
+    "recs": [
+     1055,
+     9492
+    ]
+   },
+   {
+    "col2": 136178,
+    "n": 10,
+    "hp_min": 12800,
+    "hp_max": 448600,
+    "atk_min": 480,
+    "atk_max": 15400,
+    "acc": 473,
+    "range": 10,
+    "atkspd": 1200,
+    "mov": 235,
+    "growthf": 2.237,
+    "recs": [
+     2923,
+     2932
+    ]
+   },
+   {
+    "col2": 136278,
+    "n": 10,
+    "hp_min": 89600,
+    "hp_max": 2072400,
+    "atk_min": 3360,
+    "atk_max": 161600,
+    "acc": 827,
+    "range": 10,
+    "atkspd": 1200,
+    "mov": 235,
+    "growthf": 2.237,
+    "recs": [
+     4362,
+     4371
+    ]
+   }
+  ]
+ },
+ "71251": {
+  "name": "Sasquatch",
+  "clusters": [
+   {
+    "col2": 131180,
+    "n": 60,
+    "hp_min": 4100,
+    "hp_max": 189400,
+    "atk_min": 225,
+    "atk_max": 7047,
+    "acc": 164,
+    "range": 4,
+    "atkspd": 900,
+    "mov": 295,
+    "growthf": 2.237,
+    "recs": [
+     1065,
+     9432
+    ]
+   },
+   {
+    "col2": 136180,
+    "n": 10,
+    "hp_min": 20000,
+    "hp_max": 702600,
+    "atk_min": 440,
+    "atk_max": 14200,
+    "acc": 464,
+    "range": 4,
+    "atkspd": 900,
+    "mov": 295,
+    "growthf": 2.237,
+    "recs": [
+     2933,
+     2942
+    ]
+   },
+   {
+    "col2": 136280,
+    "n": 10,
+    "hp_min": 140000,
+    "hp_max": 3246000,
+    "atk_min": 3080,
+    "atk_max": 149000,
+    "acc": 804,
+    "range": 4,
+    "atkspd": 900,
+    "mov": 295,
+    "growthf": 2.237,
+    "recs": [
+     4372,
+     4381
+    ]
+   }
+  ]
+ },
+ "71261": {
+  "name": "Espirita",
+  "clusters": [
+   {
+    "col2": 131182,
+    "n": 60,
+    "hp_min": 2100,
+    "hp_max": 105400,
+    "atk_min": 185,
+    "atk_max": 5826,
+    "acc": 152,
+    "range": 10,
+    "atkspd": 1000,
+    "mov": 200,
+    "growthf": 2.237,
+    "recs": [
+     1075,
+     9522
+    ]
+   },
+   {
+    "col2": 136182,
+    "n": 10,
+    "hp_min": 13600,
+    "hp_max": 477000,
+    "atk_min": 380,
+    "atk_max": 11800,
+    "acc": 398,
+    "range": 10,
+    "atkspd": 1000,
+    "mov": 200,
+    "growthf": 2.237,
+    "recs": [
+     2943,
+     2952
+    ]
+   },
+   {
+    "col2": 136282,
+    "n": 10,
+    "hp_min": 95200,
+    "hp_max": 2203600,
+    "atk_min": 2660,
+    "atk_max": 123800,
+    "acc": 681,
+    "range": 10,
+    "atkspd": 1000,
+    "mov": 200,
+    "growthf": 2.237,
+    "recs": [
+     4382,
+     4391
+    ]
+   }
+  ]
+ },
+ "71271": {
+  "name": "Dove Keeper",
+  "clusters": [
+   {
+    "col2": 131184,
+    "n": 120,
+    "hp_min": 1800,
+    "hp_max": 85200,
+    "atk_min": 250,
+    "atk_max": 7990,
+    "acc": 159,
+    "range": 10,
+    "atkspd": 800,
+    "mov": 235,
+    "growthf": 2.237,
+    "recs": [
+     1085,
+     11772
+    ]
+   },
+   {
+    "col2": 136184,
+    "n": 10,
+    "hp_min": 9600,
+    "hp_max": 336400,
+    "atk_min": 600,
+    "atk_max": 19400,
+    "acc": 556,
+    "range": 10,
+    "atkspd": 800,
+    "mov": 235,
+    "growthf": 2.237,
+    "recs": [
+     2953,
+     2962
+    ]
+   },
+   {
+    "col2": 136284,
+    "n": 10,
+    "hp_min": 67200,
+    "hp_max": 1554000,
+    "atk_min": 4200,
+    "atk_max": 203600,
+    "acc": 986,
+    "range": 10,
+    "atkspd": 800,
+    "mov": 235,
+    "growthf": 2.237,
+    "recs": [
+     4392,
+     4401
+    ]
+   }
+  ]
+ },
+ "71281": {
+  "name": "Cirrina",
+  "clusters": [
+   {
+    "col2": 65651,
+    "n": 60,
+    "hp_min": 2400,
+    "hp_max": 116600,
+    "atk_min": 221,
+    "atk_max": 6934,
+    "acc": 162,
+    "range": 10,
+    "atkspd": 1200,
+    "mov": 210,
+    "growthf": 2.237,
+    "recs": [
+     1095,
+     9582
+    ]
+   },
+   {
+    "col2": 70651,
+    "n": 20,
+    "hp_min": 14000,
+    "hp_max": 2268400,
+    "atk_min": 440,
+    "atk_max": 149000,
+    "acc": 450,
+    "range": 10,
+    "atkspd": 1200,
+    "mov": 210,
+    "growthf": 2.237,
+    "recs": [
+     2963,
+     4411
+    ]
+   }
+  ]
+ },
+ "71291": {
+  "name": "Storm Eater",
+  "clusters": [
+   {
+    "col2": 131188,
+    "n": 60,
+    "hp_min": 4200,
+    "hp_max": 192800,
+    "atk_min": 210,
+    "atk_max": 6577,
+    "acc": 161,
+    "range": 6,
+    "atkspd": 800,
+    "mov": 275,
+    "growthf": 2.237,
+    "recs": [
+     1105,
+     9612
+    ]
+   },
+   {
+    "col2": 136188,
+    "n": 20,
+    "hp_min": 20000,
+    "hp_max": 3246000,
+    "atk_min": 420,
+    "atk_max": 140600,
+    "acc": 448,
+    "range": 6,
+    "atkspd": 800,
+    "mov": 275,
+    "growthf": 2.237,
+    "recs": [
+     2973,
+     4421
+    ]
+   }
+  ]
+ },
+ "71301": {
+  "name": "Professor Ribbit",
+  "clusters": [
+   {
+    "col2": 196726,
+    "n": 60,
+    "hp_min": 2300,
+    "hp_max": 104200,
+    "atk_min": 212,
+    "atk_max": 6681,
+    "acc": 159,
+    "range": 8,
+    "atkspd": 1200,
+    "mov": 255,
+    "growthf": 2.237,
+    "recs": [
+     1115,
+     9642
+    ]
+   },
+   {
+    "col2": 201726,
+    "n": 20,
+    "hp_min": 10400,
+    "hp_max": 1686200,
+    "atk_min": 440,
+    "atk_max": 149000,
+    "acc": 442,
+    "range": 8,
+    "atkspd": 1200,
+    "mov": 255,
+    "growthf": 2.237,
+    "recs": [
+     2983,
+     4431
+    ]
+   }
+  ]
+ },
+ "71311": {
+  "name": "Lavanica",
+  "clusters": [
+   {
+    "col2": 65656,
+    "n": 60,
+    "hp_min": 4300,
+    "hp_max": 194200,
+    "atk_min": 205,
+    "atk_max": 6436,
+    "acc": 159,
+    "range": 10,
+    "atkspd": 1000,
+    "mov": 255,
+    "growthf": 2.237,
+    "recs": [
+     1125,
+     9672
+    ]
+   },
+   {
+    "col2": 70656,
+    "n": 20,
+    "hp_min": 19200,
+    "hp_max": 3113800,
+    "atk_min": 420,
+    "atk_max": 140600,
+    "acc": 445,
+    "range": 10,
+    "atkspd": 1000,
+    "mov": 255,
+    "growthf": 2.237,
+    "recs": [
+     2993,
+     4441
+    ]
+   }
+  ]
+ },
+ "71321": {
+  "name": "Asura",
+  "clusters": [
+   {
+    "col2": 65658,
+    "n": 90,
+    "hp_min": 4200,
+    "hp_max": 188800,
+    "atk_min": 230,
+    "atk_max": 7187,
+    "acc": 167,
+    "range": 4,
+    "atkspd": 900,
+    "mov": 295,
+    "growthf": 2.237,
+    "recs": [
+     1135,
+     10002
+    ]
+   },
+   {
+    "col2": 70658,
+    "n": 20,
+    "hp_min": 18400,
+    "hp_max": 2984400,
+    "atk_min": 440,
+    "atk_max": 149000,
+    "acc": 461,
+    "range": 4,
+    "atkspd": 900,
+    "mov": 295,
+    "growthf": 2.237,
+    "recs": [
+     3003,
+     4451
+    ]
+   }
+  ]
+ },
+ "71331": {
+  "name": "Ma Hatma",
+  "clusters": [
+   {
+    "col2": 196734,
+    "n": 60,
+    "hp_min": 2200,
+    "hp_max": 116800,
+    "atk_min": 214,
+    "atk_max": 6689,
+    "acc": 161,
+    "range": 10,
+    "atkspd": 1000,
+    "mov": 275,
+    "growthf": 2.237,
+    "recs": [
+     1145,
+     9732
+    ]
+   },
+   {
+    "col2": 201734,
+    "n": 20,
+    "hp_min": 16800,
+    "hp_max": 2724800,
+    "atk_min": 420,
+    "atk_max": 140600,
+    "acc": 534,
+    "range": 10,
+    "atkspd": 1000,
+    "mov": 275,
+    "growthf": 2.237,
+    "recs": [
+     3013,
+     4461
+    ]
+   }
+  ]
+ },
+ "71341": {
+  "name": "Rowdy Rascals",
+  "clusters": [
+   {
+    "col2": 131199,
+    "n": 60,
+    "hp_min": 3200,
+    "hp_max": 156800,
+    "atk_min": 215,
+    "atk_max": 6765,
+    "acc": 162,
+    "range": 10,
+    "atkspd": 900,
+    "mov": 275,
+    "growthf": 2.237,
+    "recs": [
+     1155,
+     9762
+    ]
+   },
+   {
+    "col2": 136199,
+    "n": 20,
+    "hp_min": 19200,
+    "hp_max": 3113800,
+    "atk_min": 440,
+    "atk_max": 149000,
+    "acc": 563,
+    "range": 10,
+    "atkspd": 900,
+    "mov": 275,
+    "growthf": 2.237,
+    "recs": [
+     3023,
+     4471
+    ]
+   }
+  ]
+ },
+ "71351": {
+  "name": "Bogeyman",
+  "clusters": [
+   {
+    "col2": 196738,
+    "n": 90,
+    "hp_min": 4000,
+    "hp_max": 182000,
+    "atk_min": 245,
+    "atk_max": 7657,
+    "acc": 172,
+    "range": 10,
+    "atkspd": 800,
+    "mov": 275,
+    "growthf": 2.237,
+    "recs": [
+     1165,
+     10392
+    ]
+   },
+   {
+    "col2": 201738,
+    "n": 20,
+    "hp_min": 18400,
+    "hp_max": 2984400,
+    "atk_min": 480,
+    "atk_max": 161600,
+    "acc": 598,
+    "range": 10,
+    "atkspd": 800,
+    "mov": 275,
+    "growthf": 2.237,
+    "recs": [
+     3033,
+     4481
+    ]
+   }
+  ]
+ },
+ "71361": {
+  "name": "Commodora",
+  "clusters": [
+   {
+    "col2": 65668,
+    "n": 60,
+    "hp_min": 3550,
+    "hp_max": 176700,
+    "atk_min": 210,
+    "atk_max": 6625,
+    "acc": 161,
+    "range": 4,
+    "atkspd": 1000,
+    "mov": 295,
+    "growthf": 2.237,
+    "recs": [
+     1182,
+     10092
+    ]
+   },
+   {
+    "col2": 70668,
+    "n": 20,
+    "hp_min": 22400,
+    "hp_max": 3635800,
+    "atk_min": 440,
+    "atk_max": 149000,
+    "acc": 569,
+    "range": 4,
+    "atkspd": 1000,
+    "mov": 295,
+    "growthf": 2.237,
+    "recs": [
+     3050,
+     4497
+    ]
+   }
+  ]
+ },
+ "71371": {
+  "name": "Lazulix",
+  "clusters": [
+   {
+    "col2": 65669,
+    "n": 120,
+    "hp_min": 4000,
+    "hp_max": 188000,
+    "atk_min": 220,
+    "atk_max": 6954,
+    "acc": 165,
+    "range": 10,
+    "atkspd": 1000,
+    "mov": 285,
+    "growthf": 2.237,
+    "recs": [
+     1192,
+     11802
+    ]
+   },
+   {
+    "col2": 70669,
+    "n": 20,
+    "hp_min": 20800,
+    "hp_max": 3375200,
+    "atk_min": 480,
+    "atk_max": 237000,
+    "acc": 602,
+    "range": 10,
+    "atkspd": 1000,
+    "mov": 285,
+    "growthf": 2.237,
+    "recs": [
+     3060,
+     4507
+    ]
+   }
+  ]
+ },
+ "71381": {
+  "name": "Plant Warrior",
+  "clusters": [
+   {
+    "col2": 65670,
+    "n": 60,
+    "hp_min": 2300,
+    "hp_max": 120200,
+    "atk_min": 224,
+    "atk_max": 6970,
+    "acc": 163,
+    "range": 10,
+    "atkspd": 1200,
+    "mov": 225,
+    "growthf": 2.237,
+    "recs": [
+     1202,
+     9852
+    ]
+   },
+   {
+    "col2": 70670,
+    "n": 20,
+    "hp_min": 16800,
+    "hp_max": 2724800,
+    "atk_min": 420,
+    "atk_max": 206200,
+    "acc": 533,
+    "range": 10,
+    "atkspd": 1200,
+    "mov": 225,
+    "growthf": 2.237,
+    "recs": [
+     3070,
+     4517
+    ]
+   }
+  ]
+ },
+ "71391": {
+  "name": "Rosaleen",
+  "clusters": [
+   {
+    "col2": 65671,
+    "n": 60,
+    "hp_min": 3600,
+    "hp_max": 172400,
+    "atk_min": 228,
+    "atk_max": 7083,
+    "acc": 166,
+    "range": 4,
+    "atkspd": 1000,
+    "mov": 275,
+    "growthf": 2.237,
+    "recs": [
+     1212,
+     9882
+    ]
+   },
+   {
+    "col2": 70671,
+    "n": 20,
+    "hp_min": 20000,
+    "hp_max": 3246000,
+    "atk_min": 420,
+    "atk_max": 206200,
+    "acc": 540,
+    "range": 4,
+    "atkspd": 1000,
+    "mov": 275,
+    "growthf": 2.237,
+    "recs": [
+     3080,
+     4527
+    ]
+   }
+  ]
+ },
+ "71401": {
+  "name": "Cosmo",
+  "clusters": [
+   {
+    "col2": 131211,
+    "n": 90,
+    "hp_min": 3700,
+    "hp_max": 177800,
+    "atk_min": 232,
+    "atk_max": 7195,
+    "acc": 167,
+    "range": 10,
+    "atkspd": 1000,
+    "mov": 275,
+    "growthf": 2.237,
+    "recs": [
+     1222,
+     11832
+    ]
+   },
+   {
+    "col2": 136211,
+    "n": 20,
+    "hp_min": 20800,
+    "hp_max": 3375200,
+    "atk_min": 420,
+    "atk_max": 206200,
+    "acc": 1084,
+    "range": 10,
+    "atkspd": 1000,
+    "mov": 275,
+    "growthf": 2.237,
+    "recs": [
+     3090,
+     4537
+    ]
+   }
+  ]
+ },
+ "71411": {
+  "name": "Ripper",
+  "clusters": [
+   {
+    "col2": 196748,
+    "n": 60,
+    "hp_min": 3600,
+    "hp_max": 174400,
+    "atk_min": 240,
+    "atk_max": 7468,
+    "acc": 171,
+    "range": 4,
+    "atkspd": 800,
+    "mov": 275,
+    "growthf": 2.237,
+    "recs": [
+     1232,
+     10032
+    ]
+   },
+   {
+    "col2": 201748,
+    "n": 20,
+    "hp_min": 20800,
+    "hp_max": 3375200,
+    "atk_min": 440,
+    "atk_max": 218600,
+    "acc": 1134,
+    "range": 4,
+    "atkspd": 800,
+    "mov": 275,
+    "growthf": 2.237,
+    "recs": [
+     3100,
+     4547
+    ]
+   }
+  ]
+ },
+ "71421": {
+  "name": "Svalinn",
+  "clusters": [
+   {
+    "col2": 196750,
+    "n": 60,
+    "hp_min": 3200,
+    "hp_max": 160800,
+    "atk_min": 223,
+    "atk_max": 6990,
+    "acc": 165,
+    "range": 4,
+    "atkspd": 800,
+    "mov": 295,
+    "growthf": 2.237,
+    "recs": [
+     1242,
+     10122
+    ]
+   },
+   {
+    "col2": 201750,
+    "n": 20,
+    "hp_min": 20800,
+    "hp_max": 3375200,
+    "atk_min": 440,
+    "atk_max": 218600,
+    "acc": 1134,
+    "range": 4,
+    "atkspd": 800,
+    "mov": 295,
+    "growthf": 2.237,
+    "recs": [
+     3110,
+     4557
+    ]
+   }
+  ]
+ },
+ "71431": {
+  "name": "Zephyrica",
+  "clusters": [
+   {
+    "col2": 131216,
+    "n": 60,
+    "hp_min": 4200,
+    "hp_max": 190800,
+    "atk_min": 226,
+    "atk_max": 7075,
+    "acc": 166,
+    "range": 10,
+    "atkspd": 1000,
+    "mov": 275,
+    "growthf": 2.237,
+    "recs": [
+     1252,
+     10152
+    ]
+   },
+   {
+    "col2": 136216,
+    "n": 20,
+    "hp_min": 19200,
+    "hp_max": 3113800,
+    "atk_min": 440,
+    "atk_max": 218600,
+    "acc": 1126,
+    "range": 10,
+    "atkspd": 1000,
+    "mov": 275,
+    "growthf": 2.237,
+    "recs": [
+     3120,
+     4567
+    ]
+   }
+  ]
+ },
+ "71441": {
+  "name": "Occultist",
+  "clusters": [
+   {
+    "col2": 65682,
+    "n": 60,
+    "hp_min": 4500,
+    "hp_max": 207000,
+    "atk_min": 210,
+    "atk_max": 6486,
+    "acc": 164,
+    "range": 10,
+    "atkspd": 1200,
+    "mov": 290,
+    "growthf": 2.237,
+    "recs": [
+     1262,
+     10242
+    ]
+   },
+   {
+    "col2": 70682,
+    "n": 20,
+    "hp_min": 21600,
+    "hp_max": 3506400,
+    "atk_min": 360,
+    "atk_max": 169400,
+    "acc": 942,
+    "range": 10,
+    "atkspd": 1200,
+    "mov": 290,
+    "growthf": 2.237,
+    "recs": [
+     3130,
+     4577
+    ]
+   }
+  ]
+ },
+ "71451": {
+  "name": "Phobos",
+  "clusters": [
+   {
+    "col2": 196755,
+    "n": 60,
+    "hp_min": 2900,
+    "hp_max": 130600,
+    "atk_min": 218,
+    "atk_max": 10111,
+    "acc": 163,
+    "range": 10,
+    "atkspd": 800,
+    "mov": 300,
+    "growthf": 2.237,
+    "recs": [
+     1272,
+     10332
+    ]
+   },
+   {
+    "col2": 201755,
+    "n": 20,
+    "hp_min": 12800,
+    "hp_max": 2072400,
+    "atk_min": 380,
+    "atk_max": 181600,
+    "acc": 956,
+    "range": 10,
+    "atkspd": 800,
+    "mov": 300,
+    "growthf": 2.237,
+    "recs": [
+     3140,
+     4587
+    ]
+   }
+  ]
+ },
+ "71461": {
+  "name": "Queen Wasp",
+  "clusters": [
+   {
+    "col2": 131220,
+    "n": 60,
+    "hp_min": 3200,
+    "hp_max": 160800,
+    "atk_min": 205,
+    "atk_max": 6340,
+    "acc": 156,
+    "range": 4,
+    "atkspd": 1200,
+    "mov": 255,
+    "growthf": 2.237,
+    "recs": [
+     1282,
+     10422
+    ]
+   },
+   {
+    "col2": 136220,
+    "n": 20,
+    "hp_min": 20800,
+    "hp_max": 3375200,
+    "atk_min": 360,
+    "atk_max": 169400,
+    "acc": 938,
+    "range": 4,
+    "atkspd": 1200,
+    "mov": 255,
+    "growthf": 2.237,
+    "recs": [
+     3150,
+     4597
+    ]
+   }
+  ]
+ },
+ "71471": {
+  "name": "Hot Shot",
+  "clusters": [
+   {
+    "col2": 196757,
+    "n": 60,
+    "hp_min": 3000,
+    "hp_max": 132000,
+    "atk_min": 240,
+    "atk_max": 7420,
+    "acc": 170,
+    "range": 16,
+    "atkspd": 400,
+    "mov": 235,
+    "growthf": 2.237,
+    "recs": [
+     1292,
+     10452
+    ]
+   },
+   {
+    "col2": 201757,
+    "n": 20,
+    "hp_min": 12000,
+    "hp_max": 1943000,
+    "atk_min": 420,
+    "atk_max": 206200,
+    "acc": 1052,
+    "range": 16,
+    "atkspd": 400,
+    "mov": 235,
+    "growthf": 2.237,
+    "recs": [
+     3160,
+     4607
+    ]
+   }
+  ]
+ },
+ "71481": {
+  "name": "Bloody Mary",
+  "clusters": [
+   {
+    "col2": 196758,
+    "n": 60,
+    "hp_min": 2300,
+    "hp_max": 118200,
+    "atk_min": 216,
+    "atk_max": 6601,
+    "acc": 162,
+    "range": 10,
+    "atkspd": 1000,
+    "mov": 245,
+    "growthf": 2.237,
+    "recs": [
+     1302,
+     10482
+    ]
+   },
+   {
+    "col2": 201758,
+    "n": 20,
+    "hp_min": 16000,
+    "hp_max": 2595400,
+    "atk_min": 320,
+    "atk_max": 147800,
+    "acc": 836,
+    "range": 10,
+    "atkspd": 1000,
+    "mov": 245,
+    "growthf": 2.237,
+    "recs": [
+     3170,
+     4617
+    ]
+   }
+  ]
+ },
+ "71491": {
+  "name": "Landwalker",
+  "clusters": [
+   {
+    "col2": 131223,
+    "n": 60,
+    "hp_min": 2900,
+    "hp_max": 142600,
+    "atk_min": 225,
+    "atk_max": 6903,
+    "acc": 164,
+    "range": 6,
+    "atkspd": 1200,
+    "mov": 275,
+    "growthf": 2.237,
+    "recs": [
+     1312,
+     10512
+    ]
+   },
+   {
+    "col2": 136223,
+    "n": 20,
+    "hp_min": 17600,
+    "hp_max": 2853200,
+    "atk_min": 360,
+    "atk_max": 169400,
+    "acc": 924,
+    "range": 6,
+    "atkspd": 1200,
+    "mov": 275,
+    "growthf": 2.237,
+    "recs": [
+     3180,
+     4627
+    ]
+   }
+  ]
+ },
+ "71501": {
+  "name": "Jumbear",
+  "clusters": [
+   {
+    "col2": 131224,
+    "n": 60,
+    "hp_min": 5200,
+    "hp_max": 239000,
+    "atk_min": 208,
+    "atk_max": 6424,
+    "acc": 160,
+    "range": 2,
+    "atkspd": 1200,
+    "mov": 275,
+    "growthf": 2.237,
+    "recs": [
+     1322,
+     10542
+    ]
+   },
+   {
+    "col2": 136224,
+    "n": 20,
+    "hp_min": 21600,
+    "hp_max": 3506400,
+    "atk_min": 360,
+    "atk_max": 169400,
+    "acc": 942,
+    "range": 2,
+    "atkspd": 1200,
+    "mov": 275,
+    "growthf": 2.237,
+    "recs": [
+     3190,
+     4637
+    ]
+   }
+  ]
+ },
+ "71511": {
+  "name": "Rambard",
+  "clusters": [
+   {
+    "col2": 131225,
+    "n": 90,
+    "hp_min": 3300,
+    "hp_max": 134200,
+    "atk_min": 205,
+    "atk_max": 6484,
+    "acc": 159,
+    "range": 9,
+    "atkspd": 1000,
+    "mov": 235,
+    "growthf": 2.237,
+    "recs": [
+     1332,
+     11862
+    ]
+   },
+   {
+    "col2": 136225,
+    "n": 20,
+    "hp_min": 8800,
+    "hp_max": 1425600,
+    "atk_min": 440,
+    "atk_max": 218600,
+    "acc": 1082,
+    "range": 9,
+    "atkspd": 1000,
+    "mov": 235,
+    "growthf": 2.237,
+    "recs": [
+     3200,
+     4647
+    ]
+   }
+  ]
+ },
+ "71521": {
+  "name": "Crystal Wraith",
+  "clusters": [
+   {
+    "col2": 196762,
+    "n": 60,
+    "hp_min": 4600,
+    "hp_max": 208400,
+    "atk_min": 195,
+    "atk_max": 6011,
+    "acc": 157,
+    "range": 10,
+    "atkspd": 1000,
+    "mov": 255,
+    "growthf": 2.237,
+    "recs": [
+     1342,
+     10602
+    ]
+   },
+   {
+    "col2": 201762,
+    "n": 20,
+    "hp_min": 20800,
+    "hp_max": 3375200,
+    "atk_min": 320,
+    "atk_max": 147800,
+    "acc": 856,
+    "range": 10,
+    "atkspd": 1000,
+    "mov": 255,
+    "growthf": 2.237,
+    "recs": [
+     3210,
+     4657
+    ]
+   }
+  ]
+ },
+ "71531": {
+  "name": "Boreal Fox",
+  "clusters": [
+   {
+    "col2": 131227,
+    "n": 60,
+    "hp_min": 3500,
+    "hp_max": 167000,
+    "atk_min": 230,
+    "atk_max": 7091,
+    "acc": 166,
+    "range": 10,
+    "atkspd": 1000,
+    "mov": 255,
+    "growthf": 2.237,
+    "recs": [
+     1352,
+     10632
+    ]
+   },
+   {
+    "col2": 136227,
+    "n": 20,
+    "hp_min": 19200,
+    "hp_max": 3113800,
+    "atk_min": 380,
+    "atk_max": 181600,
+    "acc": 982,
+    "range": 10,
+    "atkspd": 1000,
+    "mov": 255,
+    "growthf": 2.237,
+    "recs": [
+     3220,
+     4667
+    ]
+   }
+  ]
+ },
+ "71541": {
+  "name": "Ice Lady",
+  "clusters": [
+   {
+    "col2": 196764,
+    "n": 60,
+    "hp_min": 3800,
+    "hp_max": 165200,
+    "atk_min": 218,
+    "atk_max": 6706,
+    "acc": 162,
+    "range": 6,
+    "atkspd": 1200,
+    "mov": 305,
+    "growthf": 2.237,
+    "recs": [
+     1362,
+     10662
+    ]
+   },
+   {
+    "col2": 201764,
+    "n": 20,
+    "hp_min": 14400,
+    "hp_max": 2334000,
+    "atk_min": 360,
+    "atk_max": 169400,
+    "acc": 910,
+    "range": 6,
+    "atkspd": 1200,
+    "mov": 305,
+    "growthf": 2.237,
+    "recs": [
+     3230,
+     4677
+    ]
+   }
+  ]
+ },
+ "71551": {
+  "name": "Valiant Saintess",
+  "clusters": [
+   {
+    "col2": 131229,
+    "n": 60,
+    "hp_min": 4400,
+    "hp_max": 187600,
+    "atk_min": 226,
+    "atk_max": 6979,
+    "acc": 165,
+    "range": 4,
+    "atkspd": 1200,
+    "mov": 285,
+    "growthf": 2.237,
+    "recs": [
+     1372,
+     10692
+    ]
+   },
+   {
+    "col2": 131230,
+    "n": 60,
+    "hp_min": 4400,
+    "hp_max": 187600,
+    "atk_min": 226,
+    "atk_max": 6979,
+    "acc": 165,
+    "range": 6,
+    "atkspd": 1200,
+    "mov": 285,
+    "growthf": 2.237,
+    "recs": [
+     1382,
+     10722
+    ]
+   },
+   {
+    "col2": 136229,
+    "n": 20,
+    "hp_min": 15200,
+    "hp_max": 2466000,
+    "atk_min": 380,
+    "atk_max": 181600,
+    "acc": 962,
+    "range": 4,
+    "atkspd": 1200,
+    "mov": 285,
+    "growthf": 2.237,
+    "recs": [
+     3240,
+     4687
+    ]
+   }
+  ]
+ },
+ "71561": {
+  "name": "Rune Master",
+  "clusters": [
+   {
+    "col2": 131231,
+    "n": 60,
+    "hp_min": 3000,
+    "hp_max": 150000,
+    "atk_min": 216,
+    "atk_max": 6745,
+    "acc": 161,
+    "range": 10,
+    "atkspd": 1200,
+    "mov": 255,
+    "growthf": 2.237,
+    "recs": [
+     1392,
+     10752
+    ]
+   },
+   {
+    "col2": 136231,
+    "n": 20,
+    "hp_min": 19200,
+    "hp_max": 3113800,
+    "atk_min": 420,
+    "atk_max": 206200,
+    "acc": 1076,
+    "range": 10,
+    "atkspd": 1200,
+    "mov": 255,
+    "growthf": 2.237,
+    "recs": [
+     3250,
+     4697
+    ]
+   }
+  ]
+ },
+ "71571": {
+  "name": "Cinder Matron",
+  "clusters": [
+   {
+    "col2": 196769,
+    "n": 60,
+    "hp_min": 4700,
+    "hp_max": 191800,
+    "atk_min": 235,
+    "atk_max": 7184,
+    "acc": 168,
+    "range": 3,
+    "atkspd": 1000,
+    "mov": 255,
+    "growthf": 2.237,
+    "recs": [
+     1402,
+     10782
+    ]
+   },
+   {
+    "col2": 201769,
+    "n": 20,
+    "hp_min": 12800,
+    "hp_max": 2072400,
+    "atk_min": 360,
+    "atk_max": 169400,
+    "acc": 906,
+    "range": 3,
+    "atkspd": 1000,
+    "mov": 255,
+    "growthf": 2.237,
+    "recs": [
+     3260,
+     4707
+    ]
+   }
+  ]
+ },
+ "71581": {
+  "name": "Alphamech",
+  "clusters": [
+   {
+    "col2": 131234,
+    "n": 60,
+    "hp_min": 4100,
+    "hp_max": 183400,
+    "atk_min": 230,
+    "atk_max": 7235,
+    "acc": 166,
+    "range": 10,
+    "atkspd": 1200,
+    "mov": 295,
+    "growthf": 2.237,
+    "recs": [
+     1412,
+     10812
+    ]
+   },
+   {
+    "col2": 136234,
+    "n": 20,
+    "hp_min": 17600,
+    "hp_max": 2853200,
+    "atk_min": 480,
+    "atk_max": 237000,
+    "acc": 1188,
+    "range": 10,
+    "atkspd": 1200,
+    "mov": 295,
+    "growthf": 2.237,
+    "recs": [
+     3270,
+     4717
+    ]
+   }
+  ]
+ },
+ "71591": {
+  "name": "Dark Mage",
+  "clusters": [
+   {
+    "col2": 131235,
+    "n": 60,
+    "hp_min": 3050,
+    "hp_max": 141700,
+    "atk_min": 215,
+    "atk_max": 6765,
+    "acc": 160,
+    "range": 10,
+    "atkspd": 1250,
+    "mov": 250,
+    "growthf": 2.237,
+    "recs": [
+     1422,
+     10842
+    ]
+   },
+   {
+    "col2": 136235,
+    "n": 20,
+    "hp_min": 15200,
+    "hp_max": 2466000,
+    "atk_min": 440,
+    "atk_max": 218600,
+    "acc": 1106,
+    "range": 10,
+    "atkspd": 1250,
+    "mov": 250,
+    "growthf": 2.237,
+    "recs": [
+     3280,
+     4727
+    ]
+   }
+  ]
+ },
+ "71601": {
+  "name": "Berserker",
+  "clusters": [
+   {
+    "col2": 196772,
+    "n": 60,
+    "hp_min": 4100,
+    "hp_max": 183400,
+    "atk_min": 230,
+    "atk_max": 7235,
+    "acc": 166,
+    "range": 10,
+    "atkspd": 1200,
+    "mov": 295,
+    "growthf": 2.237,
+    "recs": [
+     1432,
+     10872
+    ]
+   },
+   {
+    "col2": 201772,
+    "n": 20,
+    "hp_min": 17600,
+    "hp_max": 2853200,
+    "atk_min": 480,
+    "atk_max": 237000,
+    "acc": 1188,
+    "range": 10,
+    "atkspd": 1200,
+    "mov": 295,
+    "growthf": 2.237,
+    "recs": [
+     3290,
+     4737
+    ]
+   }
+  ]
+ },
+ "71611": {
+  "name": "Wordless Zealot",
+  "clusters": [
+   {
+    "col2": 65701,
+    "n": 60,
+    "hp_min": 4100,
+    "hp_max": 175400,
+    "atk_min": 240,
+    "atk_max": 7564,
+    "acc": 169,
+    "range": 3,
+    "atkspd": 1150,
+    "mov": 310,
+    "growthf": 2.237,
+    "recs": [
+     1442,
+     10902
+    ]
+   },
+   {
+    "col2": 70701,
+    "n": 20,
+    "hp_min": 14400,
+    "hp_max": 2334000,
+    "atk_min": 500,
+    "atk_max": 249400,
+    "acc": 1224,
+    "range": 3,
+    "atkspd": 1150,
+    "mov": 310,
+    "growthf": 2.237,
+    "recs": [
+     3300,
+     4747
+    ]
+   }
+  ]
+ },
+ "71621": {
+  "name": "Miss Magic",
+  "clusters": [
+   {
+    "col2": 131238,
+    "n": 60,
+    "hp_min": 3100,
+    "hp_max": 143400,
+    "atk_min": 220,
+    "atk_max": 6858,
+    "acc": 162,
+    "range": 9,
+    "atkspd": 1300,
+    "mov": 290,
+    "growthf": 2.237,
+    "recs": [
+     1452,
+     10932
+    ]
+   },
+   {
+    "col2": 136238,
+    "n": 20,
+    "hp_min": 15200,
+    "hp_max": 2466000,
+    "atk_min": 420,
+    "atk_max": 206200,
+    "acc": 1058,
+    "range": 9,
+    "atkspd": 1300,
+    "mov": 290,
+    "growthf": 2.237,
+    "recs": [
+     3310,
+     4757
+    ]
+   }
+  ]
+ },
+ "71631": {
+  "name": "Dynamica",
+  "clusters": [
+   {
+    "col2": 262311,
+    "n": 90,
+    "hp_min": 9800,
+    "hp_max": 393200,
+    "atk_min": 510,
+    "atk_max": 15349,
+    "acc": 253,
+    "range": 8,
+    "atkspd": 1100,
+    "mov": 320,
+    "growthf": 2.325,
+    "recs": [
+     1462,
+     11982
+    ]
+   },
+   {
+    "col2": 267311,
+    "n": 20,
+    "hp_min": 24000,
+    "hp_max": 3894600,
+    "atk_min": 620,
+    "atk_max": 311000,
+    "acc": 1054,
+    "range": 8,
+    "atkspd": 1100,
+    "mov": 320,
+    "growthf": 2.325,
+    "recs": [
+     3320,
+     4767
+    ]
+   }
+  ]
+ },
+ "71641": {
+  "name": "Demon Stalker",
+  "clusters": [
+   {
+    "col2": 327848,
+    "n": 60,
+    "hp_min": 10500,
+    "hp_max": 421000,
+    "atk_min": 450,
+    "atk_max": 13566,
+    "acc": 235,
+    "range": 2,
+    "atkspd": 1200,
+    "mov": 315,
+    "growthf": 2.325,
+    "recs": [
+     1472,
+     10992
+    ]
+   },
+   {
+    "col2": 332848,
+    "n": 20,
+    "hp_min": 25600,
+    "hp_max": 4152400,
+    "atk_min": 560,
+    "atk_max": 286400,
+    "acc": 990,
+    "range": 2,
+    "atkspd": 1200,
+    "mov": 315,
+    "growthf": 2.325,
+    "recs": [
+     3330,
+     4777
+    ]
+   }
+  ]
+ },
+ "71651": {
+  "name": "Young Spark",
+  "clusters": [
+   {
+    "col2": 262315,
+    "n": 60,
+    "hp_min": 10500,
+    "hp_max": 421000,
+    "atk_min": 450,
+    "atk_max": 13566,
+    "acc": 235,
+    "range": 4,
+    "atkspd": 1250,
+    "mov": 345,
+    "growthf": 2.325,
+    "recs": [
+     1482,
+     11022
+    ]
+   },
+   {
+    "col2": 267315,
+    "n": 20,
+    "hp_min": 25600,
+    "hp_max": 4152400,
+    "atk_min": 560,
+    "atk_max": 286400,
+    "acc": 990,
+    "range": 4,
+    "atkspd": 1250,
+    "mov": 345,
+    "growthf": 2.325,
+    "recs": [
+     3340,
+     4787
+    ]
+   }
+  ]
+ },
+ "71661": {
+  "name": "Boa Queen",
+  "clusters": [
+   {
+    "col2": 327852,
+    "n": 60,
+    "hp_min": 10000,
+    "hp_max": 398000,
+    "atk_min": 505,
+    "atk_max": 15208,
+    "acc": 251,
+    "range": 8,
+    "atkspd": 1200,
+    "mov": 320,
+    "growthf": 2.325,
+    "recs": [
+     1492,
+     11052
+    ]
+   },
+   {
+    "col2": 332852,
+    "n": 20,
+    "hp_min": 23200,
+    "hp_max": 3766200,
+    "atk_min": 620,
+    "atk_max": 311000,
+    "acc": 1052,
+    "range": 8,
+    "atkspd": 1200,
+    "mov": 320,
+    "growthf": 2.325,
+    "recs": [
+     3350,
+     4797
+    ]
+   }
+  ]
+ },
+ "71671": {
+  "name": "Water Priestess",
+  "clusters": [
+   {
+    "col2": 262317,
+    "n": 60,
+    "hp_min": 10000,
+    "hp_max": 398000,
+    "atk_min": 440,
+    "atk_max": 13236,
+    "acc": 229,
+    "range": 4,
+    "atkspd": 1800,
+    "mov": 310,
+    "growthf": 2.325,
+    "recs": [
+     1502,
+     11082
+    ]
+   },
+   {
+    "col2": 267317,
+    "n": 20,
+    "hp_min": 23200,
+    "hp_max": 3766200,
+    "atk_min": 540,
+    "atk_max": 271000,
+    "acc": 938,
+    "range": 4,
+    "atkspd": 1800,
+    "mov": 310,
+    "growthf": 2.325,
+    "recs": [
+     3360,
+     4807
+    ]
+   }
+  ]
+ },
+ "71681": {
+  "name": "Mad Inventor",
+  "clusters": [
+   {
+    "col2": 327854,
+    "n": 60,
+    "hp_min": 10500,
+    "hp_max": 416000,
+    "atk_min": 465,
+    "atk_max": 13987,
+    "acc": 239,
+    "range": 8,
+    "atkspd": 1350,
+    "mov": 340,
+    "growthf": 2.325,
+    "recs": [
+     1512,
+     11112
+    ]
+   },
+   {
+    "col2": 332854,
+    "n": 20,
+    "hp_min": 23600,
+    "hp_max": 3830800,
+    "atk_min": 560,
+    "atk_max": 286400,
+    "acc": 984,
+    "range": 8,
+    "atkspd": 1350,
+    "mov": 340,
+    "growthf": 2.325,
+    "recs": [
+     3370,
+     4817
+    ]
+   }
+  ]
+ },
+ "71691": {
+  "name": "Axe Punisher",
+  "clusters": [
+   {
+    "col2": 262319,
+    "n": 120,
+    "hp_min": 10500,
+    "hp_max": 415600,
+    "atk_min": 435,
+    "atk_max": 13096,
+    "acc": 230,
+    "range": 4,
+    "atkspd": 1400,
+    "mov": 330,
+    "growthf": 2.325,
+    "recs": [
+     1522,
+     12342
+    ]
+   },
+   {
+    "col2": 267319,
+    "n": 20,
+    "hp_min": 23440,
+    "hp_max": 3805000,
+    "atk_min": 540,
+    "atk_max": 271000,
+    "acc": 940,
+    "range": 4,
+    "atkspd": 1400,
+    "mov": 330,
+    "growthf": 2.325,
+    "recs": [
+     3380,
+     4827
+    ]
+   }
+  ]
+ },
+ "71701": {
+  "name": "Massacre",
+  "clusters": [
+   {
+    "col2": 327856,
+    "n": 60,
+    "hp_min": 11000,
+    "hp_max": 434000,
+    "atk_min": 468,
+    "atk_max": 14120,
+    "acc": 240,
+    "range": 3,
+    "atkspd": 1300,
+    "mov": 360,
+    "growthf": 2.325,
+    "recs": [
+     1532,
+     11172
+    ]
+   },
+   {
+    "col2": 332856,
+    "n": 20,
+    "hp_min": 24000,
+    "hp_max": 3894600,
+    "atk_min": 600,
+    "atk_max": 298600,
+    "acc": 1018,
+    "range": 3,
+    "atkspd": 1300,
+    "mov": 360,
+    "growthf": 2.325,
+    "recs": [
+     3390,
+     4837
+    ]
+   }
+  ]
+ },
+ "71711": {
+  "name": "Cold Heir",
+  "clusters": [
+   {
+    "col2": 262324,
+    "n": 90,
+    "hp_min": 11000,
+    "hp_max": 433000,
+    "atk_min": 425,
+    "atk_max": 12959,
+    "acc": 228,
+    "range": 8,
+    "atkspd": 1250,
+    "mov": 355,
+    "growthf": 2.325,
+    "recs": [
+     1542,
+     12462
+    ]
+   },
+   {
+    "col2": 267324,
+    "n": 20,
+    "hp_min": 23600,
+    "hp_max": 3830800,
+    "atk_min": 620,
+    "atk_max": 311000,
+    "acc": 1052,
+    "range": 8,
+    "atkspd": 1250,
+    "mov": 355,
+    "growthf": 2.325,
+    "recs": [
+     3400,
+     4847
+    ]
+   }
+  ]
+ },
+ "71721": {
+  "name": "Royal Mummy",
+  "clusters": [
+   {
+    "col2": 327861,
+    "n": 60,
+    "hp_min": 12000,
+    "hp_max": 469000,
+    "atk_min": 420,
+    "atk_max": 12674,
+    "acc": 225,
+    "range": 4,
+    "atkspd": 1500,
+    "mov": 255,
+    "growthf": 2.325,
+    "recs": [
+     1552,
+     11232
+    ]
+   },
+   {
+    "col2": 332861,
+    "n": 20,
+    "hp_min": 24400,
+    "hp_max": 3958400,
+    "atk_min": 540,
+    "atk_max": 271000,
+    "acc": 942,
+    "range": 4,
+    "atkspd": 1500,
+    "mov": 255,
+    "growthf": 2.325,
+    "recs": [
+     3410,
+     4857
+    ]
+   }
+  ]
+ },
+ "71731": {
+  "name": "Colossus",
+  "clusters": [
+   {
+    "col2": 262326,
+    "n": 60,
+    "hp_min": 16500,
+    "hp_max": 634000,
+    "atk_min": 330,
+    "atk_max": 9951,
+    "acc": 200,
+    "range": 4,
+    "atkspd": 1600,
+    "mov": 305,
+    "growthf": 2.325,
+    "recs": [
+     1562,
+     11262
+    ]
+   },
+   {
+    "col2": 267326,
+    "n": 20,
+    "hp_min": 29200,
+    "hp_max": 4736400,
+    "atk_min": 420,
+    "atk_max": 206200,
+    "acc": 780,
+    "range": 4,
+    "atkspd": 1600,
+    "mov": 305,
+    "growthf": 2.325,
+    "recs": [
+     3420,
+     4867
+    ]
+   }
+  ]
+ },
+ "71741": {
+  "name": "Grief Harpist",
+  "clusters": [
+   {
+    "col2": 327863,
+    "n": 60,
+    "hp_min": 11500,
+    "hp_max": 452000,
+    "atk_min": 425,
+    "atk_max": 12863,
+    "acc": 227,
+    "range": 10,
+    "atkspd": 1450,
+    "mov": 330,
+    "growthf": 2.325,
+    "recs": [
+     1572,
+     11292
+    ]
+   },
+   {
+    "col2": 332863,
+    "n": 20,
+    "hp_min": 24400,
+    "hp_max": 3958400,
+    "atk_min": 560,
+    "atk_max": 286400,
+    "acc": 986,
+    "range": 10,
+    "atkspd": 1450,
+    "mov": 330,
+    "growthf": 2.325,
+    "recs": [
+     3430,
+     4877
+    ]
+   }
+  ]
+ },
+ "71751": {
+  "name": "Barbarian Rider",
+  "clusters": [
+   {
+    "col2": 262328,
+    "n": 60,
+    "hp_min": 11000,
+    "hp_max": 434000,
+    "atk_min": 425,
+    "atk_max": 12863,
+    "acc": 227,
+    "range": 4,
+    "atkspd": 1450,
+    "mov": 325,
+    "growthf": 2.325,
+    "recs": [
+     1582,
+     11322
+    ]
+   },
+   {
+    "col2": 267328,
+    "n": 20,
+    "hp_min": 24000,
+    "hp_max": 3894600,
+    "atk_min": 560,
+    "atk_max": 286400,
+    "acc": 984,
+    "range": 4,
+    "atkspd": 1450,
+    "mov": 325,
+    "growthf": 2.325,
+    "recs": [
+     3440,
+     4887
+    ]
+   }
+  ]
+ },
+ "71761": {
+  "name": "Cold Conjuress",
+  "clusters": [
+   {
+    "col2": 327865,
+    "n": 60,
+    "hp_min": 12500,
+    "hp_max": 490000,
+    "atk_min": 385,
+    "atk_max": 11642,
+    "acc": 214,
+    "range": 10,
+    "atkspd": 1650,
+    "mov": 310,
+    "growthf": 2.325,
+    "recs": [
+     1592,
+     11352
+    ]
+   },
+   {
+    "col2": 332865,
+    "n": 20,
+    "hp_min": 26000,
+    "hp_max": 4218000,
+    "atk_min": 500,
+    "atk_max": 249400,
+    "acc": 888,
+    "range": 10,
+    "atkspd": 1650,
+    "mov": 310,
+    "growthf": 2.325,
+    "recs": [
+     3450,
+     4897
+    ]
+   }
+  ]
+ },
+ "71771": {
+  "name": "Genteel Droid",
+  "clusters": [
+   {
+    "col2": 262330,
+    "n": 60,
+    "hp_min": 10500,
+    "hp_max": 417000,
+    "atk_min": 415,
+    "atk_max": 12533,
+    "acc": 223,
+    "range": 10,
+    "atkspd": 1550,
+    "mov": 330,
+    "growthf": 2.325,
+    "recs": [
+     1602,
+     11382
+    ]
+   },
+   {
+    "col2": 267330,
+    "n": 20,
+    "hp_min": 24000,
+    "hp_max": 3894600,
+    "atk_min": 540,
+    "atk_max": 271000,
+    "acc": 942,
+    "range": 10,
+    "atkspd": 1550,
+    "mov": 330,
+    "growthf": 2.325,
+    "recs": [
+     3460,
+     4907
+    ]
+   }
+  ]
+ },
+ "71781": {
+  "name": "Lady Weldcore",
+  "clusters": [
+   {
+    "col2": 327867,
+    "n": 60,
+    "hp_min": 11500,
+    "hp_max": 457000,
+    "atk_min": 390,
+    "atk_max": 11734,
+    "acc": 215,
+    "range": 10,
+    "atkspd": 1650,
+    "mov": 310,
+    "growthf": 2.325,
+    "recs": [
+     1612,
+     11412
+    ]
+   },
+   {
+    "col2": 332867,
+    "n": 20,
+    "hp_min": 26400,
+    "hp_max": 4281800,
+    "atk_min": 480,
+    "atk_max": 237000,
+    "acc": 856,
+    "range": 10,
+    "atkspd": 1650,
+    "mov": 310,
+    "growthf": 2.325,
+    "recs": [
+     3470,
+     4917
+    ]
+   }
+  ]
+ },
+ "71791": {
+  "name": "Inquisitess",
+  "clusters": [
+   {
+    "col2": 262332,
+    "n": 60,
+    "hp_min": 11000,
+    "hp_max": 434000,
+    "atk_min": 400,
+    "atk_max": 12112,
+    "acc": 219,
+    "range": 4,
+    "atkspd": 1550,
+    "mov": 315,
+    "growthf": 2.325,
+    "recs": [
+     1622,
+     11442
+    ]
+   },
+   {
+    "col2": 267332,
+    "n": 20,
+    "hp_min": 24000,
+    "hp_max": 3894600,
+    "atk_min": 540,
+    "atk_max": 271000,
+    "acc": 942,
+    "range": 4,
+    "atkspd": 1550,
+    "mov": 315,
+    "growthf": 2.325,
+    "recs": [
+     3480,
+     4927
+    ]
+   }
+  ]
+ },
+ "71801": {
+  "name": "Vermilica",
+  "clusters": [
+   {
+    "col2": 327869,
+    "n": 60,
+    "hp_min": 25000,
+    "hp_max": 1026000,
+    "atk_min": 300,
+    "atk_max": 9108,
+    "acc": 196,
+    "range": 10,
+    "atkspd": 1800,
+    "mov": 300,
+    "growthf": 2.325,
+    "recs": [
+     1632,
+     11472
+    ]
+   },
+   {
+    "col2": 332869,
+    "n": 20,
+    "hp_min": 70400,
+    "hp_max": 11435400,
+    "atk_min": 420,
+    "atk_max": 206200,
+    "acc": 900,
+    "range": 10,
+    "atkspd": 1800,
+    "mov": 300,
+    "growthf": 2.325,
+    "recs": [
+     3490,
+     4937
+    ]
+   }
+  ]
+ },
+ "71811": {
+  "name": "Cosmic Pugilist",
+  "clusters": [
+   {
+    "col2": 262334,
+    "n": 60,
+    "hp_min": 11500,
+    "hp_max": 454000,
+    "atk_min": 290,
+    "atk_max": 8970,
+    "acc": 186,
+    "range": 4,
+    "atkspd": 1600,
+    "mov": 305,
+    "growthf": 2.325,
+    "recs": [
+     1642,
+     11502
+    ]
+   },
+   {
+    "col2": 267334,
+    "n": 20,
+    "hp_min": 25200,
+    "hp_max": 4089600,
+    "atk_min": 500,
+    "atk_max": 249400,
+    "acc": 886,
+    "range": 4,
+    "atkspd": 1600,
+    "mov": 305,
+    "growthf": 2.325,
+    "recs": [
+     3500,
+     4947
+    ]
+   }
+  ]
+ },
+ "71821": {
+  "name": "Merksha",
+  "clusters": [
+   {
+    "col2": 327871,
+    "n": 60,
+    "hp_min": 9800,
+    "hp_max": 390200,
+    "atk_min": 420,
+    "atk_max": 12770,
+    "acc": 223,
+    "range": 4,
+    "atkspd": 1750,
+    "mov": 320,
+    "growthf": 2.325,
+    "recs": [
+     1652,
+     11532
+    ]
+   },
+   {
+    "col2": 332871,
+    "n": 20,
+    "hp_min": 22800,
+    "hp_max": 3698600,
+    "atk_min": 600,
+    "atk_max": 298600,
+    "acc": 1012,
+    "range": 4,
+    "atkspd": 1750,
+    "mov": 320,
+    "growthf": 2.325,
+    "recs": [
+     3510,
+     4957
+    ]
+   }
+  ]
+ },
+ "71831": {
+  "name": "Despotic Maestro",
+  "clusters": [
+   {
+    "col2": 262336,
+    "n": 60,
+    "hp_min": 10500,
+    "hp_max": 415000,
+    "atk_min": 340,
+    "atk_max": 10424,
+    "acc": 200,
+    "range": 10,
+    "atkspd": 1700,
+    "mov": 315,
+    "growthf": 2.325,
+    "recs": [
+     1662,
+     11562
+    ]
+   },
+   {
+    "col2": 267336,
+    "n": 20,
+    "hp_min": 23200,
+    "hp_max": 3766200,
+    "atk_min": 540,
+    "atk_max": 271000,
+    "acc": 938,
+    "range": 10,
+    "atkspd": 1700,
+    "mov": 315,
+    "growthf": 2.325,
+    "recs": [
+     3520,
+     4967
+    ]
+   }
+  ]
+ },
+ "71841": {
+  "name": "Primeval Golem",
+  "clusters": [
+   {
+    "col2": 327873,
+    "n": 60,
+    "hp_min": 12000,
+    "hp_max": 472000,
+    "atk_min": 295,
+    "atk_max": 9063,
+    "acc": 187,
+    "range": 4,
+    "atkspd": 1700,
+    "mov": 300,
+    "growthf": 2.325,
+    "recs": [
+     1672,
+     11592
+    ]
+   },
+   {
+    "col2": 332873,
+    "n": 20,
+    "hp_min": 25600,
+    "hp_max": 4152400,
+    "atk_min": 480,
+    "atk_max": 237000,
+    "acc": 852,
+    "range": 4,
+    "atkspd": 1700,
+    "mov": 300,
+    "growthf": 2.325,
+    "recs": [
+     3530,
+     4977
+    ]
+   }
+  ]
+ },
+ "70202": {
+  "name": "Catty Spirit",
+  "clusters": [
+   {
+    "col2": 262338,
+    "n": 60,
+    "hp_min": 9800,
+    "hp_max": 391200,
+    "atk_min": 430,
+    "atk_max": 13051,
+    "acc": 227,
+    "range": 10,
+    "atkspd": 1500,
+    "mov": 335,
+    "growthf": 2.325,
+    "recs": [
+     1682,
+     11622
+    ]
+   },
+   {
+    "col2": 267338,
+    "n": 20,
+    "hp_min": 23200,
+    "hp_max": 3766200,
+    "atk_min": 600,
+    "atk_max": 298600,
+    "acc": 1016,
+    "range": 10,
+    "atkspd": 1500,
+    "mov": 335,
+    "growthf": 2.325,
+    "recs": [
+     3540,
+     4987
+    ]
+   }
+  ]
+ },
+ "70203": {
+  "name": "Searing Slayer",
+  "clusters": [
+   {
+    "col2": 327875,
+    "n": 60,
+    "hp_min": 10500,
+    "hp_max": 417000,
+    "atk_min": 320,
+    "atk_max": 9862,
+    "acc": 196,
+    "range": 4,
+    "atkspd": 1300,
+    "mov": 325,
+    "growthf": 2.325,
+    "recs": [
+     1692,
+     11652
+    ]
+   },
+   {
+    "col2": 332875,
+    "n": 20,
+    "hp_min": 24000,
+    "hp_max": 3894600,
+    "atk_min": 540,
+    "atk_max": 271000,
+    "acc": 944,
+    "range": 4,
+    "atkspd": 1300,
+    "mov": 325,
+    "growthf": 2.325,
+    "recs": [
+     3550,
+     4997
+    ]
+   }
+  ]
+ },
+ "70204": {
+  "name": "Kunoichi",
+  "clusters": [
+   {
+    "col2": 262340,
+    "n": 60,
+    "hp_min": 10000,
+    "hp_max": 400000,
+    "atk_min": 440,
+    "atk_max": 13332,
+    "acc": 230,
+    "range": 4,
+    "atkspd": 1500,
+    "mov": 335,
+    "growthf": 2.325,
+    "recs": [
+     1702,
+     11682
+    ]
+   },
+   {
+    "col2": 267340,
+    "n": 20,
+    "hp_min": 24000,
+    "hp_max": 3894600,
+    "atk_min": 600,
+    "atk_max": 298600,
+    "acc": 1018,
+    "range": 4,
+    "atkspd": 1500,
+    "mov": 335,
+    "growthf": 2.325,
+    "recs": [
+     3560,
+     5007
+    ]
+   }
+  ]
+ },
+ "70205": {
+  "name": "Serratica",
+  "clusters": [
+   {
+    "col2": 327877,
+    "n": 90,
+    "hp_min": 12000,
+    "hp_max": 469000,
+    "atk_min": 410,
+    "atk_max": 12441,
+    "acc": 222,
+    "range": 10,
+    "atkspd": 1650,
+    "mov": 310,
+    "growthf": 2.325,
+    "recs": [
+     1712,
+     12552
+    ]
+   },
+   {
+    "col2": 332877,
+    "n": 20,
+    "hp_min": 24400,
+    "hp_max": 3958400,
+    "atk_min": 560,
+    "atk_max": 286400,
+    "acc": 984,
+    "range": 10,
+    "atkspd": 1650,
+    "mov": 310,
+    "growthf": 2.325,
+    "recs": [
+     3570,
+     5017
+    ]
+   }
+  ]
+ },
+ "70206": {
+  "name": "Drunken Simian",
+  "clusters": [
+   {
+    "col2": 262343,
+    "n": 60,
+    "hp_min": 13500,
+    "hp_max": 525000,
+    "atk_min": 350,
+    "atk_max": 10610,
+    "acc": 205,
+    "range": 4,
+    "atkspd": 1500,
+    "mov": 305,
+    "growthf": 2.325,
+    "recs": [
+     1722,
+     11922
+    ]
+   },
+   {
+    "col2": 267342,
+    "n": 20,
+    "hp_min": 26400,
+    "hp_max": 4281800,
+    "atk_min": 480,
+    "atk_max": 237000,
+    "acc": 856,
+    "range": 4,
+    "atkspd": 1500,
+    "mov": 305,
+    "growthf": 2.325,
+    "recs": [
+     3580,
+     5027
+    ]
+   }
+  ]
+ },
+ "70207": {
+  "name": "Gravedigger",
+  "clusters": [
+   {
+    "col2": 327880,
+    "n": 60,
+    "hp_min": 11000,
+    "hp_max": 442000,
+    "atk_min": 385,
+    "atk_max": 11690,
+    "acc": 214,
+    "range": 4,
+    "atkspd": 1700,
+    "mov": 315,
+    "growthf": 2.325,
+    "recs": [
+     1732,
+     11952
+    ]
+   },
+   {
+    "col2": 332879,
+    "n": 20,
+    "hp_min": 27200,
+    "hp_max": 4413800,
+    "atk_min": 540,
+    "atk_max": 271000,
+    "acc": 950,
+    "range": 4,
+    "atkspd": 1700,
+    "mov": 315,
+    "growthf": 2.325,
+    "recs": [
+     3590,
+     5037
+    ]
+   }
+  ]
+ },
+ "70208": {
+  "name": "Spartan Spearman",
+  "clusters": [
+   {
+    "col2": 262345,
+    "n": 60,
+    "hp_min": 12000,
+    "hp_max": 468000,
+    "atk_min": 390,
+    "atk_max": 11878,
+    "acc": 216,
+    "range": 10,
+    "atkspd": 1550,
+    "mov": 305,
+    "growthf": 2.325,
+    "recs": [
+     1742,
+     12012
+    ]
+   },
+   {
+    "col2": 267344,
+    "n": 20,
+    "hp_min": 24000,
+    "hp_max": 3894600,
+    "atk_min": 560,
+    "atk_max": 286400,
+    "acc": 984,
+    "range": 10,
+    "atkspd": 1550,
+    "mov": 305,
+    "growthf": 2.325,
+    "recs": [
+     3600,
+     5047
+    ]
+   }
+  ]
+ },
+ "70209": {
+  "name": "Hex Painter",
+  "clusters": [
+   {
+    "col2": 327882,
+    "n": 90,
+    "hp_min": 11000,
+    "hp_max": 438000,
+    "atk_min": 360,
+    "atk_max": 10891,
+    "acc": 206,
+    "range": 10,
+    "atkspd": 1650,
+    "mov": 315,
+    "growthf": 2.325,
+    "recs": [
+     1752,
+     12732
+    ]
+   },
+   {
+    "col2": 332881,
+    "n": 20,
+    "hp_min": 25600,
+    "hp_max": 4152400,
+    "atk_min": 480,
+    "atk_max": 237000,
+    "acc": 852,
+    "range": 10,
+    "atkspd": 1650,
+    "mov": 315,
+    "growthf": 2.325,
+    "recs": [
+     3610,
+     5057
+    ]
+   }
+  ]
+ },
+ "70210": {
+  "name": "Stormwing",
+  "clusters": [
+   {
+    "col2": 262347,
+    "n": 120,
+    "hp_min": 11000,
+    "hp_max": 438000,
+    "atk_min": 360,
+    "atk_max": 10891,
+    "acc": 206,
+    "range": 4,
+    "atkspd": 1650,
+    "mov": 315,
+    "growthf": 2.325,
+    "recs": [
+     1762,
+     12102
+    ]
+   },
+   {
+    "col2": 267346,
+    "n": 20,
+    "hp_min": 25600,
+    "hp_max": 4152400,
+    "atk_min": 480,
+    "atk_max": 237000,
+    "acc": 852,
+    "range": 4,
+    "atkspd": 1650,
+    "mov": 315,
+    "growthf": 2.325,
+    "recs": [
+     3620,
+     5067
+    ]
+   }
+  ]
+ },
+ "70212": {
+  "name": "Underworld Judge",
+  "clusters": [
+   {
+    "col2": 327884,
+    "n": 60,
+    "hp_min": 9800,
+    "hp_max": 393200,
+    "atk_min": 380,
+    "atk_max": 11453,
+    "acc": 212,
+    "range": 8,
+    "atkspd": 1500,
+    "mov": 325,
+    "growthf": 2.325,
+    "recs": [
+     1782,
+     12132
+    ]
+   }
+  ]
+ },
+ "70213": {
+  "name": "Crystella",
+  "clusters": [
+   {
+    "col2": 262351,
+    "n": 60,
+    "hp_min": 11500,
+    "hp_max": 447000,
+    "atk_min": 410,
+    "atk_max": 12441,
+    "acc": 222,
+    "range": 4,
+    "atkspd": 1600,
+    "mov": 310,
+    "growthf": 2.325,
+    "recs": [
+     1792,
+     12162
+    ]
+   }
+  ]
+ },
+ "70214": {
+  "name": "Tundrahoof",
+  "clusters": [
+   {
+    "col2": 327891,
+    "n": 60,
+    "hp_min": 15000,
+    "hp_max": 574000,
+    "atk_min": 400,
+    "atk_max": 12400,
+    "acc": 220,
+    "range": 8,
+    "atkspd": 1650,
+    "mov": 330,
+    "growthf": 2.325,
+    "recs": [
+     1802,
+     12192
+    ]
+   }
+  ]
+ },
+ "70215": {
+  "name": "Sword Sage",
+  "clusters": [
+   {
+    "col2": 262356,
+    "n": 90,
+    "hp_min": 12000,
+    "hp_max": 468000,
+    "atk_min": 360,
+    "atk_max": 10987,
+    "acc": 208,
+    "range": 8,
+    "atkspd": 1350,
+    "mov": 315,
+    "growthf": 2.325,
+    "recs": [
+     1812,
+     12672
+    ]
+   }
+  ]
+ },
+ "70216": {
+  "name": "Flame Darklord",
+  "clusters": [
+   {
+    "col2": 327893,
+    "n": 90,
+    "hp_min": 11500,
+    "hp_max": 447000,
+    "atk_min": 380,
+    "atk_max": 11645,
+    "acc": 213,
+    "range": 8,
+    "atkspd": 1450,
+    "mov": 315,
+    "growthf": 2.325,
+    "recs": [
+     1822,
+     13062
+    ]
+   }
+  ]
+ },
+ "70217": {
+  "name": "Flower Fae",
+  "clusters": [
+   {
+    "col2": 262358,
+    "n": 60,
+    "hp_min": 13000,
+    "hp_max": 502000,
+    "atk_min": 400,
+    "atk_max": 12112,
+    "acc": 220,
+    "range": 8,
+    "atkspd": 1550,
+    "mov": 315,
+    "growthf": 2.325,
+    "recs": [
+     1832,
+     12282
+    ]
+   }
+  ]
+ },
+ "70218": {
+  "name": "Murderous Crow",
+  "clusters": [
+   {
+    "col2": 327895,
+    "n": 60,
+    "hp_min": 11000,
+    "hp_max": 430000,
+    "atk_min": 420,
+    "atk_max": 12722,
+    "acc": 220,
+    "range": 4,
+    "atkspd": 1400,
+    "mov": 335,
+    "growthf": 2.325,
+    "recs": [
+     1842,
+     12312
+    ]
+   }
+  ]
+ },
+ "70219": {
+  "name": "Flutterelle",
+  "clusters": [
+   {
+    "col2": 262360,
+    "n": 60,
+    "hp_min": 10500,
+    "hp_max": 423000,
+    "atk_min": 340,
+    "atk_max": 10328,
+    "acc": 201,
+    "range": 8,
+    "atkspd": 1500,
+    "mov": 320,
+    "growthf": 2.325,
+    "recs": [
+     1852,
+     12372
+    ]
+   }
+  ]
+ },
+ "70220": {
+  "name": "Void Knight",
+  "clusters": [
+   {
+    "col2": 327897,
+    "n": 60,
+    "hp_min": 15500,
+    "hp_max": 595000,
+    "atk_min": 380,
+    "atk_max": 11549,
+    "acc": 215,
+    "range": 4,
+    "atkspd": 1500,
+    "mov": 320,
+    "growthf": 2.325,
+    "recs": [
+     1862,
+     12402
+    ]
+   }
+  ]
+ },
+ "70222": {
+  "name": "Jewellee",
+  "clusters": [
+   {
+    "col2": 262362,
+    "n": 60,
+    "hp_min": 12500,
+    "hp_max": 485000,
+    "atk_min": 410,
+    "atk_max": 12489,
+    "acc": 223,
+    "range": 8,
+    "atkspd": 1450,
+    "mov": 330,
+    "growthf": 2.325,
+    "recs": [
+     1872,
+     12432
+    ]
+   }
+  ]
+ },
+ "70223": {
+  "name": "Celestica",
+  "clusters": [
+   {
+    "col2": 262363,
+    "n": 90,
+    "hp_min": 12000,
+    "hp_max": 466000,
+    "atk_min": 420,
+    "atk_max": 12866,
+    "acc": 226,
+    "range": 8,
+    "atkspd": 1400,
+    "mov": 340,
+    "growthf": 2.325,
+    "recs": [
+     1882,
+     13302
+    ]
+   }
+  ]
+ },
+ "70224": {
+  "name": "Dusk Knight",
+  "clusters": [
+   {
+    "col2": 327900,
+    "n": 60,
+    "hp_min": 15000,
+    "hp_max": 573000,
+    "atk_min": 380,
+    "atk_max": 11549,
+    "acc": 214,
+    "range": 4,
+    "atkspd": 1600,
+    "mov": 330,
+    "growthf": 2.325,
+    "recs": [
+     1892,
+     12522
+    ]
+   }
+  ]
+ },
+ "70225": {
+  "name": "Dragon Scholar",
+  "clusters": [
+   {
+    "col2": 262365,
+    "n": 60,
+    "hp_min": 13000,
+    "hp_max": 502000,
+    "atk_min": 400,
+    "atk_max": 12208,
+    "acc": 220,
+    "range": 8,
+    "atkspd": 1500,
+    "mov": 335,
+    "growthf": 2.325,
+    "recs": [
+     1902,
+     12582
+    ]
+   }
+  ]
+ },
+ "70226": {
+  "name": "Shadow Baron",
+  "clusters": [
+   {
+    "col2": 327902,
+    "n": 90,
+    "hp_min": 14000,
+    "hp_max": 540000,
+    "atk_min": 370,
+    "atk_max": 11268,
+    "acc": 212,
+    "range": 8,
+    "atkspd": 1400,
+    "mov": 315,
+    "growthf": 2.325,
+    "recs": [
+     1912,
+     13422
+    ]
+   }
+  ]
+ },
+ "70227": {
+  "name": "Spider Queen",
+  "clusters": [
+   {
+    "col2": 327903,
+    "n": 60,
+    "hp_min": 13500,
+    "hp_max": 521000,
+    "atk_min": 400,
+    "atk_max": 12208,
+    "acc": 220,
+    "range": 8,
+    "atkspd": 1450,
+    "mov": 325,
+    "growthf": 2.325,
+    "recs": [
+     1922,
+     12642
+    ]
+   }
+  ]
+ },
+ "70228": {
+  "name": "Lightchaser",
+  "clusters": [
+   {
+    "col2": 262368,
+    "n": 60,
+    "hp_min": 12500,
+    "hp_max": 483000,
+    "atk_min": 400,
+    "atk_max": 12208,
+    "acc": 220,
+    "range": 8,
+    "atkspd": 1350,
+    "mov": 325,
+    "growthf": 2.325,
+    "recs": [
+     1932,
+     12702
+    ]
+   }
+  ]
+ },
+ "70229": {
+  "name": "Evil Eye",
+  "clusters": [
+   {
+    "col2": 327906,
+    "n": 60,
+    "hp_min": 15000,
+    "hp_max": 578000,
+    "atk_min": 360,
+    "atk_max": 10939,
+    "acc": 209,
+    "range": 4,
+    "atkspd": 1500,
+    "mov": 325,
+    "growthf": 2.325,
+    "recs": [
+     1942,
+     12762
+    ]
+   }
+  ]
+ },
+ "70230": {
+  "name": "Lunar Hunter",
+  "clusters": [
+   {
+    "col2": 262371,
+    "n": 60,
+    "hp_min": 12500,
+    "hp_max": 485000,
+    "atk_min": 400,
+    "atk_max": 12208,
+    "acc": 220,
+    "range": 8,
+    "atkspd": 1400,
+    "mov": 325,
+    "growthf": 2.325,
+    "recs": [
+     1952,
+     12792
+    ]
+   }
+  ]
+ },
+ "70232": {
+  "name": "Tusked Menace",
+  "clusters": [
+   {
+    "col2": 327908,
+    "n": 60,
+    "hp_min": 13000,
+    "hp_max": 502000,
+    "atk_min": 420,
+    "atk_max": 13010,
+    "acc": 227,
+    "range": 8,
+    "atkspd": 1400,
+    "mov": 315,
+    "growthf": 2.325,
+    "recs": [
+     1962,
+     12822
+    ]
+   }
+  ]
+ },
+ "70233": {
+  "name": "Mystrix",
+  "clusters": [
+   {
+    "col2": 262373,
+    "n": 60,
+    "hp_min": 12000,
+    "hp_max": 470000,
+    "atk_min": 360,
+    "atk_max": 10987,
+    "acc": 208,
+    "range": 8,
+    "atkspd": 1400,
+    "mov": 325,
+    "growthf": 2.325,
+    "recs": [
+     1972,
+     12852
+    ]
+   }
+  ]
+ },
+ "70234": {
+  "name": "Mako Warrior",
+  "clusters": [
+   {
+    "col2": 327910,
+    "n": 60,
+    "hp_min": 13000,
+    "hp_max": 502000,
+    "atk_min": 420,
+    "atk_max": 13192,
+    "acc": 231,
+    "range": 4,
+    "atkspd": 1400,
+    "mov": 355,
+    "growthf": 2.325,
+    "recs": [
+     1982,
+     12882
+    ]
+   }
+  ]
+ },
+ "70235": {
+  "name": "Rosespecter",
+  "clusters": [
+   {
+    "col2": 327911,
+    "n": 60,
+    "hp_min": 13000,
+    "hp_max": 502000,
+    "atk_min": 400,
+    "atk_max": 12208,
+    "acc": 220,
+    "range": 8,
+    "atkspd": 1500,
+    "mov": 315,
+    "growthf": 2.325,
+    "recs": [
+     1992,
+     12912
+    ]
+   }
+  ]
+ },
+ "70236": {
+  "name": "Lumiglade",
+  "clusters": [
+   {
+    "col2": 262376,
+    "n": 60,
+    "hp_min": 12000,
+    "hp_max": 468000,
+    "atk_min": 370,
+    "atk_max": 11268,
+    "acc": 211,
+    "range": 8,
+    "atkspd": 1400,
+    "mov": 325,
+    "growthf": 2.325,
+    "recs": [
+     2002,
+     12942
+    ]
+   }
+  ]
+ },
+ "70237": {
+  "name": "Soul Seeker",
+  "clusters": [
+   {
+    "col2": 262377,
+    "n": 60,
+    "hp_min": 12000,
+    "hp_max": 472000,
+    "atk_min": 435,
+    "atk_max": 13288,
+    "acc": 230,
+    "range": 4,
+    "atkspd": 1500,
+    "mov": 315,
+    "growthf": 2.325,
+    "recs": [
+     2012,
+     12972
+    ]
+   }
+  ]
+ },
+ "70238": {
+  "name": "Abyss Apostle",
+  "clusters": [
+   {
+    "col2": 327914,
+    "n": 63,
+    "hp_min": 12000,
+    "hp_max": 472000,
+    "atk_min": 370,
+    "atk_max": 11268,
+    "acc": 210,
+    "range": 10,
+    "atkspd": 1500,
+    "mov": 315,
+    "growthf": 2.325,
+    "recs": [
+     2022,
+     13002
+    ]
+   }
+  ]
+ },
+ "70239": {
+  "name": "Luminah",
+  "clusters": [
+   {
+    "col2": 262379,
+    "n": 60,
+    "hp_min": 12000,
+    "hp_max": 470000,
+    "atk_min": 360,
+    "atk_max": 10843,
+    "acc": 208,
+    "range": 4,
+    "atkspd": 1350,
+    "mov": 325,
+    "growthf": 2.325,
+    "recs": [
+     2032,
+     13032
+    ]
+   }
+  ]
+ },
+ "70240": {
+  "name": "Electroranger",
+  "clusters": [
+   {
+    "col2": 262380,
+    "n": 60,
+    "hp_min": 13000,
+    "hp_max": 502000,
+    "atk_min": 400,
+    "atk_max": 12208,
+    "acc": 221,
+    "range": 10,
+    "atkspd": 1250,
+    "mov": 325,
+    "growthf": 2.325,
+    "recs": [
+     2042,
+     13092
+    ]
+   }
+  ]
+ },
+ "70242": {
+  "name": "Malefica",
+  "clusters": [
+   {
+    "col2": 327917,
+    "n": 60,
+    "hp_min": 12000,
+    "hp_max": 468000,
+    "atk_min": 450,
+    "atk_max": 13854,
+    "acc": 235,
+    "range": 10,
+    "atkspd": 1500,
+    "mov": 315,
+    "growthf": 2.325,
+    "recs": [
+     2052,
+     13122
+    ]
+   }
+  ]
+ },
+ "70243": {
+  "name": "Melody",
+  "clusters": [
+   {
+    "col2": 327920,
+    "n": 60,
+    "hp_min": 13000,
+    "hp_max": 502000,
+    "atk_min": 400,
+    "atk_max": 12208,
+    "acc": 220,
+    "range": 8,
+    "atkspd": 1500,
+    "mov": 315,
+    "growthf": 2.325,
+    "recs": [
+     2062,
+     13152
+    ]
+   }
+  ]
+ },
+ "70244": {
+  "name": "Ol&apos; Smoky",
+  "clusters": [
+   {
+    "col2": 262385,
+    "n": 60,
+    "hp_min": 12500,
+    "hp_max": 485000,
+    "atk_min": 380,
+    "atk_max": 11549,
+    "acc": 214,
+    "range": 8,
+    "atkspd": 1400,
+    "mov": 325,
+    "growthf": 2.325,
+    "recs": [
+     2072,
+     13182
+    ]
+   }
+  ]
+ },
+ "70245": {
+  "name": "Shysickle",
+  "clusters": [
+   {
+    "col2": 327922,
+    "n": 60,
+    "hp_min": 12500,
+    "hp_max": 483000,
+    "atk_min": 390,
+    "atk_max": 11926,
+    "acc": 218,
+    "range": 8,
+    "atkspd": 1250,
+    "mov": 325,
+    "growthf": 2.325,
+    "recs": [
+     2082,
+     13212
+    ]
+   }
+  ]
+ },
+ "70247": {
+  "name": "Puppeteer",
+  "clusters": [
+   {
+    "col2": 327923,
+    "n": 60,
+    "hp_min": 12500,
+    "hp_max": 484000,
+    "atk_min": 360,
+    "atk_max": 10987,
+    "acc": 208,
+    "range": 8,
+    "atkspd": 1500,
+    "mov": 315,
+    "growthf": 2.325,
+    "recs": [
+     2092,
+     13242
+    ]
+   }
+  ]
+ },
+ "70246": {
+  "name": "Candel",
+  "clusters": [
+   {
+    "col2": 262388,
+    "n": 60,
+    "hp_min": 14500,
+    "hp_max": 559000,
+    "atk_min": 380,
+    "atk_max": 11597,
+    "acc": 215,
+    "range": 8,
+    "atkspd": 1400,
+    "mov": 325,
+    "growthf": 2.325,
+    "recs": [
+     2102,
+     13272
+    ]
+   }
+  ]
+ },
+ "70248": {
+  "name": "Dreadshade",
+  "clusters": [
+   {
+    "col2": 327925,
+    "n": 60,
+    "hp_min": 14200,
+    "hp_max": 544800,
+    "atk_min": 320,
+    "atk_max": 9910,
+    "acc": 215,
+    "range": 8,
+    "atkspd": 1400,
+    "mov": 325,
+    "growthf": 2.325,
+    "recs": [
+     2112,
+     13332
+    ]
+   }
+  ]
+ },
+ "70249": {
+  "name": "Flutterfrost",
+  "clusters": [
+   {
+    "col2": 262390,
+    "n": 60,
+    "hp_min": 14800,
+    "hp_max": 569200,
+    "atk_min": 360,
+    "atk_max": 11131,
+    "acc": 215,
+    "range": 8,
+    "atkspd": 1400,
+    "mov": 370,
+    "growthf": 2.325,
+    "recs": [
+     2122,
+     13362
+    ]
+   }
+  ]
+ },
+ "70250": {
+  "name": "Po",
+  "clusters": [
+   {
+    "col2": 262391,
+    "n": 60,
+    "hp_min": 14500,
+    "hp_max": 559000,
+    "atk_min": 420,
+    "atk_max": 12866,
+    "acc": 227,
+    "range": 4,
+    "atkspd": 1400,
+    "mov": 325,
+    "growthf": 2.325,
+    "recs": [
+     2132,
+     13392
+    ]
+   }
+  ]
+ },
+ "70251": {
+  "name": "Tempestia",
+  "clusters": [
+   {
+    "col2": 327928,
+    "n": 60,
+    "hp_min": 13000,
+    "hp_max": 504000,
+    "atk_min": 380,
+    "atk_max": 11549,
+    "acc": 227,
+    "range": 4,
+    "atkspd": 1400,
+    "mov": 325,
+    "growthf": 2.325,
+    "recs": [
+     2142,
+     13452
+    ]
+   }
+  ]
+ },
+ "70721": {
+  "name": "Juggernaut",
+  "clusters": [
+   {
+    "col2": 529342,
+    "n": 2,
+    "hp_min": 3392000,
+    "hp_max": 3392000,
+    "atk_min": 24640,
+    "atk_max": 24640,
+    "acc": 396,
+    "range": 3,
+    "atkspd": 1200,
+    "mov": 260,
+    "growthf": 2.237,
+    "recs": [
+     2527,
+     2563
+    ]
+   }
+  ]
+ }
+}
