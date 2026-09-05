@@ -61,6 +61,22 @@ def main() -> int:
         if got != want:
             fails.append(f"{label}: got {got}, expected {want}")
 
+    # smoke-test the higher-level modules so a regression in them fails the gate
+    try:
+        from ccmcp import buildscore, crossref, dossier, generator
+        if "grades" not in dossier.build(conn, "Serratica"):
+            fails.append("dossier.build('Serratica') returned no grades")
+        if buildscore.score(conn, "Serratica").get("metrics", {}).get("offense_score") != 4776:
+            fails.append("buildscore.score('Serratica') offense_score drifted from 4776")
+        if not generator.generate(conn, "Serratica", "offense").get("ranked"):
+            fails.append("generator.generate('Serratica') returned no ranking")
+        if crossref.related(conn, "Serratica").get("resolved_as") != "hero":
+            fails.append("crossref.related('Serratica') did not resolve as hero")
+        if "levels" not in sk.skill_data("Magic Missile"):
+            fails.append("skills.skill_data('Magic Missile') returned no levels")
+    except Exception as e:
+        fails.append(f"module smoke raised: {e}")
+
     if fails:
         print("SELF-CHECK FAILED:")
         for f in fails:

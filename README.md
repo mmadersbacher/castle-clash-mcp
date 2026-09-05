@@ -15,6 +15,8 @@ recovered from the client → the answer is derived, not remembered.
 - The real damage math, recovered from `libgame.so` → `combat_math`
 - 200+ game tables, 426 skills, items, gacha drop odds → `game_systems`, `search_all`
 - The effect engine: 59 buffer types resolved to their mechanic → `combat_effects`
+- Exact skill damage from the numeric coefficients → `skill_data`, `skill_damage`
+- A stat-based build generator and scorer → `generate_build`, `build_score`
 - A 1v1 fight simulator built on the verified formulas → `simulate_fight`
 
 The math is written up in [docs/GAME_MATH.md](docs/GAME_MATH.md): stat scaling,
@@ -47,18 +49,27 @@ Or in a client config:
 
 ## Tools
 
-Stats and heroes: `hero_stats_calc`, `hero_dossier`, `hero_sheet`, `get_hero`,
-`hero_level_stats`, `rank_heroes`, `compare_heroes`, `list_heroes`, `tier_list`.
+Heroes and stats: `hero_dossier` (one-call hub: stats, every grade, skill damage
+at the hero's own ATK, recommended build and its grade), `hero_stats_calc`,
+`hero_sheet`, `get_hero`, `hero_level_stats`, `rank_heroes`, `compare_heroes`,
+`list_heroes`, `tier_list`.
 
-Combat: `combat_math` explains one hit, `simulate_fight` runs a duel,
-`combat_effects` browses the effect taxonomy.
+Skills: `skill_data` (numeric per-level coefficients), `skill_damage` (exact
+damage at a given ATK), `skill_levels`, `hero_skills`, `totem_skill`.
 
-Builds: `recommend_build` fills a build and explains each pick, `check_build`
-flags redundancies and gaps.
+Combat: `combat_math` explains one hit, `combat_effects` browses the effect
+taxonomy, `simulate_fight` runs a duel.
+
+Builds: `generate_build` ranks talents by the numbers for offense / ehp /
+balanced, `build_score` grades one build, `recommend_build` fills a build with
+capability-aware picks, `check_build` flags redundancies and gaps.
+
+Cross-reference: `related` resolves any name to what connects to it (a skill to
+the heroes that use it, a hero to its skill, an item to its system).
 
 Game data: `game_systems`, `get_system`, `system_lookup`, `search_all`,
-`gacha_odds`, `skill_levels`, `hero_skills`, `totem_skill`, plus per-catalog
-lookups (`get_crest`, `get_insignia`, `get_pet`, `get_soularm`, ...).
+`gacha_odds`, plus per-catalog lookups (`get_crest`, `get_insignia`, `get_pet`,
+`get_soularm`, ...).
 
 ## The math is checked, not asserted
 

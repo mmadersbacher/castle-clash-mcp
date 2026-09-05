@@ -63,6 +63,23 @@ def effective_crit_chance(attacker_crit_rating: int, defender_tenacity_rating: i
     return max(0.0, crit_chance(attacker_crit_rating) - crit_chance(defender_tenacity_rating))
 
 
+def offense_metrics(atk: float, atkspd: float, crit_rating: int = 0,
+                    crit_dmg_rating: int = 0, *, defender_tenacity: int = 0,
+                    ratio: float = 1.0, target_reduce: int = 0) -> dict:
+    """Expected auto-attack offense, the single shared model for build_score and
+    the simulator: crit chance (after the defender's Tenacity), average crit
+    factor, attacks/sec (1000/atkspd), average hit, and DPS. With no opponent
+    (defender_tenacity=0, ratio=1, target_reduce=0) it is a single-build grade."""
+    crit_p = effective_crit_chance(crit_rating, defender_tenacity)
+    crit_mult = crit_damage(crit_dmg_rating)
+    avg_crit = (1 - crit_p) + crit_p * crit_mult
+    dtm = damage_taken_multiplier(target_reduce)
+    avg_hit = atk * ratio * avg_crit * dtm
+    aps = 1000.0 / atkspd if atkspd else 0.0
+    return {"crit_chance": crit_p, "avg_crit_factor": avg_crit,
+            "attacks_per_sec": aps, "avg_hit": avg_hit, "dps": avg_hit * aps}
+
+
 def attack_ratio(attack_type: int, armor_type: int) -> float:
     """Type-vs-armor multiplier as a fraction. VERIFIED from AttackRatio.xml."""
     row = ATTACK_RATIO.get(int(attack_type))

@@ -12,11 +12,8 @@ def score(conn, hero, stars=10, level=200, evo=0, talent=None, talent_lvl=0, loa
     if "error" in r:
         return r
     e = r["effective"]
-    crit_p = combat.crit_chance(e.get("CRIT") or 0)
-    crit_mult = combat.crit_damage(e.get("CRIT DMG") or 0)
-    avg_crit = (1 - crit_p) + crit_p * crit_mult
-    aps = 1000.0 / (e.get("ATK SPD") or 1500)
-    offense = e["Attack"] * aps * avg_crit
+    om = combat.offense_metrics(e["Attack"], e.get("ATK SPD") or 1500,
+                                e.get("CRIT") or 0, e.get("CRIT DMG") or 0)
     return {
         "hero": r["hero"],
         "effective": {
@@ -26,10 +23,10 @@ def score(conn, hero, stars=10, level=200, evo=0, talent=None, talent_lvl=0, loa
         },
         "metrics": {
             "EHP": e["HP"],
-            "crit_chance": round(crit_p, 3),
-            "avg_crit_factor": round(avg_crit, 3),
-            "attacks_per_sec": round(aps, 3),
-            "offense_score": round(offense),
+            "crit_chance": round(om["crit_chance"], 3),
+            "avg_crit_factor": round(om["avg_crit_factor"], 3),
+            "attacks_per_sec": round(om["attacks_per_sec"], 3),
+            "offense_score": round(om["dps"]),
         },
         "loadout_sources": r.get("loadout_sources"),
         "note": "single-build stat grade (no opponent). EHP = effective HP; "

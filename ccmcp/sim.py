@@ -30,18 +30,15 @@ def effective(conn, hero, stars=10, level=200, evo=0, talent=None, talent_lvl=0,
 
 def _offense(attacker, defender, reduce_rating=0):
     """Expected DPS of attacker onto defender (hero-vs-hero, auto-attacks)."""
-    crit_p = combat.effective_crit_chance(attacker["crit"], defender["tenacity"])
-    crit_mult = combat.crit_damage(attacker["crit_dmg"])
-    avg_crit_factor = (1 - crit_p) + crit_p * crit_mult
-    ratio = combat.attack_ratio(5, 5)  # both are heroes -> 1.0
-    dtm = combat.damage_taken_multiplier(reduce_rating)
-    avg_hit = attacker["ATK"] * ratio * avg_crit_factor * dtm
-    aps = 1000.0 / attacker["atkspd"] if attacker["atkspd"] else 0.0
-    dps = avg_hit * aps
-    return dps, {
-        "crit_chance": round(crit_p, 3), "crit_multiplier": round(crit_mult, 3),
-        "avg_hit": round(avg_hit), "attacks_per_sec": round(aps, 3),
-        "dps": round(dps),
+    om = combat.offense_metrics(
+        attacker["ATK"], attacker["atkspd"], attacker["crit"], attacker["crit_dmg"],
+        defender_tenacity=defender["tenacity"], ratio=combat.attack_ratio(5, 5),
+        target_reduce=reduce_rating)
+    return om["dps"], {
+        "crit_chance": round(om["crit_chance"], 3),
+        "crit_multiplier": round(combat.crit_damage(attacker["crit_dmg"]), 3),
+        "avg_hit": round(om["avg_hit"]), "attacks_per_sec": round(om["attacks_per_sec"], 3),
+        "dps": round(om["dps"]),
     }
 
 
