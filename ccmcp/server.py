@@ -12,7 +12,7 @@ try:  # mcp >= 2 renamed FastMCP -> MCPServer (identical tool/run API)
 except ModuleNotFoundError:  # mcp < 2
     from mcp.server.fastmcp import FastMCP as _Server
 
-from . import buildscore, calc, combat, crossref, db, dossier, gamedata, refresh, rules, sim, skills, sources, statcalc, systems
+from . import buildscore, calc, combat, crossref, db, dossier, gamedata, generator, refresh, rules, sim, skills, sources, statcalc, systems
 
 mcp = _Server("castle-clash")
 
@@ -626,6 +626,19 @@ def related(query: str) -> dict:
     conn = _conn()
     try:
         return crossref.related(conn, query)
+    finally:
+        conn.close()
+
+
+@mcp.tool()
+def generate_build(hero: str, objective: str = "balanced", top: int = 5,
+                   talent_lvl: int = 10) -> dict:
+    """Rank talents for a hero by the numbers (build_score), for objective
+    'offense', 'ehp' or 'balanced'. Pure stat ranking → it does not model
+    conditional mechanics, so cross-check recommend_build for the caveats."""
+    conn = _conn()
+    try:
+        return generator.generate(conn, hero, objective=objective, top=top, talent_lvl=talent_lvl)
     finally:
         conn.close()
 
