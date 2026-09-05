@@ -4,7 +4,7 @@ The knowledge-library view of a single hero, assembled from the verified sources
 """
 import html
 
-from . import rules, skills as skillmod, sources, statcalc, systems
+from . import buildscore, combat, rules, skills as skillmod, sources, statcalc, systems
 
 _GRADE_ORDER = {"Ordinary": 0, "Evo1": 1, "Evo2": 2, "Evo3": 3, "Evo4": 4}
 
@@ -56,8 +56,16 @@ def build(conn, hero: str) -> dict:
                      f"trust APK for Ordinary")
 
     rec = None
+    rec_grade = None
     try:
         rec = rules.recommend_build(conn, hero)
+        rt = (rec or {}).get("build", {}).get("talent") if isinstance(rec, dict) else None
+        if rt:
+            g = buildscore.score(conn, hero, talent=rt, talent_lvl=10)
+            if "metrics" in g:
+                rec_grade = {"with_talent": rt, "ATK": g["effective"]["ATK"],
+                             "offense_score": g["metrics"]["offense_score"],
+                             "EHP": g["metrics"]["EHP"]}
     except Exception:
         pass
 
@@ -89,6 +97,11 @@ def build(conn, hero: str) -> dict:
                 prog.append(v)
         if prog:
             main_skill["damage_pct_by_level"] = prog[:15]
+            eff_atk = calc["effective"]["Attack"]
+            main_skill["max_hit_at_own_atk"] = {
+                "pct": prog[-1], "atk": eff_atk,
+                "damage_per_hit": combat.skill_value(prog[-1], eff_atk),
+            }
             tgts = [L.get("targets") for L in dmg_levels if 0 < (L.get("targets") or 0) <= 12]
             if tgts:
                 main_skill["targets"] = max(tgts)
@@ -120,6 +133,7 @@ def build(conn, hero: str) -> dict:
         "role": hrec.get("role"),
         "tags": hrec.get("tags"),
         "recommended_build": rec,
+        "recommended_build_grade": rec_grade,
         "note": "Ordinary stats VERIFIED (formula); evolved grades from live_hero_params "
                 "(DERIVED, some multi-form heroes mis-extract Ordinary -> see reconciliation).",
     }

@@ -12,7 +12,7 @@ try:  # mcp >= 2 renamed FastMCP -> MCPServer (identical tool/run API)
 except ModuleNotFoundError:  # mcp < 2
     from mcp.server.fastmcp import FastMCP as _Server
 
-from . import buildscore, calc, combat, db, dossier, gamedata, refresh, rules, sim, skills, sources, statcalc, systems
+from . import buildscore, calc, combat, crossref, db, dossier, gamedata, refresh, rules, sim, skills, sources, statcalc, systems
 
 mcp = _Server("castle-clash")
 
@@ -614,6 +614,18 @@ def build_score(hero: str, stars: int = 10, level: int = 200, evo: int = 0,
     try:
         return buildscore.score(conn, hero, stars=stars, level=level, evo=evo,
                                 talent=talent, talent_lvl=talent_lvl, loadout=loadout)
+    finally:
+        conn.close()
+
+
+@mcp.tool()
+def related(query: str) -> dict:
+    """Cross-reference any name: resolve whether it is a hero, a skill, or a
+    catalog item, and return what connects to it (a skill points to the heroes
+    that use it, a hero points to its skill, an item points to its system)."""
+    conn = _conn()
+    try:
+        return crossref.related(conn, query)
     finally:
         conn.close()
 
